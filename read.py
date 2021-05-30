@@ -1,4 +1,5 @@
 import os
+import re
 import json 
 import unidecode
 import requests as req
@@ -29,7 +30,10 @@ def read_esocial_tabelas(path, url):
     
     for n in range(len(table_names)):
         table_name = table_names[n]
-        table = pd.read_html(str(tables[n]), header=1)[0]
+        header = 1
+        if re.sub('[^0-9]', '', table_name) in ['11', '12', '22',]:
+            header = 2
+        table = pd.read_html(str(tables[n]), header=header)[0]
         table.columns = [unidecode.unidecode(c).lower() for c in table.columns]
          
         dictionary = {
@@ -47,7 +51,8 @@ def read_esocial_tabelas(path, url):
 
 if __name__ == "__main__":
     eventos = [
-        ['v_S_01_00_00', 'https://www.gov.br/esocial/pt-br/documentacao-tecnica/leiautes-esocial-nt-01-2021-html/index.html/tabelas.html'],
+        ['v_S_01_00_00', 
+         'https://www.gov.br/esocial/pt-br/documentacao-tecnica/leiautes-esocial-nt-01-2021-html/index.html/tabelas.html'],
     ]
     for evt in eventos:
         read_esocial_tabelas(evt[0], evt[1])
