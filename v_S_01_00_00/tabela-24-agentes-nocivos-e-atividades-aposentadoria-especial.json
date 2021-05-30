@@ -1,0 +1,501 @@
+{
+    "name": "Tabela 24 - Agentes Nocivos e Atividades - Aposentadoria Especial",
+    "content": [
+        {
+            "codigo": "QUÍMICOS",
+            "agente nocivo": "QUÍMICOS"
+        },
+        {
+            "codigo": "ARSÊNIO E SEUS COMPOSTOS",
+            "agente nocivo": "ARSÊNIO E SEUS COMPOSTOS"
+        },
+        {
+            "codigo": "01.01.001",
+            "agente nocivo": "Arsênio e seus compostos"
+        },
+        {
+            "codigo": "ASBESTOS",
+            "agente nocivo": "ASBESTOS"
+        },
+        {
+            "codigo": "01.02.001",
+            "agente nocivo": "Asbestos (ou amianto)"
+        },
+        {
+            "codigo": "BENZENO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "BENZENO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.03.001",
+            "agente nocivo": "Benzeno e seus compostos tóxicos (exceto os abaixo especificados, que constam expressamente no Anexo IV do Decreto 3.048/1999)"
+        },
+        {
+            "codigo": "01.03.002",
+            "agente nocivo": "Estireno (vinilbenzeno)"
+        },
+        {
+            "codigo": "BERÍLIO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "BERÍLIO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.04.001",
+            "agente nocivo": "Berílio e seus compostos tóxicos"
+        },
+        {
+            "codigo": "BROMO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "BROMO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.05.001",
+            "agente nocivo": "Bromo e seus compostos tóxicos"
+        },
+        {
+            "codigo": "CÁDMIO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "CÁDMIO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.06.001",
+            "agente nocivo": "Cádmio e seus compostos tóxicos"
+        },
+        {
+            "codigo": "CARVÃO MINERAL E SEUS DERIVADOS",
+            "agente nocivo": "CARVÃO MINERAL E SEUS DERIVADOS"
+        },
+        {
+            "codigo": "01.07.001",
+            "agente nocivo": "Carvão mineral e seus derivados"
+        },
+        {
+            "codigo": "CHUMBO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "CHUMBO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.08.001",
+            "agente nocivo": "Chumbo e seus compostos tóxicos"
+        },
+        {
+            "codigo": "CLORO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "CLORO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.09.001",
+            "agente nocivo": "Cloro e seus compostos tóxicos (exceto os abaixo especificados, que constam expressamente no Anexo IV do Decreto 3.048/1999)"
+        },
+        {
+            "codigo": "01.09.002",
+            "agente nocivo": "Metileno-ortocloroanilina, MOCA® (4,4'-metileno-bis-(2-cloroanilina), MBOCA®)"
+        },
+        {
+            "codigo": "01.09.003",
+            "agente nocivo": "Bis (cloro metil) éter, clorometileter, (éter bis (clorometílico) ou éter metílico de clorometila)"
+        },
+        {
+            "codigo": "01.09.004",
+            "agente nocivo": "Biscloroetileter (éter dicloroetílico)"
+        },
+        {
+            "codigo": "01.09.005",
+            "agente nocivo": "Clorambucil (cloroambucil)"
+        },
+        {
+            "codigo": "01.09.006",
+            "agente nocivo": "Cloropreno"
+        },
+        {
+            "codigo": "CROMO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "CROMO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.10.001",
+            "agente nocivo": "Cromo e seus compostos tóxicos"
+        },
+        {
+            "codigo": "DISSULFETO DE CARBONO",
+            "agente nocivo": "DISSULFETO DE CARBONO"
+        },
+        {
+            "codigo": "01.11.001",
+            "agente nocivo": "Dissulfeto de carbono"
+        },
+        {
+            "codigo": "FÓSFORO E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "FÓSFORO E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.12.001",
+            "agente nocivo": "Fósforo e seus compostos tóxicos"
+        },
+        {
+            "codigo": "IODO",
+            "agente nocivo": "IODO"
+        },
+        {
+            "codigo": "01.13.001",
+            "agente nocivo": "Iodo"
+        },
+        {
+            "codigo": "MANGANÊS E SEUS COMPOSTOS",
+            "agente nocivo": "MANGANÊS E SEUS COMPOSTOS"
+        },
+        {
+            "codigo": "01.14.001",
+            "agente nocivo": "Manganês e seus compostos"
+        },
+        {
+            "codigo": "MERCÚRIO E SEUS COMPOSTOS",
+            "agente nocivo": "MERCÚRIO E SEUS COMPOSTOS"
+        },
+        {
+            "codigo": "01.15.001",
+            "agente nocivo": "Mercúrio e seus compostos"
+        },
+        {
+            "codigo": "NÍQUEL E SEUS COMPOSTOS TÓXICOS",
+            "agente nocivo": "NÍQUEL E SEUS COMPOSTOS TÓXICOS"
+        },
+        {
+            "codigo": "01.16.001",
+            "agente nocivo": "Níquel e seus compostos tóxicos"
+        },
+        {
+            "codigo": "PETRÓLEO, XISTO BETUMINOSO, GÁS NATURAL E SEUS DERIVADOS",
+            "agente nocivo": "PETRÓLEO, XISTO BETUMINOSO, GÁS NATURAL E SEUS DERIVADOS"
+        },
+        {
+            "codigo": "01.17.001",
+            "agente nocivo": "Petróleo, xisto betuminoso, gás natural e seus derivados"
+        },
+        {
+            "codigo": "SÍLICA LIVRE",
+            "agente nocivo": "SÍLICA LIVRE"
+        },
+        {
+            "codigo": "01.18.001",
+            "agente nocivo": "Sílica livre"
+        },
+        {
+            "codigo": "OUTRAS SUBSTÂNCIAS QUÍMICAS",
+            "agente nocivo": "OUTRAS SUBSTÂNCIAS QUÍMICAS"
+        },
+        {
+            "codigo": "01.19.001",
+            "agente nocivo": "Butadieno-estireno"
+        },
+        {
+            "codigo": "01.19.002",
+            "agente nocivo": "Acrilonitrila"
+        },
+        {
+            "codigo": "01.19.003",
+            "agente nocivo": "1-3-butadieno"
+        },
+        {
+            "codigo": "01.19.004",
+            "agente nocivo": "Mercaptanos (tióis)"
+        },
+        {
+            "codigo": "01.19.005",
+            "agente nocivo": "n-hexano"
+        },
+        {
+            "codigo": "01.19.006",
+            "agente nocivo": "Diisocianato de tolueno (TDI)"
+        },
+        {
+            "codigo": "01.19.007",
+            "agente nocivo": "Aminas aromáticas"
+        },
+        {
+            "codigo": "01.19.008",
+            "agente nocivo": "Aminobifenila"
+        },
+        {
+            "codigo": "01.19.009",
+            "agente nocivo": "Auramina"
+        },
+        {
+            "codigo": "01.19.010",
+            "agente nocivo": "Azatioprina"
+        },
+        {
+            "codigo": "01.19.011",
+            "agente nocivo": "1-4-butanodiol"
+        },
+        {
+            "codigo": "01.19.012",
+            "agente nocivo": "Dimetanosulfonato (MIRELAN)"
+        },
+        {
+            "codigo": "01.19.013",
+            "agente nocivo": "Ciclofosfamida"
+        },
+        {
+            "codigo": "01.19.014",
+            "agente nocivo": "Dietiletil-bestrol"
+        },
+        {
+            "codigo": "01.19.015",
+            "agente nocivo": "Acronitrila"
+        },
+        {
+            "codigo": "01.19.016",
+            "agente nocivo": "Nitronaftilamina"
+        },
+        {
+            "codigo": "01.19.017",
+            "agente nocivo": "4-dimetil-aminoazobenzeno"
+        },
+        {
+            "codigo": "01.19.018",
+            "agente nocivo": "Benzopireno"
+        },
+        {
+            "codigo": "01.19.019",
+            "agente nocivo": "Beta-pbiscloromeropiolactona (beta-propiolactona)"
+        },
+        {
+            "codigo": "01.19.020",
+            "agente nocivo": "Bisclorometil"
+        },
+        {
+            "codigo": "01.19.021",
+            "agente nocivo": "Dianizidina"
+        },
+        {
+            "codigo": "01.19.022",
+            "agente nocivo": "Dietilsulfato"
+        },
+        {
+            "codigo": "01.19.023",
+            "agente nocivo": "Dimetilsulfato"
+        },
+        {
+            "codigo": "01.19.024",
+            "agente nocivo": "Etilenoamina"
+        },
+        {
+            "codigo": "01.19.025",
+            "agente nocivo": "Etilenotiureia"
+        },
+        {
+            "codigo": "01.19.026",
+            "agente nocivo": "Fenacetina"
+        },
+        {
+            "codigo": "01.19.027",
+            "agente nocivo": "Iodeto de metila"
+        },
+        {
+            "codigo": "01.19.028",
+            "agente nocivo": "Etilnitrosureia"
+        },
+        {
+            "codigo": "01.19.029",
+            "agente nocivo": "Nitrosamina"
+        },
+        {
+            "codigo": "01.19.030",
+            "agente nocivo": "Ortotoluidina"
+        },
+        {
+            "codigo": "01.19.031",
+            "agente nocivo": "Oximetalona (oxime-talona)"
+        },
+        {
+            "codigo": "01.19.032",
+            "agente nocivo": "Procarbazina"
+        },
+        {
+            "codigo": "01.19.033",
+            "agente nocivo": "Propanosultona"
+        },
+        {
+            "codigo": "01.19.034",
+            "agente nocivo": "Óxido de etileno"
+        },
+        {
+            "codigo": "01.19.035",
+            "agente nocivo": "Estilbenzeno"
+        },
+        {
+            "codigo": "01.19.036",
+            "agente nocivo": "Creosoto"
+        },
+        {
+            "codigo": "01.19.037",
+            "agente nocivo": "4-aminodifenil"
+        },
+        {
+            "codigo": "01.19.038",
+            "agente nocivo": "Benzidina"
+        },
+        {
+            "codigo": "01.19.039",
+            "agente nocivo": "Betanaftilamina"
+        },
+        {
+            "codigo": "01.19.040",
+            "agente nocivo": "1-cloro-2,4-nitrodifenil"
+        },
+        {
+            "codigo": "01.19.041",
+            "agente nocivo": "3-poxipro-pano"
+        },
+        {
+            "codigo": "FÍSICOS",
+            "agente nocivo": "FÍSICOS"
+        },
+        {
+            "codigo": "RUÍDO",
+            "agente nocivo": "RUÍDO"
+        },
+        {
+            "codigo": "02.01.001",
+            "agente nocivo": "Ruído"
+        },
+        {
+            "codigo": "VIBRAÇÕES",
+            "agente nocivo": "VIBRAÇÕES"
+        },
+        {
+            "codigo": "02.01.002",
+            "agente nocivo": "Vibrações localizadas (mão-braço)"
+        },
+        {
+            "codigo": "02.01.003",
+            "agente nocivo": "Vibração de corpo inteiro (aceleração resultante de exposição normalizada - aren)"
+        },
+        {
+            "codigo": "02.01.004",
+            "agente nocivo": "Vibração de corpo inteiro (Valor da Dose de Vibração Resultante - VDVR)"
+        },
+        {
+            "codigo": "02.01.005",
+            "agente nocivo": "Trabalhos com perfuratrizes e marteletes pneumáticos"
+        },
+        {
+            "codigo": "RADIAÇÕES IONIZANTES",
+            "agente nocivo": "RADIAÇÕES IONIZANTES"
+        },
+        {
+            "codigo": "02.01.006",
+            "agente nocivo": "Radiações ionizantes"
+        },
+        {
+            "codigo": "02.01.007",
+            "agente nocivo": "Extração e beneficiamento de minerais radioativos"
+        },
+        {
+            "codigo": "02.01.008",
+            "agente nocivo": "Atividades em minerações com exposição ao radônio"
+        },
+        {
+            "codigo": "02.01.009",
+            "agente nocivo": "Realização de manutenção e supervisão em unidades de extração, tratamento e beneficiamento de minerais radioativos com exposição às radiações ionizantes"
+        },
+        {
+            "codigo": "02.01.010",
+            "agente nocivo": "Operações com reatores nucleares ou com fontes radioativas"
+        },
+        {
+            "codigo": "02.01.011",
+            "agente nocivo": "Trabalhos realizados com exposição aos raios Alfa, Beta, Gama e X, aos nêutrons e às substâncias radioativas para fins industriais, terapêuticos e diagnósticos"
+        },
+        {
+            "codigo": "02.01.012",
+            "agente nocivo": "Fabricação e manipulação de produtos radioativos"
+        },
+        {
+            "codigo": "02.01.013",
+            "agente nocivo": "Pesquisas e estudos com radiações ionizantes em laboratórios"
+        },
+        {
+            "codigo": "TEMPERATURAS ANORMAIS",
+            "agente nocivo": "TEMPERATURAS ANORMAIS"
+        },
+        {
+            "codigo": "02.01.014",
+            "agente nocivo": "Trabalhos com exposição ao calor acima dos limites de tolerância estabelecidos na NR-15, da Portaria 3.214/1978"
+        },
+        {
+            "codigo": "PRESSÃO ATMOSFÉRICA ANORMAL",
+            "agente nocivo": "PRESSÃO ATMOSFÉRICA ANORMAL"
+        },
+        {
+            "codigo": "02.01.015",
+            "agente nocivo": "Pressão atmosférica anormal"
+        },
+        {
+            "codigo": "02.01.016",
+            "agente nocivo": "Trabalhos em caixões ou câmaras hiperbáricas"
+        },
+        {
+            "codigo": "02.01.017",
+            "agente nocivo": "Trabalhos em tubulões ou túneis sob ar comprimido"
+        },
+        {
+            "codigo": "02.01.018",
+            "agente nocivo": "Operações de mergulho com o uso de escafandros ou outros equipamentos"
+        },
+        {
+            "codigo": "BIOLÓGICOS",
+            "agente nocivo": "BIOLÓGICOS"
+        },
+        {
+            "codigo": "03.01.001",
+            "agente nocivo": "Trabalhos em estabelecimentos de saúde com contato com pacientes portadores de doenças infectocontagiosas ou com manuseio de materiais contaminados"
+        },
+        {
+            "codigo": "03.01.002",
+            "agente nocivo": "Trabalhos com animais infectados para tratamento ou para o preparo de soro, vacinas e outros produtos"
+        },
+        {
+            "codigo": "03.01.003",
+            "agente nocivo": "Trabalhos em laboratórios de autópsia, de anatomia e anátomo-histologia"
+        },
+        {
+            "codigo": "03.01.004",
+            "agente nocivo": "Trabalho de exumação de corpos e manipulação de resíduos de animais deteriorados"
+        },
+        {
+            "codigo": "03.01.005",
+            "agente nocivo": "Trabalhos em galerias, fossas e tranques de esgoto"
+        },
+        {
+            "codigo": "03.01.006",
+            "agente nocivo": "Esvaziamento de biodigestores"
+        },
+        {
+            "codigo": "03.01.007",
+            "agente nocivo": "Coleta e industrialização do lixo"
+        },
+        {
+            "codigo": "ASSOCIAÇÃO DE AGENTES NOCIVOS FÍSICOS, QUÍMICOS E BIOLÓGICOS",
+            "agente nocivo": "ASSOCIAÇÃO DE AGENTES NOCIVOS FÍSICOS, QUÍMICOS E BIOLÓGICOS"
+        },
+        {
+            "codigo": "04.01.001",
+            "agente nocivo": "Mineração subterrânea cujas atividades sejam exercidas afastadas das frentes de produção"
+        },
+        {
+            "codigo": "04.01.002",
+            "agente nocivo": "Trabalhos em atividades permanentes no subsolo de minerações subterrâneas em frente de produção"
+        },
+        {
+            "codigo": "OUTROS AGENTES NOCIVOS",
+            "agente nocivo": "OUTROS AGENTES NOCIVOS"
+        },
+        {
+            "codigo": "05.01.001",
+            "agente nocivo": "Agentes nocivos não constantes no Anexo IV do Decreto 3.048/1999 e incluídos por força de decisão judicial ou administrativa"
+        },
+        {
+            "codigo": "AUSÊNCIA DE AGENTES NOCIVOS OU ATIVIDADES ESPECIAIS",
+            "agente nocivo": "AUSÊNCIA DE AGENTES NOCIVOS OU ATIVIDADES ESPECIAIS"
+        },
+        {
+            "codigo": "09.01.001",
+            "agente nocivo": "Ausência de agente nocivo ou de atividades previstas no Anexo IV do Decreto 3.048/1999"
+        }
+    ]
+}

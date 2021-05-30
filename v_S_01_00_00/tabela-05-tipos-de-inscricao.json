@@ -1,0 +1,29 @@
+{
+    "name": "Tabela 05 - Tipos de Inscrição",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "CNPJ"
+        },
+        {
+            "codigo": 2,
+            "descricao": "CPF"
+        },
+        {
+            "codigo": 3,
+            "descricao": "CAEPF (Cadastro de Atividade Econômica de Pessoa Física)"
+        },
+        {
+            "codigo": 4,
+            "descricao": "CNO (Cadastro Nacional de Obra)"
+        },
+        {
+            "codigo": 5,
+            "descricao": "CGC"
+        },
+        {
+            "codigo": 6,
+            "descricao": "CEI"
+        }
+    ]
+}

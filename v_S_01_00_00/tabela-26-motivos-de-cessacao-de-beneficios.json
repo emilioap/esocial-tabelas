@@ -1,0 +1,49 @@
+{
+    "name": "Tabela 26 - Motivos de Cessação de Benefícios",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "Óbito"
+        },
+        {
+            "codigo": 2,
+            "descricao": "Reversão"
+        },
+        {
+            "codigo": 3,
+            "descricao": "Por decisão judicial"
+        },
+        {
+            "codigo": 4,
+            "descricao": "Cassação"
+        },
+        {
+            "codigo": 5,
+            "descricao": "Término do prazo do benefício"
+        },
+        {
+            "codigo": 6,
+            "descricao": "Extinção de quota"
+        },
+        {
+            "codigo": 7,
+            "descricao": "Não homologado pelo Tribunal de Contas"
+        },
+        {
+            "codigo": 8,
+            "descricao": "Renúncia expressa"
+        },
+        {
+            "codigo": 9,
+            "descricao": "Transferência de órgão administrador"
+        },
+        {
+            "codigo": 10,
+            "descricao": "Mudança de CPF do beneficiário"
+        },
+        {
+            "codigo": 11,
+            "descricao": "Não recadastramento"
+        }
+    ]
+}

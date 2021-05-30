@@ -1,0 +1,97 @@
+{
+    "name": "Tabela 28 - Treinamentos, Capacitações, Exercícios Simulados e Outras Anotações",
+    "content": [
+        {
+            "codigo": "TREINAMENTOS, CAPACITAÇÕES E EXERCÍCIOS SIMULADOS - REGISTRO OBRIGATÓRIO",
+            "treinamento/capacitacao/exercicio simulado": "TREINAMENTOS, CAPACITAÇÕES E EXERCÍCIOS SIMULADOS - REGISTRO OBRIGATÓRIO"
+        },
+        {
+            "codigo": "3701",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento antes do primeiro embarque"
+        },
+        {
+            "codigo": "3702",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento antes do primeiro embarque - Reciclagem"
+        },
+        {
+            "codigo": "3703",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento eventual"
+        },
+        {
+            "codigo": "3704",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento básico"
+        },
+        {
+            "codigo": "3705",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento básico - Reciclagem"
+        },
+        {
+            "codigo": "3706",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento avançado"
+        },
+        {
+            "codigo": "3707",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento avançado - Reciclagem"
+        },
+        {
+            "codigo": "3708",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento específico - Empregado integrante da brigada de incêndio"
+        },
+        {
+            "codigo": "3709",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento específico - Riscos radiológicos da plataforma"
+        },
+        {
+            "codigo": "3710",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento específico - Empregado integrante de equipe de resposta a emergências"
+        },
+        {
+            "codigo": "3711",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Sinaleiro (reciclagem)"
+        },
+        {
+            "codigo": "3712",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Operador de guindaste (reciclagem)"
+        },
+        {
+            "codigo": "3713",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Curso Básico para Manipulador de Alimentos"
+        },
+        {
+            "codigo": "3714",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Curso complementar para serviços em instalações elétricas em alta tensão"
+        },
+        {
+            "codigo": "3715",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Curso básico de segurança em operações de movimentação de cargas e transporte de pessoas"
+        },
+        {
+            "codigo": "3716",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Curso complementar para operadores de guindastes"
+        },
+        {
+            "codigo": "3717",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Curso para indivíduos ocupacionalmente expostos à radiação ionizante"
+        },
+        {
+            "codigo": "3718",
+            "treinamento/capacitacao/exercicio simulado": "Treinamento - Procedimento operacional - Acendimento da chama piloto"
+        },
+        {
+            "codigo": "OUTRAS ANOTAÇÕES - REGISTRO OBRIGATÓRIO",
+            "treinamento/capacitacao/exercicio simulado": "OUTRAS ANOTAÇÕES - REGISTRO OBRIGATÓRIO"
+        },
+        {
+            "codigo": "1006",
+            "treinamento/capacitacao/exercicio simulado": "Autorização para trabalhar em instalações elétricas"
+        },
+        {
+            "codigo": "1207",
+            "treinamento/capacitacao/exercicio simulado": "Operação e realização de intervenções em máquinas"
+        },
+        {
+            "codigo": "3719",
+            "treinamento/capacitacao/exercicio simulado": "Operador do equipamento de guindar"
+        }
+    ]
+}

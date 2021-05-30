@@ -1,0 +1,225 @@
+{
+    "name": "Tabela 01 - Categorias de Trabalhadores",
+    "content": [
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 101,
+            "descricao": "Empregado - Geral, inclusive o empregado público da administração direta ou indireta contratado pela CLT"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 102,
+            "descricao": "Empregado - Trabalhador rural por pequeno prazo da Lei 11.718/2008"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 103,
+            "descricao": "Empregado - Aprendiz"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 104,
+            "descricao": "Empregado - Doméstico"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 105,
+            "descricao": "Empregado - Contrato a termo firmado nos termos da Lei 9.601/1998"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 106,
+            "descricao": "Trabalhador temporário - Contrato nos termos da Lei 6.019/1974"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 107,
+            "descricao": "Empregado - Contrato de trabalho Verde e Amarelo - sem acordo para antecipação mensal da multa rescisória do FGTS"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 108,
+            "descricao": "Empregado - Contrato de trabalho Verde e Amarelo - com acordo para antecipação mensal da multa rescisória do FGTS"
+        },
+        {
+            "grupo": "Empregado e Trabalhador Temporário",
+            "codigo": 111,
+            "descricao": "Empregado - Contrato de trabalho intermitente"
+        },
+        {
+            "grupo": "Avulso",
+            "codigo": 201,
+            "descricao": "Trabalhador avulso portuário"
+        },
+        {
+            "grupo": "Avulso",
+            "codigo": 202,
+            "descricao": "Trabalhador avulso não portuário"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 301,
+            "descricao": "Servidor público titular de cargo efetivo, magistrado, ministro de Tribunal de Contas, conselheiro de Tribunal de Contas e membro do Ministério Público"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 302,
+            "descricao": "Servidor público ocupante de cargo exclusivo em comissão"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 303,
+            "descricao": "Exercente de mandato eletivo"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 304,
+            "descricao": "Servidor público exercente de mandato eletivo, inclusive com exercício de cargo em comissão"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 305,
+            "descricao": "Servidor público indicado para conselho ou órgão deliberativo, na condição de representante do governo, órgão ou entidade da administração pública"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 306,
+            "descricao": "Servidor público contratado por tempo determinado, sujeito a regime administrativo especial definido em lei própria"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 307,
+            "descricao": "Militar"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 308,
+            "descricao": "Conscrito"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 309,
+            "descricao": "Agente público - Outros"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 310,
+            "descricao": "Servidor público eventual"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 311,
+            "descricao": "Ministros, juízes, procuradores, promotores ou oficiais de justiça à disposição da Justiça Eleitoral"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 312,
+            "descricao": "Auxiliar local"
+        },
+        {
+            "grupo": "Agente Público",
+            "codigo": 313,
+            "descricao": "Servidor público exercente de atividade de instrutoria, capacitação, treinamento, curso ou concurso, ou convocado para pareceres técnicos ou depoimentos"
+        },
+        {
+            "grupo": "Cessão",
+            "codigo": 401,
+            "descricao": "Dirigente Sindical - informação prestada pelo sindicato"
+        },
+        {
+            "grupo": "Cessão",
+            "codigo": 410,
+            "descricao": "Trabalhador cedido/exercício em outro órgão/juiz auxiliar - Informação prestada pelo cessionário/destino"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 701,
+            "descricao": "Contribuinte individual - Autônomo em geral, exceto se enquadrado em uma das demais categorias de contribuinte individual"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 711,
+            "descricao": "Contribuinte individual - Transportador autônomo de passageiros"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 712,
+            "descricao": "Contribuinte individual - Transportador autônomo de carga"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 721,
+            "descricao": "Contribuinte individual - Diretor não empregado, com FGTS"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 722,
+            "descricao": "Contribuinte individual - Diretor não empregado, sem FGTS"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 723,
+            "descricao": "Contribuinte individual - Empresário, sócio e membro de conselho de administração ou fiscal"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 731,
+            "descricao": "Contribuinte individual - Cooperado que presta serviços por intermédio de cooperativa de trabalho"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 734,
+            "descricao": "Contribuinte individual - Transportador cooperado que presta serviços por intermédio de cooperativa de trabalho"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 738,
+            "descricao": "Contribuinte individual - Cooperado filiado a cooperativa de produção"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 741,
+            "descricao": "Contribuinte individual - Microempreendedor individual"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 751,
+            "descricao": "Contribuinte individual - Magistrado classista temporário da Justiça do Trabalho ou da Justiça Eleitoral que seja aposentado de qualquer regime previdenciário"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 761,
+            "descricao": "Contribuinte individual - Associado eleito para direção de cooperativa, associação ou entidade de classe de qualquer natureza ou finalidade, bem como o síndico ou administrador eleito para exercer atividade de direção condominial, desde que recebam remuneração"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 771,
+            "descricao": "Contribuinte individual - Membro de conselho tutelar, nos termos da Lei 8.069/1990"
+        },
+        {
+            "grupo": "Contribuinte Individual",
+            "codigo": 781,
+            "descricao": "Ministro de confissão religiosa ou membro de vida consagrada, de congregação ou de ordem religiosa"
+        },
+        {
+            "grupo": "Bolsista",
+            "codigo": 901,
+            "descricao": "Estagiário"
+        },
+        {
+            "grupo": "Bolsista",
+            "codigo": 902,
+            "descricao": "Médico residente"
+        },
+        {
+            "grupo": "Bolsista",
+            "codigo": 903,
+            "descricao": "Bolsista, nos termos da Lei 8.958/1994"
+        },
+        {
+            "grupo": "Bolsista",
+            "codigo": 904,
+            "descricao": "Participante de curso de formação, como etapa de concurso público, sem vínculo de emprego/estatutário"
+        }
+    ]
+}

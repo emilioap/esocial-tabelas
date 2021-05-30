@@ -1,0 +1,75 @@
+{
+    "name": "Tabela 10 - Tipos de Lotação Tributária",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "Classificação da atividade econômica exercida pela Pessoa Jurídica para fins de atribuição de código FPAS, inclusive obras de construção civil própria, exceto:a) empreitada parcial ou sub-empreitada de obra de construção civil (utilizar opção 02);b) prestação de serviços em instalações de terceiros (utilizar opções 03 a 09);c) Embarcação inscrita no Registro Especial Brasileiro - REB (utilizar opção 10)",
+            "preenchimento do campo {nrinsc}": "Não preencher"
+        },
+        {
+            "codigo": 2,
+            "descricao": "Obra de construção civil - Empreitada parcial ou subempreitada",
+            "preenchimento do campo {nrinsc}": "CNO da obra - A informação do CNPJ/CPF do contratante é prestada no grupo {infoEmprParcial}"
+        },
+        {
+            "codigo": 3,
+            "descricao": "Pessoa Física tomadora de serviços prestados mediante cessão de mão de obra, exceto contratante de cooperativa",
+            "preenchimento do campo {nrinsc}": "CPF do contratante"
+        },
+        {
+            "codigo": 4,
+            "descricao": "Pessoa Jurídica tomadora de serviços prestados mediante cessão de mão de obra, exceto contratante de cooperativa, nos termos da Lei 8.212/1991",
+            "preenchimento do campo {nrinsc}": "CNPJ do estabelecimento contratante"
+        },
+        {
+            "codigo": 5,
+            "descricao": "Pessoa Jurídica tomadora de serviços prestados por cooperados por intermédio de cooperativa de trabalho, exceto aqueles prestados a entidade beneficente/isenta",
+            "preenchimento do campo {nrinsc}": "CNPJ do estabelecimento contratante"
+        },
+        {
+            "codigo": 6,
+            "descricao": "Entidade beneficente/isenta tomadora de serviços prestados por cooperados por intermédio de cooperativa de trabalho",
+            "preenchimento do campo {nrinsc}": "CNPJ do estabelecimento contratante"
+        },
+        {
+            "codigo": 7,
+            "descricao": "Pessoa Física tomadora de serviços prestados por cooperados por intermédio de cooperativa de trabalho",
+            "preenchimento do campo {nrinsc}": "CPF do contratante"
+        },
+        {
+            "codigo": 8,
+            "descricao": "Operador portuário tomador de serviços de trabalhadores avulsos",
+            "preenchimento do campo {nrinsc}": "CNPJ do operador portuário"
+        },
+        {
+            "codigo": 9,
+            "descricao": "Contratante de trabalhadores avulsos não portuários por intermédio de sindicato",
+            "preenchimento do campo {nrinsc}": "CNPJ ou CPF do contratante"
+        },
+        {
+            "codigo": 10,
+            "descricao": "Embarcação inscrita no Registro Especial Brasileiro - REB",
+            "preenchimento do campo {nrinsc}": "Não preencher"
+        },
+        {
+            "codigo": 21,
+            "descricao": "Classificação da atividade econômica ou obra própria de construção civil da Pessoa Física",
+            "preenchimento do campo {nrinsc}": "Não preencher"
+        },
+        {
+            "codigo": 24,
+            "descricao": "Empregador doméstico",
+            "preenchimento do campo {nrinsc}": "Não preencher"
+        },
+        {
+            "codigo": 90,
+            "descricao": "Atividades desenvolvidas no exterior por trabalhador vinculado ao Regime Geral de Previdência Social (expatriados)",
+            "preenchimento do campo {nrinsc}": "Não preencher"
+        },
+        {
+            "codigo": 91,
+            "descricao": "Atividades desenvolvidas por trabalhador estrangeiro vinculado a Regime de Previdência Social no exterior",
+            "preenchimento do campo {nrinsc}": "Não preencher"
+        }
+    ]
+}

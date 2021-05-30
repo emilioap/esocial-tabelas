@@ -1,0 +1,49 @@
+{
+    "name": "Tabela 07 - Tipos de Dependente",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "Cônjuge"
+        },
+        {
+            "codigo": 2,
+            "descricao": "Companheiro(a) com o(a) qual tenha filho ou viva há mais de 5 (cinco) anos ou possua declaração de união estável"
+        },
+        {
+            "codigo": 3,
+            "descricao": "Filho(a) ou enteado(a)"
+        },
+        {
+            "codigo": 4,
+            "descricao": "Filho(a) ou enteado(a), universitário(a) ou cursando escola técnica de 2º grau"
+        },
+        {
+            "codigo": 6,
+            "descricao": "Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, do(a) qual detenha a guarda judicial"
+        },
+        {
+            "codigo": 7,
+            "descricao": "Irmão(ã), neto(a) ou bisneto(a) sem arrimo dos pais, universitário(a) ou cursando escola técnica de 2° grau, do(a) qual detenha a guarda judicial"
+        },
+        {
+            "codigo": 9,
+            "descricao": "Pais, avós e bisavós"
+        },
+        {
+            "codigo": 10,
+            "descricao": "Menor pobre do qual detenha a guarda judicial"
+        },
+        {
+            "codigo": 11,
+            "descricao": "A pessoa absolutamente incapaz, da qual seja tutor ou curador"
+        },
+        {
+            "codigo": 12,
+            "descricao": "Ex-cônjuge"
+        },
+        {
+            "codigo": 99,
+            "descricao": "Agregado/Outros"
+        }
+    ]
+}

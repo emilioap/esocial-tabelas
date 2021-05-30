@@ -1,0 +1,271 @@
+{
+    "name": "Tabela 18 - Motivos de Afastamento",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "Acidente/doença do trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 3,
+            "descricao": "Acidente/doença não relacionada ao trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 5,
+            "descricao": "Afastamento/licença de servidor público prevista em estatuto, sem remuneração",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[3XX]"
+        },
+        {
+            "codigo": 6,
+            "descricao": "Aposentadoria por invalidez",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX]"
+        },
+        {
+            "codigo": 7,
+            "descricao": "Acompanhamento - Licença para acompanhamento de membro da família enfermo",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 8,
+            "descricao": "Afastamento do empregado para participar de atividade do Conselho Curador do FGTS - Art. 65, § 6º, do Decreto 99.684/1990 (Regulamento do FGTS)",
+            "inicio": "01/01/2014",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 10,
+            "descricao": "Afastamento/licença de servidor público prevista em estatuto, com remuneração",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[3XX]"
+        },
+        {
+            "codigo": 11,
+            "descricao": "Cárcere",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 12,
+            "descricao": "Cargo eletivo - Candidato a cargo eletivo - Art. 25, parágrafo único, da Lei 7.664/1988 - Celetistas em geral",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX]"
+        },
+        {
+            "codigo": 13,
+            "descricao": "Cargo eletivo - Candidato a cargo eletivo - Art. 1°, inciso II, alínea \"l\" da Lei Complementar 64/1990 - Servidor público, estatutário ou não, dos órgãos ou entidades da Administração Direta ou Indireta da União, dos Estados, do Distrito Federal, dos Municípios e dos Territórios, inclusive das fundações mantidas pelo Poder Público",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX, 3XX]"
+        },
+        {
+            "codigo": 14,
+            "descricao": "Cessão/Requisição",
+            "inicio": "01/01/2014",
+            "termino": "09/03/2022",
+            "cod. categ.": "[1XX, 301, 302, 303, 306, 307, 309, 310, 312]"
+        },
+        {
+            "codigo": 15,
+            "descricao": "Gozo de férias ou recesso - Afastamento temporário para o gozo de férias ou recesso",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 16,
+            "descricao": "Licença remunerada - Lei, liberalidade da empresa ou Acordo/Convenção Coletiva de Trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 17,
+            "descricao": "Licença maternidade - 120 dias e suas prorrogações/antecipações, inclusive para o cônjuge sobrevivente",
+            "inicio": "01/01/2014",
+            "termino": "30/06/2018",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 17,
+            "descricao": "Licença maternidade - 120 dias, inclusive para o cônjuge sobrevivente",
+            "inicio": "01/07/2018",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 17,
+            "descricao": "Licença maternidade",
+            "inicio": "10/05/2021",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 18,
+            "descricao": "Licença maternidade - Prorrogação por 60 dias, Lei 11.770/2008 (Empresa Cidadã), inclusive para o cônjuge sobrevivente",
+            "inicio": "01/01/2018",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 19,
+            "descricao": "Licença maternidade - Afastamento temporário por motivo de aborto não criminoso",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 20,
+            "descricao": "Licença maternidade - Afastamento temporário por motivo de licença-maternidade decorrente de adoção ou guarda judicial de criança, inclusive para o cônjuge sobrevivente",
+            "inicio": "01/01/2014",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 20,
+            "descricao": "Licença maternidade - Afastamento temporário por motivo de licença-maternidade para o cônjuge sobrevivente ou decorrente de adoção ou de guarda judicial de criança",
+            "inicio": "10/05/2021",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 21,
+            "descricao": "Licença não remunerada ou sem vencimento",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 22,
+            "descricao": "Mandato eleitoral - Afastamento temporário para o exercício de mandato eleitoral, sem remuneração",
+            "inicio": "01/01/2014",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 22,
+            "descricao": "Mandato eleitoral - Afastamento temporário para o exercício de mandato eleitoral",
+            "inicio": "10/05/2021",
+            "termino": "-",
+            "cod. categ.": "[1XX, 3XX]"
+        },
+        {
+            "codigo": 23,
+            "descricao": "Mandato eleitoral - Afastamento temporário para o exercício de mandato eleitoral, com remuneração",
+            "inicio": "01/01/2014",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 24,
+            "descricao": "Mandato sindical - Afastamento temporário para exercício de mandato sindical",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX, 2XX, 3XX, 721]"
+        },
+        {
+            "codigo": 25,
+            "descricao": "Mulher vítima de violência - Art. 9º, § 2º, inciso II, da Lei 11.340/2006 - Lei Maria da Penha",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 26,
+            "descricao": "Participação de empregado no Conselho Nacional de Previdência Social - CNPS - Art. 3º da Lei 8.213/1991",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX]"
+        },
+        {
+            "codigo": 27,
+            "descricao": "Qualificação - Afastamento por suspensão do contrato de acordo com o art. 476-A da CLT",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX]"
+        },
+        {
+            "codigo": 28,
+            "descricao": "Representante sindical - Afastamento pelo tempo que se fizer necessário, quando, na qualidade de representante de entidade sindical, estiver participando de reunião oficial de organismo internacional do qual o Brasil seja membro",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[1XX, 3XX]"
+        },
+        {
+            "codigo": 29,
+            "descricao": "Serviço militar - Afastamento temporário para prestar serviço militar obrigatório",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 30,
+            "descricao": "Suspensão disciplinar - Art. 474 da CLT",
+            "inicio": "01/01/2014",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 31,
+            "descricao": "Servidor público em disponibilidade",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[301, 307]"
+        },
+        {
+            "codigo": 33,
+            "descricao": "Licença maternidade - 180 dias, Lei 13.301/2016",
+            "inicio": "01/06/2016",
+            "termino": "09/05/2021",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 34,
+            "descricao": "Inatividade do trabalhador avulso (portuário ou não portuário) por período superior a 90 dias",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod. categ.": "[2XX]"
+        },
+        {
+            "codigo": 35,
+            "descricao": "Licença maternidade - Antecipação e/ou prorrogação mediante atestado médico",
+            "inicio": "01/07/2018",
+            "termino": "-",
+            "cod. categ.": "Todos"
+        },
+        {
+            "codigo": 36,
+            "descricao": "Afastamento temporário de exercente de mandato eletivo para cargo em comissão",
+            "inicio": "10/05/2021",
+            "termino": "-",
+            "cod. categ.": "[303, 304]"
+        },
+        {
+            "codigo": 37,
+            "descricao": "Suspensão temporária do contrato de trabalho nos termos da Lei 14.020/2020 (conversão da MP 936/2020)",
+            "inicio": "01/04/2020",
+            "termino": "-",
+            "cod. categ.": "[1XX]"
+        },
+        {
+            "codigo": 38,
+            "descricao": "Impedimento de concorrência à escala para trabalho avulso",
+            "inicio": "04/04/2020",
+            "termino": "-",
+            "cod. categ.": "[2XX]"
+        }
+    ]
+}

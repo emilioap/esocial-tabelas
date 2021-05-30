@@ -1,0 +1,273 @@
+{
+    "name": "Tabela 25 - Tipos de Benefícios",
+    "content": [
+        {
+            "codigo": "Grupo 01 - Aposentadoria por Idade e Tempo de Contribuição",
+            "descricao do beneficio": "Grupo 01 - Aposentadoria por Idade e Tempo de Contribuição"
+        },
+        {
+            "codigo": "0101",
+            "descricao do beneficio": "Aposentadoria por idade e tempo de contribuição - Proventos com integralidade, revisão pela paridade"
+        },
+        {
+            "codigo": "0102",
+            "descricao do beneficio": "Aposentadoria por idade e tempo de contribuição - Proventos pela média, reajuste manter valor real"
+        },
+        {
+            "codigo": "0103",
+            "descricao do beneficio": "Aposentadoria por idade - Proventos proporcionais calculado sobre integralidade, revisão pela paridade"
+        },
+        {
+            "codigo": "0104",
+            "descricao do beneficio": "Aposentadoria por idade - Proventos proporcionais calculado sobre a média, reajuste manter valor real"
+        },
+        {
+            "codigo": "0105",
+            "descricao do beneficio": "Aposentadoria compulsória - Proventos proporcionais calculado sobre integralidade, revisão pela paridade"
+        },
+        {
+            "codigo": "0106",
+            "descricao do beneficio": "Aposentadoria compulsória - Proventos proporcionais calculado sobre a média, reajuste manter valor real"
+        },
+        {
+            "codigo": "0107",
+            "descricao do beneficio": "Aposentadoria de professor - Proventos com integralidade, revisão pela paridade"
+        },
+        {
+            "codigo": "0108",
+            "descricao do beneficio": "Aposentadoria de professor - Proventos pela média, reajuste manter valor real"
+        },
+        {
+            "codigo": "0109",
+            "descricao do beneficio": "Aposentadoria de servidor vinculado a RPC - Proventos limitados ao teto do RGPS"
+        },
+        {
+            "codigo": "Grupo 02 - Aposentadoria Especial",
+            "descricao do beneficio": "Grupo 02 - Aposentadoria Especial"
+        },
+        {
+            "codigo": "0201",
+            "descricao do beneficio": "Aposentadoria especial - Risco"
+        },
+        {
+            "codigo": "0202",
+            "descricao do beneficio": "Aposentadoria especial - Exposição a agentes nocivos"
+        },
+        {
+            "codigo": "0203",
+            "descricao do beneficio": "Aposentadoria da pessoa com deficiência"
+        },
+        {
+            "codigo": "0204",
+            "descricao do beneficio": "Aposentadoria especial do policial civil"
+        },
+        {
+            "codigo": "0205",
+            "descricao do beneficio": "Aposentadoria especial - Risco - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS"
+        },
+        {
+            "codigo": "0206",
+            "descricao do beneficio": "Aposentadoria especial - Exposição a agentes nocivos - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS"
+        },
+        {
+            "codigo": "0207",
+            "descricao do beneficio": "Aposentadoria da pessoa com deficiência - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS"
+        },
+        {
+            "codigo": "0208",
+            "descricao do beneficio": "Aposentadoria especial de policial - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS"
+        },
+        {
+            "codigo": "Grupo 03 - Aposentadoria por Invalidez/Incapacidade Permanente",
+            "descricao do beneficio": "Grupo 03 - Aposentadoria por Invalidez/Incapacidade Permanente"
+        },
+        {
+            "codigo": "0301",
+            "descricao do beneficio": "Aposentadoria por invalidez - Proventos com integralidade, revisão pela paridade"
+        },
+        {
+            "codigo": "0302",
+            "descricao do beneficio": "Aposentadoria por invalidez - Proventos pela média, reajuste manter valor real"
+        },
+        {
+            "codigo": "0303",
+            "descricao do beneficio": "Aposentadoria por invalidez - Proventos proporcionais calculado sobre integralidade, revisão pela paridade"
+        },
+        {
+            "codigo": "0304",
+            "descricao do beneficio": "Aposentadoria por invalidez - Proventos proporcionais calculado sobre a média, reajuste manter valor real"
+        },
+        {
+            "codigo": "0305",
+            "descricao do beneficio": "Aposentadoria por invalidez - Servidor vinculado a RPC - Proventos limitados ao teto do RGPS"
+        },
+        {
+            "codigo": "Grupo 04 - Militares (Reforma)",
+            "descricao do beneficio": "Grupo 04 - Militares (Reforma)"
+        },
+        {
+            "codigo": "0401",
+            "descricao do beneficio": "Reforma por invalidez"
+        },
+        {
+            "codigo": "0402",
+            "descricao do beneficio": "Reforma"
+        },
+        {
+            "codigo": "Grupo 05 - Militares (Reserva)",
+            "descricao do beneficio": "Grupo 05 - Militares (Reserva)"
+        },
+        {
+            "codigo": "0501",
+            "descricao do beneficio": "Reserva remunerada compulsória"
+        },
+        {
+            "codigo": "0502",
+            "descricao do beneficio": "Reserva remunerada integral"
+        },
+        {
+            "codigo": "0503",
+            "descricao do beneficio": "Reserva remunerada proporcional"
+        },
+        {
+            "codigo": "Grupo 06 - Pensão por Morte",
+            "descricao do beneficio": "Grupo 06 - Pensão por Morte"
+        },
+        {
+            "codigo": "0601",
+            "descricao do beneficio": "Pensão por morte (art. 40, § 7º, da CF/1988)"
+        },
+        {
+            "codigo": "0602",
+            "descricao do beneficio": "Pensão por morte com paridade, decorrente do art. 6º-A da EC 41/2003"
+        },
+        {
+            "codigo": "0603",
+            "descricao do beneficio": "Pensão por morte com paridade, decorrente do art. 3º da EC 47/2005"
+        },
+        {
+            "codigo": "0604",
+            "descricao do beneficio": "Pensão por morte militar"
+        },
+        {
+            "codigo": "Grupo 07 - Complementação do Benefício do Regime Geral de Previdência Social (RGPS)",
+            "descricao do beneficio": "Grupo 07 - Complementação do Benefício do Regime Geral de Previdência Social (RGPS)"
+        },
+        {
+            "codigo": "0701",
+            "descricao do beneficio": "Complementação de aposentadoria do RGPS"
+        },
+        {
+            "codigo": "0702",
+            "descricao do beneficio": "Complementação de pensão por morte do RGPS"
+        },
+        {
+            "codigo": "Grupo 08 - Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)",
+            "descricao do beneficio": "Grupo 08 - Benefícios Concedidos Antes da Obrigatoriedade de Envio dos Eventos Não Periódicos para Entes Públicos no eSocial (Carga Inicial)"
+        },
+        {
+            "codigo": "0801",
+            "descricao do beneficio": "Aposentadoria sem paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0802",
+            "descricao do beneficio": "Aposentadoria com paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0803",
+            "descricao do beneficio": "Aposentadoria por invalidez com paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0804",
+            "descricao do beneficio": "Aposentadoria por invalidez sem paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0805",
+            "descricao do beneficio": "Transferência para reserva concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0806",
+            "descricao do beneficio": "Reforma concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0807",
+            "descricao do beneficio": "Pensão por morte com paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0808",
+            "descricao do beneficio": "Pensão por morte sem paridade concedida antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0809",
+            "descricao do beneficio": "Outros benefícios previdenciários concedidos antes da obrigatoriedade de envio dos eventos não periódicos para entes públicos no eSocial"
+        },
+        {
+            "codigo": "0810",
+            "descricao do beneficio": "Aposentadoria de parlamentar - Plano próprio"
+        },
+        {
+            "codigo": "0811",
+            "descricao do beneficio": "Aposentadoria de servidor vinculado ao Poder Legislativo - Plano próprio"
+        },
+        {
+            "codigo": "0812",
+            "descricao do beneficio": "Pensão por morte - Plano próprio"
+        },
+        {
+            "codigo": "Grupo 09 - Benefícios Especiais com Vínculo Previdenciário",
+            "descricao do beneficio": "Grupo 09 - Benefícios Especiais com Vínculo Previdenciário"
+        },
+        {
+            "codigo": "0901",
+            "descricao do beneficio": "Benefício especial proporcional - Servidor pertencente a RPPS que opta pelo RPC da União"
+        },
+        {
+            "codigo": "0902",
+            "descricao do beneficio": "Benefício especial proporcional - Servidor pertencente a RPPS que opta pelo RPC - Demais entes da Federação, de acordo com as disposições das leis específicas"
+        },
+        {
+            "codigo": "0909",
+            "descricao do beneficio": "Outros benefícios especiais com vínculo previdenciário"
+        },
+        {
+            "codigo": "Grupo 10 - Benefícios Especiais sem Vínculo Previdenciário",
+            "descricao do beneficio": "Grupo 10 - Benefícios Especiais sem Vínculo Previdenciário"
+        },
+        {
+            "codigo": "1001",
+            "descricao do beneficio": "Pensão especial sem vínculo previdenciário"
+        },
+        {
+            "codigo": "1009",
+            "descricao do beneficio": "Outros benefícios sem vínculo previdenciário"
+        },
+        {
+            "codigo": "Grupo 11 - Parlamentares",
+            "descricao do beneficio": "Grupo 11 - Parlamentares"
+        },
+        {
+            "codigo": "1101",
+            "descricao do beneficio": "Aposentadoria voluntária com proventos proporcionais ao tempo de mandato - Leis próprias"
+        },
+        {
+            "codigo": "1102",
+            "descricao do beneficio": "Aposentadoria voluntária com proventos integrais ao tempo de mandato - Leis próprias"
+        },
+        {
+            "codigo": "1103",
+            "descricao do beneficio": "Aposentadoria por invalidez permanente - Proventos integrais - Leis próprias"
+        },
+        {
+            "codigo": "1104",
+            "descricao do beneficio": "Aposentadoria por invalidez permanente - Proventos proporcionais ao tempo de mandato - Leis próprias"
+        },
+        {
+            "codigo": "1105",
+            "descricao do beneficio": "Pensão por morte de parlamentar - Lei específica"
+        },
+        {
+            "codigo": "1106",
+            "descricao do beneficio": "Pensão por morte de parlamentar - Planos anteriores à EC 20/1998"
+        }
+    ]
+}

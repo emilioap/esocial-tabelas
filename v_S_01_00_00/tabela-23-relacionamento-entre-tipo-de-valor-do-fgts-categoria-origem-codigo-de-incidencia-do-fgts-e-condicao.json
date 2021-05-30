@@ -1,0 +1,355 @@
+{
+    "name": "Tabela 23 - Relacionamento entre Tipo de Valor do FGTS, Categoria, Origem, Código de Incidência do FGTS e Condição",
+    "content": [
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 11,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 201, 202, 301, 302, 303, 304, 306, 307, 309, 310, 312, 721] ou ([401, 410], se {categOrig} for diferente de [103, 107, 108])",
+            "origem": "{infoPerApur} de S-1200",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 11,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 11,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 11,
+            "{codcateg}": "[721]",
+            "origem": "S-2399",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "{mtvDesligTSV} diferente de [01, 02, 04, 06]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 11,
+            "{codcateg}": "[721]",
+            "origem": "S-2399",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDesligTSV} = [01, 02, 04, 06] e {dtTerm} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 12,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 201, 202, 301, 302, 303, 304, 306, 307, 309, 310, 312, 721] ou ([401, 410], se {categOrig} for diferente de [103, 107, 108])",
+            "origem": "{infoPerApur} de S-1200",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 12,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 12,
+            "{codcateg}": "[721]",
+            "origem": "S-2399",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDesligTSV} diferente de [01, 02, 04, 06]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 13,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 201, 202, 301, 302, 303, 304, 306, 307, 309, 310, 312, 721]",
+            "origem": "{infoPerAnt} de S-1200",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 13,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 13,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 14,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 201, 202, 301, 302, 303, 304, 306, 307, 309, 310, 312, 721]",
+            "origem": "{infoPerAnt} de S-1200",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 14,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 15,
+            "{codcateg}": "[103, 107, 108] ou ([401, 410], se {categOrig} = [103, 107, 108])",
+            "origem": "{infoPerApur} de S-1200",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 15,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 15,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 16,
+            "{codcateg}": "[103, 107, 108] ou ([401, 410], se {categOrig} = [103, 107, 108])",
+            "origem": "{infoPerApur} de S-1200",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 16,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 17,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-1200",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 17,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 17,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 18,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-1200",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 18,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} diferente de [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] ou não existente"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 21,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 21,
+            "{codcateg}": "[721]",
+            "origem": "S-2399",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDesligTSV} = [01, 02, 04, 06] e {dtTerm} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 22,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 22,
+            "{codcateg}": "[721]",
+            "origem": "S-2399",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDesligTSV} = [01, 02, 04, 06]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 23,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 23,
+            "{codcateg}": "[721]",
+            "origem": "S-2399",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDesligTSV} = [01, 02, 04, 06]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 24,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 25,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 26,
+            "{codcateg}": "[101, 102, 104, 105, 106, 111, 301, 302, 303, 304, 306, 307, 309, 310, 312]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 27,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 28,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 29,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 30,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33] e {dtDeslig} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 31,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 32,
+            "{codcateg}": "[103, 107, 108]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 06, 14, 17, 23, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 41,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerApur} de S-1200",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 41,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33] e {dtDeslig} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 42,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerApur} de S-1200",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 43,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerAnt} de S-1200",
+            "{codincfgts} em s-1010": "[11, 21, 91, 93]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 43,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33] e {dtDeslig} acrescida de 10 dias posterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 44,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerAnt} de S-1200",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "-"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 45,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33] e {dtDeslig} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 46,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 47,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerApur} de S-2299",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 48,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[11, 91]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33] e {dtDeslig} acrescida de 10 dias igual ou anterior a {dtVenc}"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 49,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[12, 92]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33]"
+        },
+        {
+            "tipo de valor ({tpvalor} ou {tpvalore})": 50,
+            "{codcateg}": "[104]",
+            "origem": "{infoPerAnt} de S-2299",
+            "{codincfgts} em s-1010": "[21, 93]",
+            "condicao": "{mtvDeslig} = [02, 03, 05, 14, 17, 26, 27, 33]"
+        }
+    ]
+}

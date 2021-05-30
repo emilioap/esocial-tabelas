@@ -1,0 +1,1377 @@
+{
+    "name": "Tabela 03 - Natureza das Rubricas da Folha de Pagamento",
+    "content": [
+        {
+            "codigo": 1000,
+            "nome da natureza da rubrica": "Salário, vencimento, soldo",
+            "descricao da natureza da rubrica": "Corresponde ao salário básico contratual do empregado contratado de acordo com a CLT e o vencimento mensal do servidor público e do militar",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1001,
+            "nome da natureza da rubrica": "Subsídio",
+            "descricao da natureza da rubrica": "Corresponde à remuneração paga na forma de subsídio",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1002,
+            "nome da natureza da rubrica": "Descanso semanal remunerado - DSR",
+            "descricao da natureza da rubrica": "Valor correspondente a um dia de trabalho incidente sobre as verbas de natureza variável, tais como: horas extras, adicional noturno, produção, comissão, etc.",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1003,
+            "nome da natureza da rubrica": "Horas extraordinárias",
+            "descricao da natureza da rubrica": "Valor correspondente à hora extraordinária de trabalho, acrescido de percentual de no mínimo 50%",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1004,
+            "nome da natureza da rubrica": "Horas extraordinárias - Indenização de banco de horas",
+            "descricao da natureza da rubrica": "Valor correspondente a pagamento das horas extraordinárias, inicialmente destinadas para o banco de horas e que não foram compensadas",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1005,
+            "nome da natureza da rubrica": "Direito de arena",
+            "descricao da natureza da rubrica": "Valores relativos a direito de arena decorrente do espetáculo, devidos ao atleta",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1006,
+            "nome da natureza da rubrica": "Intervalos intra e inter jornadas não concedidos",
+            "descricao da natureza da rubrica": "Valores relativos a intervalos não concedidos de intrajornada ou interjornada",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1007,
+            "nome da natureza da rubrica": "Luvas e premiações",
+            "descricao da natureza da rubrica": "Valores correspondentes a prêmios e luvas, devidos ao atleta",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1009,
+            "nome da natureza da rubrica": "Salário-família - Complemento",
+            "descricao da natureza da rubrica": "Valor excedente ao do fixado pela previdência social para o salário-família",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1010,
+            "nome da natureza da rubrica": "Salário in natura - Pagos em bens ou serviços",
+            "descricao da natureza da rubrica": "Salário in natura, também conhecido por salário utilidade, correspondente a remunerações pagas em bens ou serviços",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1011,
+            "nome da natureza da rubrica": "Sobreaviso e prontidão",
+            "descricao da natureza da rubrica": "Valor correspondente a um percentual da hora normal de trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1020,
+            "nome da natureza da rubrica": "Férias",
+            "descricao da natureza da rubrica": "Valor correspondente à remuneração a que faz jus na época da concessão das férias e o adicional constitucional a que o trabalhador adquiriu direito, inclusive o adiantamento de férias, quando pagas antecipadamente – nessa opção deve ser classificado também o valor pago mensalmente ao trabalhador avulso e ao empregado com contrato de trabalho intermitente, a título de férias",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1021,
+            "nome da natureza da rubrica": "Férias - Abono ou gratificação de férias superior a 20 dias",
+            "descricao da natureza da rubrica": "Remuneração a título de abono de férias, desde que excedente a 20 (vinte) dias do salário e concedido em virtude de cláusula contratual, do regulamento da empresa, de convenção ou acordo coletivo, como por exemplo, o art. 144 da CLT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1022,
+            "nome da natureza da rubrica": "Férias - Abono ou gratificação de férias não excedente a 20 dias",
+            "descricao da natureza da rubrica": "Remuneração a título de abono de férias, desde que não excedente a 20 (vinte) dias do salário e concedido em virtude de cláusula contratual, do regulamento da empresa, de convenção ou acordo coletivo, como por exemplo o art. 144 da CLT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1023,
+            "nome da natureza da rubrica": "Férias - Abono pecuniário",
+            "descricao da natureza da rubrica": "Valor correspondente a conversão em dinheiro de parte dos dias de férias a que o trabalhador adquiriu direito, inclusive o adicional constitucional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1024,
+            "nome da natureza da rubrica": "Férias - Dobro na vigência do contrato",
+            "descricao da natureza da rubrica": "Valor correspondente a remuneração a que faz jus na época da concessão das férias, concedidas após o prazo de concessão, inclusive o adicional constitucional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1040,
+            "nome da natureza da rubrica": "Licença-prêmio",
+            "descricao da natureza da rubrica": "Valor relativo a licença-prêmio, em decorrência de afastamento do trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1041,
+            "nome da natureza da rubrica": "Licença-prêmio indenizada",
+            "descricao da natureza da rubrica": "Valor correspondente à conversão em dinheiro da licença-prêmio",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1050,
+            "nome da natureza da rubrica": "Remuneração de dias de afastamento",
+            "descricao da natureza da rubrica": "Remuneração de dias nos quais o trabalhador esteja afastado do trabalho sem prejuízo de sua remuneração",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1080,
+            "nome da natureza da rubrica": "Stock option",
+            "descricao da natureza da rubrica": "Remuneração pelo exercício de opção de compra de ações da empresa",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1099,
+            "nome da natureza da rubrica": "Outras verbas salariais",
+            "descricao da natureza da rubrica": "Outras verbas salariais não previstas nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1201,
+            "nome da natureza da rubrica": "Adicional de função / cargo confiança",
+            "descricao da natureza da rubrica": "Adicional ou gratificação concedida em virtude de cargo ou função de confiança",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1202,
+            "nome da natureza da rubrica": "Adicional de insalubridade",
+            "descricao da natureza da rubrica": "Adicional por serviços em condições de insalubridade",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1203,
+            "nome da natureza da rubrica": "Adicional de periculosidade",
+            "descricao da natureza da rubrica": "Adicional por serviços em condições perigosas",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1204,
+            "nome da natureza da rubrica": "Adicional de transferência",
+            "descricao da natureza da rubrica": "Adicional em razão de transferência de trabalhador, enquanto durar a transferência",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1205,
+            "nome da natureza da rubrica": "Adicional noturno",
+            "descricao da natureza da rubrica": "Adicional por trabalho em horário noturno",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1206,
+            "nome da natureza da rubrica": "Adicional por tempo de serviço",
+            "descricao da natureza da rubrica": "Adicional em virtude do tempo de serviço (anuênio, quinquênio, etc.)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1207,
+            "nome da natureza da rubrica": "Comissões, porcentagens, produção",
+            "descricao da natureza da rubrica": "Valor correspondente a contraprestação de serviço, normalmente baseada em um percentual sobre as vendas totais desse trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1208,
+            "nome da natureza da rubrica": "Gueltas ou gorjetas - Repassadas por fornecedores ou clientes",
+            "descricao da natureza da rubrica": "Valores pagos diretamente por fornecedores a trabalhador a título de incentivos de vendas (gueltas) ou por clientes a título de recompensa por bons serviços prestados (gorjetas)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1209,
+            "nome da natureza da rubrica": "Gueltas ou gorjetas - Repassadas pelo empregador",
+            "descricao da natureza da rubrica": "Valores pagos relativos a gueltas ou gorjetas, por meio de repasse ao empregador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1210,
+            "nome da natureza da rubrica": "Gratificação por acordo ou convenção coletiva",
+            "descricao da natureza da rubrica": "Verba estabelecida em acordo ou convenção coletiva de trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1211,
+            "nome da natureza da rubrica": "Gratificações",
+            "descricao da natureza da rubrica": "Verba não estabelecida em acordo ou convenção coletiva, mas paga para o empregado em decorrência de ajuste entre as partes ou por liberalidade do empregador, como por exemplo produtividade, assiduidade, etc.",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1212,
+            "nome da natureza da rubrica": "Gratificações ou outras verbas de natureza permanente",
+            "descricao da natureza da rubrica": "Órgão público - Parcelas remuneratórias reconhecidamente inerentes às funções do cargo efetivo, cujo valor integra a remuneração do cargo efetivo",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1213,
+            "nome da natureza da rubrica": "Gratificações ou outras verbas de natureza transitória",
+            "descricao da natureza da rubrica": "Órgão público - Parcelas remuneratórias vinculadas à atividade cujo recebimento dependa de avaliação de desempenho ou determinadas condições",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1214,
+            "nome da natureza da rubrica": "Adicional de penosidade",
+            "descricao da natureza da rubrica": "Adicional pela realização de atividade árdua que exija do trabalhador esforço, atenção ou vigilância acima do comum",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1215,
+            "nome da natureza da rubrica": "Adicional de unidocência",
+            "descricao da natureza da rubrica": "Adicional de unidocência para professores de 1ª a 4ª série",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1216,
+            "nome da natureza da rubrica": "Adicional de localidade",
+            "descricao da natureza da rubrica": "Adicional pela realização de atividade em localidade transfronteiriça",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1217,
+            "nome da natureza da rubrica": "Gratificação de curso/concurso",
+            "descricao da natureza da rubrica": "Verba de natureza remuneratória por atividade exercida em curso/concurso",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1225,
+            "nome da natureza da rubrica": "Quebra de caixa",
+            "descricao da natureza da rubrica": "Valor destinado a cobrir os riscos assumidos por quem trabalha com manuseio de valores, para compensar eventuais descontos ou diferenças de numerários",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1230,
+            "nome da natureza da rubrica": "Remuneração do dirigente sindical",
+            "descricao da natureza da rubrica": "Remuneração paga ao trabalhador afastado, durante o exercício da atividade sindical",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1299,
+            "nome da natureza da rubrica": "Outros adicionais",
+            "descricao da natureza da rubrica": "Valores relativos a outros adicionais não previstos nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1300,
+            "nome da natureza da rubrica": "PLR - Participação em Lucros ou Resultados",
+            "descricao da natureza da rubrica": "Valor correspondente a participação em lucros ou resultados da empresa, de acordo com lei específica",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1350,
+            "nome da natureza da rubrica": "Bolsa de estudo - Estagiário",
+            "descricao da natureza da rubrica": "Valor devido ao estagiário em atividades práticas de complementação do currículo escolar, inclusive os valores pagos a título de recesso remunerado - Lei 11.788/2008",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1351,
+            "nome da natureza da rubrica": "Bolsa de estudo - Médico residente",
+            "descricao da natureza da rubrica": "Bolsa de estudo ao médico residente",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1352,
+            "nome da natureza da rubrica": "Bolsa de estudo ou pesquisa",
+            "descricao da natureza da rubrica": "Remuneração a professores, pesquisadores e demais profissionais com a finalidade de estudos ou pesquisa, exceto pagamentos a estagiário e médico-residente",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1401,
+            "nome da natureza da rubrica": "Abono",
+            "descricao da natureza da rubrica": "Qualquer abono concedido de forma espontânea ou em virtude de acordo ou convenção coletiva, norma, etc.",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1402,
+            "nome da natureza da rubrica": "Abono PIS/PASEP",
+            "descricao da natureza da rubrica": "Abono e/ou rendimento do PIS/PASEP repassado pelo empregador ou órgão público",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1403,
+            "nome da natureza da rubrica": "Abono legal",
+            "descricao da natureza da rubrica": "As importâncias recebidas a título de ganhos eventuais e os abonos expressamente desvinculados do salário, por força da lei",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1404,
+            "nome da natureza da rubrica": "Auxílio babá",
+            "descricao da natureza da rubrica": "Valor relativo a reembolso de despesas com babá, limitado ao menor salário de contribuição mensal e condicionado à comprovação do registro na carteira de trabalho e previdência social da empregada, do pagamento da remuneração e do recolhimento da contribuição previdenciária, pago em conformidade com a legislação trabalhista, observado o limite máximo de 6 (seis) anos de idade da criança (caso haja previsão em acordo coletivo da categoria, este limite de idade poderá ser maior)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1405,
+            "nome da natureza da rubrica": "Assistência médica",
+            "descricao da natureza da rubrica": "Valor pago diretamente ao trabalhador a título de assistência médica ou odontológica, inclusive o reembolso de despesas com medicamentos, óculos, aparelhos ortopédicos, despesas médico-hospitalares e outras similares",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1406,
+            "nome da natureza da rubrica": "Auxílio-creche",
+            "descricao da natureza da rubrica": "O reembolso creche pago em conformidade com a legislação trabalhista, observado o limite máximo de 6 (seis) anos de idade da criança, quando devidamente comprovadas as despesas realizadas. Caso haja previsão em acordo coletivo da categoria, este limite de idade poderá ser maior.",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1407,
+            "nome da natureza da rubrica": "Auxílio-educação",
+            "descricao da natureza da rubrica": "Valor relativo a plano educacional, ou bolsa de estudo, que vise à educação básica de trabalhadores e seus dependentes e, desde que vinculada às atividades desenvolvidas pela empresa, à educação profissional e tecnológica de trabalhadores, nos termos da Lei 9.394/1996, e:1) não seja utilizado em substituição de parcela salarial;2) o valor mensal do plano educacional ou bolsa de estudo, considerado individualmente, não ultrapasse 5% (cinco por cento) da remuneração do segurado a que se destina ou o valor correspondente a uma vez e meia o valor do limite mínimo mensal do salário de contribuição, o que for maior",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1409,
+            "nome da natureza da rubrica": "Salário-família",
+            "descricao da natureza da rubrica": "Valor do salário-família, conforme limite legal, em virtude do número de filhos menores de 14 anos, ou inválidos de qualquer idade",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1410,
+            "nome da natureza da rubrica": "Auxílio - Locais de difícil acesso",
+            "descricao da natureza da rubrica": "Valor correspondente a transporte, habitação e alimentação fornecido ao trabalhador contratado para prestar serviço em localidade distante da sua residência, em canteiro de obras ou local que, por força da atividade, exija deslocamento e estada",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1411,
+            "nome da natureza da rubrica": "Auxílio-natalidade",
+            "descricao da natureza da rubrica": "Valor relativo ao nascimento do filho de servidor público, previsto em lei",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1412,
+            "nome da natureza da rubrica": "Abono permanência",
+            "descricao da natureza da rubrica": "Valor relativo ao abono de permanência, de acordo com a CF/1988",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1601,
+            "nome da natureza da rubrica": "Ajuda de custo - Aeronauta",
+            "descricao da natureza da rubrica": "Adicional mensal recebidos pelo aeronauta, nos termos da Lei 5.929/1973",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1602,
+            "nome da natureza da rubrica": "Ajuda de custo de transferência",
+            "descricao da natureza da rubrica": "Ajuda de custo em parcela única, em razão de transferência de local de trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1603,
+            "nome da natureza da rubrica": "Ajuda de custo",
+            "descricao da natureza da rubrica": "Ajuda de custo paga ao trabalhador",
+            "inicio": "01/05/2018",
+            "termino": "-"
+        },
+        {
+            "codigo": 1604,
+            "nome da natureza da rubrica": "Ajuda de custo - Acima de 50% da remuneração mensal",
+            "descricao da natureza da rubrica": "Ajuda de custo paga ao trabalhador, superior a 50% da sua remuneração mensal",
+            "inicio": "01/05/2018",
+            "termino": "31/03/2019"
+        },
+        {
+            "codigo": 1619,
+            "nome da natureza da rubrica": "Ajuda compensatória - Lei 14.020/2020",
+            "descricao da natureza da rubrica": "Ajuda compensatória paga pelo empregador ao empregado durante período de suspensão do contrato de trabalho ou redução proporcional de salário e jornada, nos termos da Lei 14.020/2020 (conversão da MP 936/2020)",
+            "inicio": "01/04/2020",
+            "termino": "-"
+        },
+        {
+            "codigo": 1620,
+            "nome da natureza da rubrica": "Ressarcimento de despesas pelo uso de veículo próprio",
+            "descricao da natureza da rubrica": "Ressarcimento de despesas ao trabalhador, pela utilização de veículo de sua propriedade",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1621,
+            "nome da natureza da rubrica": "Ressarcimento de despesas de viagem, exceto despesas com veículos",
+            "descricao da natureza da rubrica": "Ressarcimento de despesas pagas com recursos do trabalhador em viagens a trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1623,
+            "nome da natureza da rubrica": "Ressarcimento de provisão",
+            "descricao da natureza da rubrica": "Ressarcimento de desconto efetuado em recibos de férias relativo a provisão de contribuição previdenciária",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1629,
+            "nome da natureza da rubrica": "Ressarcimento de outras despesas",
+            "descricao da natureza da rubrica": "Ressarcimento de outras despesas pagas pelo trabalhador, não previstas nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1650,
+            "nome da natureza da rubrica": "Diárias de viagem",
+            "descricao da natureza da rubrica": "Diárias de viagem ao trabalhador",
+            "inicio": "01/05/2018",
+            "termino": "-"
+        },
+        {
+            "codigo": 1651,
+            "nome da natureza da rubrica": "Diárias de viagem - Até 50% do salário",
+            "descricao da natureza da rubrica": "Diárias de viagem ao trabalhador, desde que não exceda a 50% do seu salário-base mensal",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2018"
+        },
+        {
+            "codigo": 1652,
+            "nome da natureza da rubrica": "Diárias de viagem - Acima de 50% do salário",
+            "descricao da natureza da rubrica": "Diárias de viagem superior a 50% do salário-base mensal",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2018"
+        },
+        {
+            "codigo": 1800,
+            "nome da natureza da rubrica": "Alimentação concedida em pecúnia",
+            "descricao da natureza da rubrica": "Alimentação concedida sob a forma de pecúnia",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1801,
+            "nome da natureza da rubrica": "Alimentação",
+            "descricao da natureza da rubrica": "Auxílio-alimentação",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2021"
+        },
+        {
+            "codigo": 1802,
+            "nome da natureza da rubrica": "Etapas (marítimos)",
+            "descricao da natureza da rubrica": "Auxílio-alimentação ao trabalhador marítimo",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1805,
+            "nome da natureza da rubrica": "Moradia",
+            "descricao da natureza da rubrica": "Auxílio-moradia",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1806,
+            "nome da natureza da rubrica": "Alimentação em ticket ou cartão, vinculada ao PAT",
+            "descricao da natureza da rubrica": "Alimentação concedida sob a forma de ticket ou cartão, por empresa vinculada ao Programa de Alimentação do Trabalhador - PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1807,
+            "nome da natureza da rubrica": "Alimentação em ticket ou cartão, não vinculada ao PAT",
+            "descricao da natureza da rubrica": "Alimentação concedida sob a forma de ticket ou cartão, por empresa não vinculada ao PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1808,
+            "nome da natureza da rubrica": "Cesta básica ou refeição, vinculada ao PAT",
+            "descricao da natureza da rubrica": "Alimentação concedida sob a forma de cesta básica ou refeição, por empresa vinculada ao PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1809,
+            "nome da natureza da rubrica": "Cesta básica ou refeição, não vinculada ao PAT",
+            "descricao da natureza da rubrica": "Alimentação concedida sob a forma de cesta básica ou refeição, por empresa não vinculada ao PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1810,
+            "nome da natureza da rubrica": "Transporte",
+            "descricao da natureza da rubrica": "Auxílio-transporte",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1899,
+            "nome da natureza da rubrica": "Outros auxílios",
+            "descricao da natureza da rubrica": "Valores relativos a outros auxílios não previstos nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2501,
+            "nome da natureza da rubrica": "Prêmios",
+            "descricao da natureza da rubrica": "Liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2502,
+            "nome da natureza da rubrica": "Liberalidades concedidas em mais de duas parcelas anuais",
+            "descricao da natureza da rubrica": "Liberalidades concedidas pelo empregador em forma de bens, serviços ou valor em dinheiro a empregado ou a grupo de empregados, em razão de desempenho superior ao ordinariamente esperado no exercício de suas atividades, em mais de duas parcelas anuais",
+            "inicio": "01/05/2018",
+            "termino": "31/03/2019"
+        },
+        {
+            "codigo": 2510,
+            "nome da natureza da rubrica": "Direitos autorais e intelectuais",
+            "descricao da natureza da rubrica": "Valor correspondente a participação em produção científica, intelectual ou artística",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2801,
+            "nome da natureza da rubrica": "Quarentena remunerada",
+            "descricao da natureza da rubrica": "Valor equivalente a remuneração se em exercício estivesse, devida ao trabalhador desligado, em período de quarentena",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2901,
+            "nome da natureza da rubrica": "Empréstimos",
+            "descricao da natureza da rubrica": "Empréstimos ao trabalhador para posterior desconto",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2902,
+            "nome da natureza da rubrica": "Vestuário e equipamentos",
+            "descricao da natureza da rubrica": "Valor correspondente a vestuários, equipamentos e outros acessórios fornecidos ao trabalhador e utilizados no local de trabalho para prestação dos respectivos serviços",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2920,
+            "nome da natureza da rubrica": "Reembolsos diversos",
+            "descricao da natureza da rubrica": "Valor relativo a reembolsos diversos referentes a descontos indevidos efetuados em competências anteriores",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2021"
+        },
+        {
+            "codigo": 2930,
+            "nome da natureza da rubrica": "Insuficiência de saldo",
+            "descricao da natureza da rubrica": "Valor lançado em folha de pagamento para cobertura de excesso de descontos em relação a vencimentos, tanto o valor do vencimento no mês em que houver a insuficiência de saldo, como o respectivo desconto no(s) mês(es) posteriores",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 2999,
+            "nome da natureza da rubrica": "Arredondamentos",
+            "descricao da natureza da rubrica": "Valor lançado em folha de pagamento, não superior a 99 centavos, relativo a arrendamentos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3501,
+            "nome da natureza da rubrica": "Remuneração por prestação de serviços",
+            "descricao da natureza da rubrica": "Remuneração (inclusive adiantamentos) a contribuintes individuais, inclusive honorários, em trabalhos de natureza eventual e sem vínculo trabalhista",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3505,
+            "nome da natureza da rubrica": "Retiradas (pró-labore) de diretores empregados",
+            "descricao da natureza da rubrica": "Pró-labore ou retirada (remuneração) a diretores empregados (CLT)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3506,
+            "nome da natureza da rubrica": "Retiradas (pró-labore) de diretores não empregados",
+            "descricao da natureza da rubrica": "Pró-labore ou retirada (remuneração) a diretores não empregados",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3508,
+            "nome da natureza da rubrica": "Retiradas (pró-labore) de proprietários ou sócios",
+            "descricao da natureza da rubrica": "Pró-labore ou retirada (remuneração) a proprietários ou sócios da empresa",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3509,
+            "nome da natureza da rubrica": "Honorários a conselheiros",
+            "descricao da natureza da rubrica": "Valor correspondente a honorários pagos a membros de conselho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3510,
+            "nome da natureza da rubrica": "Gratificação (jeton)",
+            "descricao da natureza da rubrica": "Valor correspondente a gratificação (jeton) por comparecimento a sessões ou reuniões",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3511,
+            "nome da natureza da rubrica": "Gratificação eleitoral",
+            "descricao da natureza da rubrica": "Valor correspondente ao exercício da atividade pelo juiz eleitoral",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3520,
+            "nome da natureza da rubrica": "Remuneração de cooperado",
+            "descricao da natureza da rubrica": "Remuneração a cooperado vinculado a cooperativa de trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 3525,
+            "nome da natureza da rubrica": "Côngruas, prebendas e afins",
+            "descricao da natureza da rubrica": "Valores pagos a ministros de confissão religiosa e que independem de natureza e da quantidade do trabalho executado",
+            "inicio": "01/05/2018",
+            "termino": "-"
+        },
+        {
+            "codigo": 4010,
+            "nome da natureza da rubrica": "Complementação salarial de auxílio-doença",
+            "descricao da natureza da rubrica": "Complementação salarial de auxílio-doença ao trabalhador afastado por acidente de trabalho ou por doença",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 4011,
+            "nome da natureza da rubrica": "Complemento de salário-mínimo - RPPS",
+            "descricao da natureza da rubrica": "Valor correspondente à diferença entre o salário-mínimo e o valor do vencimento do cargo efetivo pago a servidor público vinculado a Regime Próprio de Previdência Social - RPPS",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 4050,
+            "nome da natureza da rubrica": "Salário-maternidade",
+            "descricao da natureza da rubrica": "Remuneração mensal da trabalhadora empregada durante a licença maternidade, quando paga pelo contratante ou órgão público",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 4051,
+            "nome da natureza da rubrica": "Salário-maternidade - 13° salário",
+            "descricao da natureza da rubrica": "Valor correspondente ao 13° salário pago pelo contratante ou órgão público, no período de licença maternidade",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 5001,
+            "nome da natureza da rubrica": "13º salário",
+            "descricao da natureza da rubrica": "Valor relativo ao 13° salário de trabalhador, inclusive as médias de 13° salário (horas extras, adicional noturno, etc.), exceto se relativo à primeira parcela ou se pago em rescisão contratual – nessa opção deve ser classificado também o valor pago mensalmente ao trabalhador avulso e ao empregado com contrato de trabalho intermitente, a título de 13° salário",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 5005,
+            "nome da natureza da rubrica": "13° salário complementar",
+            "descricao da natureza da rubrica": "Valor do 13° salário complementar relativo a diferenças apuradas não consideradas na folha de fechamento do 13° salário",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 5501,
+            "nome da natureza da rubrica": "Adiantamento de salário",
+            "descricao da natureza da rubrica": "Valor relativo a adiantamento, antecipação ou pagamento parcial de folha de salários",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 5504,
+            "nome da natureza da rubrica": "13º salário - Adiantamento",
+            "descricao da natureza da rubrica": "Valor relativo a adiantamento do 13° salário",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 5510,
+            "nome da natureza da rubrica": "Adiantamento de benefícios previdenciários",
+            "descricao da natureza da rubrica": "Valor relativo a adiantamento de benefícios a serem pagos pela Previdência Social Oficial",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6000,
+            "nome da natureza da rubrica": "Saldo de salários na rescisão contratual",
+            "descricao da natureza da rubrica": "Valor correspondente aos dias trabalhados no mês da rescisão contratual",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6001,
+            "nome da natureza da rubrica": "13º salário relativo ao aviso prévio indenizado",
+            "descricao da natureza da rubrica": "Valor correspondente ao 13° salário incidente sobre o aviso prévio indenizado",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6002,
+            "nome da natureza da rubrica": "13° salário proporcional na rescisão",
+            "descricao da natureza da rubrica": "Valor correspondente ao 13° salário proporcional pago na rescisão do contrato de trabalho, exceto o pago sobre o aviso prévio indenizado",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6003,
+            "nome da natureza da rubrica": "Indenização compensatória do aviso prévio",
+            "descricao da natureza da rubrica": "Valor da maior remuneração do trabalhador, correspondente ao número de dias relativo ao aviso prévio, calculado de acordo com o tempo de serviço do empregado",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6004,
+            "nome da natureza da rubrica": "Férias - Dobro na rescisão",
+            "descricao da natureza da rubrica": "Valor correspondente a remuneração a que faz jus a época da rescisão contratual, correspondente a férias não concedidas no prazo legal, inclusive o adicional constitucional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6006,
+            "nome da natureza da rubrica": "Férias proporcionais",
+            "descricao da natureza da rubrica": "Valor correspondente a 1/12 avos da remuneração a que faz jus a época da rescisão contratual, fração superior a 14 dias por mês de trabalho e a projeção do aviso prévio indenizado, inclusive o adicional constitucional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6007,
+            "nome da natureza da rubrica": "Férias vencidas na rescisão",
+            "descricao da natureza da rubrica": "Valor correspondente a remuneração a que faz jus a época da rescisão contratual, correspondente a férias vencidas, mas dentro do prazo concessivo, inclusive o adicional constitucional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6101,
+            "nome da natureza da rubrica": "Indenização compensatória - Multa rescisória 20 ou 40% (CF/88)",
+            "descricao da natureza da rubrica": "Valor correspondente à indenização por demissão sem justa causa, por culpa recíproca ou força maior (ambas reconhecidas pela Justiça do Trabalho) ou por acordo entre empregado e empregador, quando da rescisão do contrato de trabalho; ou correspondente à antecipação da multa rescisória do FGTS paga ao empregado com contrato Verde e Amarelo",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6102,
+            "nome da natureza da rubrica": "Indenização do art. 9º da Lei 7.238/1984",
+            "descricao da natureza da rubrica": "Valor correspondente a indenização quando a dispensa ocorrer sem justa causa dentro dos trinta dias que antecedem a data base",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6103,
+            "nome da natureza da rubrica": "Indenização do art. 14 da Lei 5.889/1973",
+            "descricao da natureza da rubrica": "Valor correspondente a indenização do tempo de serviço ao safrista, importância correspondente a 1/12 (um doze avos) do salário mensal, por mês de serviço ou fração superior a 14 (quatorze) dias",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6104,
+            "nome da natureza da rubrica": "Indenização do art. 479 da CLT",
+            "descricao da natureza da rubrica": "Valor correspondente a metade da remuneração devida ate o termino do contrato a prazo determinado em caso de rescisão antecipada",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6105,
+            "nome da natureza da rubrica": "Indenização recebida a título de incentivo a demissão",
+            "descricao da natureza da rubrica": "Valor correspondente a incentivo a demissão em Programas de Demissão Voluntária - PDV",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6106,
+            "nome da natureza da rubrica": "Multa do art. 477 da CLT",
+            "descricao da natureza da rubrica": "Valor devido ao trabalhador por atraso no pagamento de rescisão do contrato de trabalho (art. 477 da CLT, § 8º)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6107,
+            "nome da natureza da rubrica": "Indenização por quebra de estabilidade",
+            "descricao da natureza da rubrica": "Valor correspondente a indenização por desligamento durante período de estabilidade legal, ou estabilidade derivada de acordo ou convenção coletiva de trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6108,
+            "nome da natureza da rubrica": "Tempo de espera do motorista profissional",
+            "descricao da natureza da rubrica": "Valor correspondente ao tempo de espera do motorista profissional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6119,
+            "nome da natureza da rubrica": "Indenização rescisória - Lei 14.020/2020",
+            "descricao da natureza da rubrica": "Indenização pela dispensa sem justa causa que ocorrer durante o período de garantia provisória no emprego de que trata o art. 10 da Lei 14.020/2020 (conversão da MP 936/2020)",
+            "inicio": "01/04/2020",
+            "termino": "-"
+        },
+        {
+            "codigo": 6129,
+            "nome da natureza da rubrica": "Outras multas ou indenizações",
+            "descricao da natureza da rubrica": "Valor correspondente a outras multas ou indenizações previstas em leis ou em Instrumentos Coletivos de Trabalho, exceto as previstas nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6901,
+            "nome da natureza da rubrica": "Desconto do aviso prévio",
+            "descricao da natureza da rubrica": "Valor descontado do trabalhador que tenha pedido demissão e não cumpriu aviso prévio, total ou parcialmente",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 6904,
+            "nome da natureza da rubrica": "Multa prevista no art. 480 da CLT",
+            "descricao da natureza da rubrica": "Valor descontado do empregado pela rescisão antecipada, por iniciativa do empregado, do contrato de trabalho a termo",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7001,
+            "nome da natureza da rubrica": "Proventos",
+            "descricao da natureza da rubrica": "Valor dos proventos de Aposentadoria a servidor público",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7002,
+            "nome da natureza da rubrica": "Proventos - Pensão por morte Civil",
+            "descricao da natureza da rubrica": "Valor dos proventos por morte a beneficiário de servidor público",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7003,
+            "nome da natureza da rubrica": "Proventos - Reserva",
+            "descricao da natureza da rubrica": "Valor dos proventos a militar da reserva remunerada",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7004,
+            "nome da natureza da rubrica": "Proventos - Reforma",
+            "descricao da natureza da rubrica": "Valor dos proventos a militar reformado",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7005,
+            "nome da natureza da rubrica": "Pensão Militar",
+            "descricao da natureza da rubrica": "Valor da pensão a beneficiário de militar",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7006,
+            "nome da natureza da rubrica": "Auxílio-reclusão",
+            "descricao da natureza da rubrica": "Valor de auxílio-reclusão para o servidor público de baixa renda",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7007,
+            "nome da natureza da rubrica": "Pensões especiais",
+            "descricao da natureza da rubrica": "Valor das pensões de caráter especial diferentes de pensão por morte",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 7008,
+            "nome da natureza da rubrica": "Complementação de aposentadoria/ pensão",
+            "descricao da natureza da rubrica": "Valor relativo à complementação de aposentadoria/pensão vinculada ao Regime Geral de Previdência Social - RGPS",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9200,
+            "nome da natureza da rubrica": "Desconto de adiantamentos",
+            "descricao da natureza da rubrica": "Valor relativo a descontos a título de adiantamentos em geral, como de salários e outros, exceto a 1ª parcela do 13° salário",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9201,
+            "nome da natureza da rubrica": "Contribuição previdenciária",
+            "descricao da natureza da rubrica": "Desconto a título de contribuição previdenciária",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9202,
+            "nome da natureza da rubrica": "Contribuição militar",
+            "descricao da natureza da rubrica": "Desconto relativo à seguridade do militar e seus dependentes",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9203,
+            "nome da natureza da rubrica": "Imposto de Renda Retido na Fonte",
+            "descricao da natureza da rubrica": "Desconto a título de Imposto de Renda Retido na Fonte - IRRF",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9205,
+            "nome da natureza da rubrica": "Provisão de contribuição previdenciária",
+            "descricao da natureza da rubrica": "Desconto efetuado em recibos de férias relativo a provisão de contribuição previdenciária",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9207,
+            "nome da natureza da rubrica": "Faltas",
+            "descricao da natureza da rubrica": "Desconto decorrente de ausência de trabalho durante todo o dia em razão de, por exemplo, falta injustificada, suspensão disciplinar, greve",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9208,
+            "nome da natureza da rubrica": "Atrasos",
+            "descricao da natureza da rubrica": "Desconto decorrente de ausência de trabalho em razão de, por exemplo, atrasos no início da jornada de trabalho ou de saída antecipada do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9209,
+            "nome da natureza da rubrica": "Faltas ou atrasos",
+            "descricao da natureza da rubrica": "Desconto correspondente a faltas, atrasos no início da jornada de trabalho ou à saída antecipada do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2021"
+        },
+        {
+            "codigo": 9210,
+            "nome da natureza da rubrica": "DSR s/faltas e atrasos",
+            "descricao da natureza da rubrica": "Desconto correspondente ao Descanso Semanal Remunerado - DSR, calculado sobre faltas e atrasos do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2021"
+        },
+        {
+            "codigo": 9211,
+            "nome da natureza da rubrica": "DSR sobre faltas",
+            "descricao da natureza da rubrica": "Desconto correspondente ao Descanso Semanal Remunerado - DSR, calculado sobre faltas do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9212,
+            "nome da natureza da rubrica": "DSR sobre atrasos",
+            "descricao da natureza da rubrica": "Desconto correspondente ao Descanso Semanal Remunerado - DSR, calculado sobre atrasos do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9213,
+            "nome da natureza da rubrica": "Pensão alimentícia",
+            "descricao da natureza da rubrica": "Desconto correspondente a pensão alimentícia sobre o salário mensal, 13° salário, PLR e férias",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9214,
+            "nome da natureza da rubrica": "13° salário - Desconto de adiantamento",
+            "descricao da natureza da rubrica": "Desconto de antecipação do 13° salário",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9216,
+            "nome da natureza da rubrica": "Desconto de vale-transporte",
+            "descricao da natureza da rubrica": "Desconto do vale-transporte referente a participação do trabalhador no custo ou em virtude de concessão do benefício em valor maior",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9217,
+            "nome da natureza da rubrica": "Contribuição a Outras Entidades e Fundos",
+            "descricao da natureza da rubrica": "Desconto relativo a contribuições destinadas a outras entidades e fundos (Terceiros), como por exemplo, Sest, Senat, etc., devidas por algumas categorias de contribuintes individuais",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9218,
+            "nome da natureza da rubrica": "Retenções judiciais",
+            "descricao da natureza da rubrica": "Desconto relativo a retenções de verbas devidas a trabalhadores por ordem judicial, exceto pensão alimentícia",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9219,
+            "nome da natureza da rubrica": "Desconto de assistência médica ou odontológica",
+            "descricao da natureza da rubrica": "Desconto referente a participação do trabalhador no custo de assistência médica ou odontológica, ou em virtude de concessão do benefício em valor maior",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9220,
+            "nome da natureza da rubrica": "Alimentação - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente a participação do trabalhador no custo ou em virtude de concessão do benefício em valor maior",
+            "inicio": "01/01/2014",
+            "termino": "30/04/2021"
+        },
+        {
+            "codigo": 9221,
+            "nome da natureza da rubrica": "Desconto de férias",
+            "descricao da natureza da rubrica": "Valor correspondente a remuneração (dias) de férias do mês corrente pago no mês anterior ou adiantamento de férias",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9222,
+            "nome da natureza da rubrica": "Desconto de outros impostos e contribuições",
+            "descricao da natureza da rubrica": "Desconto de outros impostos, taxas e contribuições, exceto Imposto de Renda Retido na Fonte, contribuição previdenciária e contribuições destinadas a outras entidades e fundos (Terceiros)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9223,
+            "nome da natureza da rubrica": "Previdência complementar - Parte do empregado",
+            "descricao da natureza da rubrica": "Desconto referente a participação do trabalhador no custo ou em virtude de concessão do benefício em valor maior",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9224,
+            "nome da natureza da rubrica": "FAPI - Parte do empregado",
+            "descricao da natureza da rubrica": "Desconto referente a participação do trabalhador no custo de Fundo de Aposentadoria Programada Individual - FAPI, ou em virtude de concessão do benefício em valor maior",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9225,
+            "nome da natureza da rubrica": "Previdência complementar - Parte do servidor",
+            "descricao da natureza da rubrica": "Desconto referente a participação do trabalhador no custeio de Plano de Previdência Complementar do Servidor Público",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9226,
+            "nome da natureza da rubrica": "Desconto de férias - Abono",
+            "descricao da natureza da rubrica": "Desconto correspondente ao abono de férias pago no mês anterior ou adiantamento de férias",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9230,
+            "nome da natureza da rubrica": "Contribuição sindical laboral",
+            "descricao da natureza da rubrica": "Valor correspondente ao desconto da contribuição laboral correspondente a um dia de trabalho a título de contribuição sindical",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9231,
+            "nome da natureza da rubrica": "Contribuição sindical - Associativa",
+            "descricao da natureza da rubrica": "Valor correspondente ao desconto referente a mensalidade sindical do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9232,
+            "nome da natureza da rubrica": "Contribuição sindical - Assistencial",
+            "descricao da natureza da rubrica": "Valor correspondente ao desconto da contribuição destinada ao custeio das atividades assistenciais do sindicato",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9233,
+            "nome da natureza da rubrica": "Contribuição sindical - Confederativa",
+            "descricao da natureza da rubrica": "Valor correspondente ao desconto da contribuição destinada ao custeio do sistema confederativo",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9240,
+            "nome da natureza da rubrica": "Alimentação concedida em pecúnia - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente à alimentação concedida sob a forma de pecúnia",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9241,
+            "nome da natureza da rubrica": "Alimentação em ticket ou cartão, vinculada ao PAT - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente à participação do trabalhador no custo de alimentação concedida sob a forma de ticket ou cartão, por empresa vinculada ao Programa de Alimentação do Trabalhador - PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9242,
+            "nome da natureza da rubrica": "Alimentação em ticket ou cartão, não vinculada ao PAT - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente à participação do trabalhador no custo de alimentação concedida sob a forma de ticket ou cartão, por empresa não vinculada ao PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9243,
+            "nome da natureza da rubrica": "Cesta básica ou refeição, vinculada ao PAT - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente à participação do trabalhador no custo de alimentação concedida sob a forma de cesta básica ou refeição, por empresa vinculada ao PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9244,
+            "nome da natureza da rubrica": "Cesta básica ou refeição, não vinculada ao PAT - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente à participação do trabalhador no custo de alimentação concedida sob a forma de cesta básica ou refeição, por empresa não vinculada ao PAT",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9250,
+            "nome da natureza da rubrica": "Seguro de vida - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente a participação do trabalhador no custo ou em virtude de concessão do benefício em valor maior",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9254,
+            "nome da natureza da rubrica": "Empréstimos consignados - Desconto",
+            "descricao da natureza da rubrica": "Desconto de trabalhadores a título de empréstimos consignados, para repasse a instituição financeira consignatária",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9255,
+            "nome da natureza da rubrica": "Empréstimos do empregador - Desconto",
+            "descricao da natureza da rubrica": "Desconto de trabalhadores a título de empréstimos efetuados pelo empregador ao trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9258,
+            "nome da natureza da rubrica": "Convênios",
+            "descricao da natureza da rubrica": "Desconto relativos a convênios diversos com empresas para fornecimento de produtos ou serviços ao empregado, sem pagamento imediato, mas com posterior desconto em folha de pagamento como farmácias, supermercados, etc.",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9260,
+            "nome da natureza da rubrica": "FIES - Desconto",
+            "descricao da natureza da rubrica": "Desconto referente à amortização de financiamento do Fundo de Financiamento Estudantil (FIES), para repasse à instituição consignatária",
+            "inicio": "01/05/2018",
+            "termino": "-"
+        },
+        {
+            "codigo": 9270,
+            "nome da natureza da rubrica": "Danos e prejuízos causados pelo trabalhador",
+            "descricao da natureza da rubrica": "Desconto do trabalhador para reparar danos e prejuízos por ele causados",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9290,
+            "nome da natureza da rubrica": "Desconto de pagamento indevido em meses anteriores",
+            "descricao da natureza da rubrica": "Valor correspondente a desconto de verbas pagas indevidamente ao trabalhador em meses anteriores e que estão sendo descontadas no mês de referência, exceto valores relativos a assistência médica, alimentação, previdência complementar e seguro de vida",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9291,
+            "nome da natureza da rubrica": "Abate-teto",
+            "descricao da natureza da rubrica": "Valor deduzido da remuneração total do segurado que supere o teto remuneratório constitucional",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9292,
+            "nome da natureza da rubrica": "Ressarcimento ao erário",
+            "descricao da natureza da rubrica": "Valor deduzido da remuneração para pagamento de ressarcimento ou de penalidade",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9293,
+            "nome da natureza da rubrica": "Honorários advocatícios",
+            "descricao da natureza da rubrica": "Valor descontado do trabalhador por determinação judicial a ser pago ao advogado/escritório de advocacia",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9294,
+            "nome da natureza da rubrica": "Redutor EC 41/03",
+            "descricao da natureza da rubrica": "Valor descontado da remuneração do instituidor da pensão (Emenda Constitucional 41/2003)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9299,
+            "nome da natureza da rubrica": "Outros descontos",
+            "descricao da natureza da rubrica": "Outros descontos não previstos nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9901,
+            "nome da natureza da rubrica": "Base de cálculo da contribuição previdenciária",
+            "descricao da natureza da rubrica": "Valor total da base de cálculo da contribuição previdenciária",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9902,
+            "nome da natureza da rubrica": "Total da base de cálculo do FGTS",
+            "descricao da natureza da rubrica": "Valor total da base de cálculo do FGTS",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9903,
+            "nome da natureza da rubrica": "Total da base de cálculo do IRRF",
+            "descricao da natureza da rubrica": "Valor total da base de cálculo do Imposto de Renda Retido na Fonte",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9904,
+            "nome da natureza da rubrica": "Total da base de cálculo do FGTS rescisório",
+            "descricao da natureza da rubrica": "Valor total da base de cálculo do FGTS rescisório",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9905,
+            "nome da natureza da rubrica": "Serviço militar",
+            "descricao da natureza da rubrica": "Valor não relativo a vencimento ou desconto, relativo à remuneração a que teria direito, se em atividade, o trabalhador afastado do trabalho para prestação do serviço militar obrigatório",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9906,
+            "nome da natureza da rubrica": "Remuneração no exterior",
+            "descricao da natureza da rubrica": "Remuneração recebida no exterior por trabalhador expatriado sobre a qual incida contribuição previdenciária e/ou IRRF e/ou FGTS",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9907,
+            "nome da natureza da rubrica": "Total da contribuição da previdenciária patronal - RPPS",
+            "descricao da natureza da rubrica": "Valor total da contribuição previdenciária patronal para o RPPS (normal, suplementar e aportes)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9908,
+            "nome da natureza da rubrica": "FGTS - Depósito",
+            "descricao da natureza da rubrica": "Valor do depósito do FGTS",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9910,
+            "nome da natureza da rubrica": "Seguros",
+            "descricao da natureza da rubrica": "Valor relativo a prêmio de seguro de vida em grupo pago a empresa de seguros como benefício do trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9911,
+            "nome da natureza da rubrica": "Assistência Médica",
+            "descricao da natureza da rubrica": "Valor não relativo a vencimento ou desconto, relativo à assistência prestada por serviço médico ou odontológico, próprio da empresa ou por ela conveniado, como benefício ao trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9930,
+            "nome da natureza da rubrica": "Salário-maternidade pago pela Previdência Social",
+            "descricao da natureza da rubrica": "Valor correspondente à remuneração mensal do(a) trabalhador(a) durante a licença maternidade, quando paga pela Previdência Social (RGPS ou pela Unidade Gestora do RPPS)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9931,
+            "nome da natureza da rubrica": "Salário-maternidade pago pela Previdência Social - 13° salário",
+            "descricao da natureza da rubrica": "Valor correspondente ao 13° salário do(a) trabalhador(a) durante a licença maternidade, quando pago pela Previdência Social (RGPS ou pela Unidade Gestora do RPPS)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9932,
+            "nome da natureza da rubrica": "Auxílio-doença acidentário",
+            "descricao da natureza da rubrica": "Valor relativo a base de cálculo do FGTS incidente sobre benefício previdenciário pago por Previdência Social Oficial a trabalhador afastado por acidente de trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9933,
+            "nome da natureza da rubrica": "Auxílio-doença",
+            "descricao da natureza da rubrica": "Valor de benefício previdenciário pago por Regime Próprio de Previdência Social ou valor de auxílio-doença dedutível conforme Lei 13.982/2020 (Covid-19)",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9938,
+            "nome da natureza da rubrica": "Isenção IRRF - 65 anos",
+            "descricao da natureza da rubrica": "Valor da parcela isenta dos rendimentos de aposentadoria e pensão, transferência para a reserva remunerada ou reforma, pagos por órgão público de previdência oficial ou por entidade de previdência complementar, no caso de contribuinte com idade igual ou superior a 65 anos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9939,
+            "nome da natureza da rubrica": "Outros valores tributáveis",
+            "descricao da natureza da rubrica": "Valor não relativo a vencimento ou desconto mas considerado como base de cálculo do FGTS, e/ou da contribuição previdenciária e/ou do Imposto de Renda Retido na Fonte inclusive suas deduções e isenções",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 9950,
+            "nome da natureza da rubrica": "Horas extraordinárias - Banco de horas",
+            "descricao da natureza da rubrica": "Quantidade (em número decimal com dois dígitos) de horas extraordinárias incorporadas ao banco de horas",
+            "inicio": "01/01/2014",
+            "termino": "31/10/2019"
+        },
+        {
+            "codigo": 9951,
+            "nome da natureza da rubrica": "Horas compensadas - Banco de horas",
+            "descricao da natureza da rubrica": "Quantidade (em número decimal com dois dígitos) de horas compensadas no banco de horas",
+            "inicio": "01/01/2014",
+            "termino": "31/10/2019"
+        },
+        {
+            "codigo": 9989,
+            "nome da natureza da rubrica": "Outros valores informativos",
+            "descricao da natureza da rubrica": "Outros valores informativos, que não sejam vencimentos nem descontos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        }
+    ]
+}

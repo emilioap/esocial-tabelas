@@ -1,0 +1,5753 @@
+{
+    "name": "Tabela 27 - Procedimentos Diagnósticos",
+    "content": [
+        {
+            "codigo": 1,
+            "procedimento": "1,1-dicloro-2,2-bis (P-clorofeniletileno)"
+        },
+        {
+            "codigo": 2,
+            "procedimento": "1,1,1-tricloroetano"
+        },
+        {
+            "codigo": 3,
+            "procedimento": "1,2 dihidroxi-4-(N-acetilcisteinil)-butano"
+        },
+        {
+            "codigo": 4,
+            "procedimento": "1,25-dihidroxi vitamina D"
+        },
+        {
+            "codigo": 5,
+            "procedimento": "1,2-ciclo-hexanediol"
+        },
+        {
+            "codigo": 6,
+            "procedimento": "1,2-dibromo-3-cloropropano"
+        },
+        {
+            "codigo": 7,
+            "procedimento": "1,2-diclorobenzeno"
+        },
+        {
+            "codigo": 8,
+            "procedimento": "1,2-gliceril dinitrato"
+        },
+        {
+            "codigo": 9,
+            "procedimento": "1,3-gliceril dinitrato"
+        },
+        {
+            "codigo": 10,
+            "procedimento": "1,5-diaminonaftaleno"
+        },
+        {
+            "codigo": 1398,
+            "procedimento": "11-desoxicorticosterona"
+        },
+        {
+            "codigo": 1399,
+            "procedimento": "17-alfa-hidroxiprogesterona"
+        },
+        {
+            "codigo": 11,
+            "procedimento": "17-cetogênicos (17-CGS)"
+        },
+        {
+            "codigo": 12,
+            "procedimento": "17-cetosteróides"
+        },
+        {
+            "codigo": 13,
+            "procedimento": "17-cetosteróides relação alfa/beta"
+        },
+        {
+            "codigo": 14,
+            "procedimento": "17-cetosteróides totais (17-CTS)"
+        },
+        {
+            "codigo": 15,
+            "procedimento": "17-hidroxicorticosteróides (17-OHS)"
+        },
+        {
+            "codigo": 16,
+            "procedimento": "17-hidroxipregnenolona"
+        },
+        {
+            "codigo": 17,
+            "procedimento": "1-etoxi-2-propanol"
+        },
+        {
+            "codigo": 18,
+            "procedimento": "1-hidroxipireno"
+        },
+        {
+            "codigo": 19,
+            "procedimento": "1-metoxi-2-propanol"
+        },
+        {
+            "codigo": 20,
+            "procedimento": "1-naftol + 2-naftol"
+        },
+        {
+            "codigo": 21,
+            "procedimento": "2-amino-4-nitrofenol"
+        },
+        {
+            "codigo": 22,
+            "procedimento": "2,2'-dicloro-4,4'metileno dianilina"
+        },
+        {
+            "codigo": 23,
+            "procedimento": "2,2-dimetil-1,3benzodioxol"
+        },
+        {
+            "codigo": 24,
+            "procedimento": "2,4-dinitroaminotolueno"
+        },
+        {
+            "codigo": 25,
+            "procedimento": "2,4-hidroxibifenil"
+        },
+        {
+            "codigo": 26,
+            "procedimento": "2,5-diclorofenol"
+        },
+        {
+            "codigo": 27,
+            "procedimento": "2,5-heptanediona"
+        },
+        {
+            "codigo": 28,
+            "procedimento": "2,5-hexanediona + 4,5-dihidroxi-2-hexanona"
+        },
+        {
+            "codigo": 29,
+            "procedimento": "2,5-hexanodiona urinária"
+        },
+        {
+            "codigo": 30,
+            "procedimento": "2,6-dinitroaminotolueno"
+        },
+        {
+            "codigo": 31,
+            "procedimento": "2-butanona"
+        },
+        {
+            "codigo": 32,
+            "procedimento": "2-dimetilamino-4-hidroxi-5,6-dimetilpirimidina"
+        },
+        {
+            "codigo": 33,
+            "procedimento": "2-etil, 5-hidroxi-hexil-ftalato"
+        },
+        {
+            "codigo": 34,
+            "procedimento": "2-etil-5-oxi-hexil-ftalato"
+        },
+        {
+            "codigo": 35,
+            "procedimento": "2-etilfenol"
+        },
+        {
+            "codigo": 36,
+            "procedimento": "2-fenil 2-propanol"
+        },
+        {
+            "codigo": 37,
+            "procedimento": "2-isopropoxifenol"
+        },
+        {
+            "codigo": 38,
+            "procedimento": "2-metilamino-4-hidroxi-5,6-dimetilpirimidina"
+        },
+        {
+            "codigo": 39,
+            "procedimento": "2-metilpentano sanguíneo"
+        },
+        {
+            "codigo": 40,
+            "procedimento": "2-naftilamina"
+        },
+        {
+            "codigo": 41,
+            "procedimento": "3,4-diclorocatecol"
+        },
+        {
+            "codigo": 42,
+            "procedimento": "3-alfa androstanediol glucoronídeo (3-ALFADIOL)"
+        },
+        {
+            "codigo": 43,
+            "procedimento": "3-hidroxibenzopireno"
+        },
+        {
+            "codigo": 44,
+            "procedimento": "3-hidroxicarbofurano urinário"
+        },
+        {
+            "codigo": 45,
+            "procedimento": "3-metil histidina"
+        },
+        {
+            "codigo": 46,
+            "procedimento": "3-metil pentano sanguíneo"
+        },
+        {
+            "codigo": 47,
+            "procedimento": "4,4-diaminodiciclohexil metano (DDHM)"
+        },
+        {
+            "codigo": 49,
+            "procedimento": "4,4-diaminodifenilmetano"
+        },
+        {
+            "codigo": 50,
+            "procedimento": "4,4'-metileno bis-2-cloroanilina (MbOCA)"
+        },
+        {
+            "codigo": 48,
+            "procedimento": "4,4'-metilenodianilina (MDA)"
+        },
+        {
+            "codigo": 51,
+            "procedimento": "4,5-diclorocatecol"
+        },
+        {
+            "codigo": 52,
+            "procedimento": "4,6-dinitro-o-cresol (DNOC) sanguíneo"
+        },
+        {
+            "codigo": 53,
+            "procedimento": "4-amino-2,6-dinitrotolueno"
+        },
+        {
+            "codigo": 54,
+            "procedimento": "4-amino-2-nitrofenol"
+        },
+        {
+            "codigo": 55,
+            "procedimento": "4-amino-bifenil"
+        },
+        {
+            "codigo": 56,
+            "procedimento": "4-clorocatecol"
+        },
+        {
+            "codigo": 57,
+            "procedimento": "4-cloro-o-toluidina (derivados)"
+        },
+        {
+            "codigo": 58,
+            "procedimento": "4-etilfenol"
+        },
+        {
+            "codigo": 59,
+            "procedimento": "4-metilpentan-2-ona"
+        },
+        {
+            "codigo": 60,
+            "procedimento": "5,6-dimetil-2-(metilamino)pirimidin-4-ol"
+        },
+        {
+            "codigo": 61,
+            "procedimento": "5-hidroximetil-pirrolidona"
+        },
+        {
+            "codigo": 62,
+            "procedimento": "5-hydroxi-N-metilpirrolidona"
+        },
+        {
+            "codigo": 63,
+            "procedimento": "5-nucleotidase"
+        },
+        {
+            "codigo": 64,
+            "procedimento": "Aberrações cromossômicas (pesquisa)"
+        },
+        {
+            "codigo": 65,
+            "procedimento": "Absidia (pesquisa)"
+        },
+        {
+            "codigo": 66,
+            "procedimento": "Acanthamoeba (pesquisa)"
+        },
+        {
+            "codigo": 67,
+            "procedimento": "Acetaminofen"
+        },
+        {
+            "codigo": 68,
+            "procedimento": "Acetilcolinesterase eritrocitária"
+        },
+        {
+            "codigo": 69,
+            "procedimento": "Acetilcolinesterase plasmática"
+        },
+        {
+            "codigo": 70,
+            "procedimento": "Acetona sanguínea"
+        },
+        {
+            "codigo": 71,
+            "procedimento": "Acetona urinária"
+        },
+        {
+            "codigo": 72,
+            "procedimento": "Acidez titulável na urina"
+        },
+        {
+            "codigo": 74,
+            "procedimento": "Ácido 2,4,5-triclorofenoxiacético (2,4,5-T) urinário"
+        },
+        {
+            "codigo": 75,
+            "procedimento": "Ácido 2,4-diclorofenoxiacético (2,4-D) urinário"
+        },
+        {
+            "codigo": 73,
+            "procedimento": "Ácido 2,4-dinitrobenzoico"
+        },
+        {
+            "codigo": 76,
+            "procedimento": "Ácido 2-hidroxi-3-butenil mercaptúrico"
+        },
+        {
+            "codigo": 77,
+            "procedimento": "Ácido 2-hidroxipropil mercaptúrico"
+        },
+        {
+            "codigo": 78,
+            "procedimento": "Ácido 2-tiotiazolidina"
+        },
+        {
+            "codigo": 79,
+            "procedimento": "Ácido 2-tiotiazolidina-4-carboxílico (TTCA)"
+        },
+        {
+            "codigo": 80,
+            "procedimento": "Ácido 3,4-dihidroxibutil mercaptúrico"
+        },
+        {
+            "codigo": 81,
+            "procedimento": "Ácido 3-fenoxibenzoico"
+        },
+        {
+            "codigo": 82,
+            "procedimento": "Ácido 3-hidroxipropil mercaptúrico"
+        },
+        {
+            "codigo": 83,
+            "procedimento": "Ácido 4-cloro-2-metilfenoxiacético (MCPA) urinário"
+        },
+        {
+            "codigo": 84,
+            "procedimento": "Ácido 4-fluoro-3-fenoxibenzoico"
+        },
+        {
+            "codigo": 85,
+            "procedimento": "Ácido 5 hidróxi-indolacético"
+        },
+        {
+            "codigo": 86,
+            "procedimento": "Ácido acético"
+        },
+        {
+            "codigo": 87,
+            "procedimento": "Ácido ascórbico (vitamina C)"
+        },
+        {
+            "codigo": 88,
+            "procedimento": "Ácido beta hidroxi-butírico"
+        },
+        {
+            "codigo": 89,
+            "procedimento": "Ácido butoxi-acético"
+        },
+        {
+            "codigo": 90,
+            "procedimento": "Ácido cacodílico"
+        },
+        {
+            "codigo": 91,
+            "procedimento": "Ácido cis- 3-(2,2-diclorovinil)-2,2-dimetilciclopropanocarboxilico"
+        },
+        {
+            "codigo": 92,
+            "procedimento": "Ácido cis-3-(2,2-dibromovinil)-2,2-dimetilciclopropanocarboxilico"
+        },
+        {
+            "codigo": 93,
+            "procedimento": "Ácido cítrico na urina"
+        },
+        {
+            "codigo": 94,
+            "procedimento": "Ácido dehidroabiético"
+        },
+        {
+            "codigo": 95,
+            "procedimento": "Ácido delta aminolevulínico"
+        },
+        {
+            "codigo": 96,
+            "procedimento": "Ácido delta aminolevulínico desidratase (ALA-D)"
+        },
+        {
+            "codigo": 97,
+            "procedimento": "Ácido d-glucárico"
+        },
+        {
+            "codigo": 98,
+            "procedimento": "Ácido dimetilarsínico"
+        },
+        {
+            "codigo": 99,
+            "procedimento": "Ácido dimetilbenzoico"
+        },
+        {
+            "codigo": 100,
+            "procedimento": "Ácido etoxiacético"
+        },
+        {
+            "codigo": 101,
+            "procedimento": "Ácido fenilfosfórico urinário"
+        },
+        {
+            "codigo": 102,
+            "procedimento": "Ácido fenilglioxílico"
+        },
+        {
+            "codigo": 103,
+            "procedimento": "Ácido fenil-mercaptúrico"
+        },
+        {
+            "codigo": 104,
+            "procedimento": "Ácido fólico eritrocitário"
+        },
+        {
+            "codigo": 105,
+            "procedimento": "Ácido fórmico"
+        },
+        {
+            "codigo": 106,
+            "procedimento": "Ácido furoico"
+        },
+        {
+            "codigo": 107,
+            "procedimento": "Ácido glioxílico"
+        },
+        {
+            "codigo": 108,
+            "procedimento": "Ácido hidroxietil-mercaptúrico"
+        },
+        {
+            "codigo": 109,
+            "procedimento": "Ácido hipúrico"
+        },
+        {
+            "codigo": 110,
+            "procedimento": "Ácido homo vanílico"
+        },
+        {
+            "codigo": 111,
+            "procedimento": "Ácido homogentísico urinário"
+        },
+        {
+            "codigo": 112,
+            "procedimento": "Ácido láctico (lactato)"
+        },
+        {
+            "codigo": 113,
+            "procedimento": "Ácido mandélico"
+        },
+        {
+            "codigo": 114,
+            "procedimento": "Ácido mercaptúrico acrilamida"
+        },
+        {
+            "codigo": 115,
+            "procedimento": "Ácido metil malônico"
+        },
+        {
+            "codigo": 116,
+            "procedimento": "Ácido metilhipúrico"
+        },
+        {
+            "codigo": 117,
+            "procedimento": "Ácido metoxiacético (2-metoxiacético)"
+        },
+        {
+            "codigo": 118,
+            "procedimento": "Ácido metoxi-propiônico (ácido isobutírico)"
+        },
+        {
+            "codigo": 119,
+            "procedimento": "Ácido monometilarsônico"
+        },
+        {
+            "codigo": 120,
+            "procedimento": "Ácido orótico"
+        },
+        {
+            "codigo": 121,
+            "procedimento": "Ácido oxálico"
+        },
+        {
+            "codigo": 122,
+            "procedimento": "Ácido perfluorooctanoico"
+        },
+        {
+            "codigo": 123,
+            "procedimento": "Ácido perfluorooctanossulfônico"
+        },
+        {
+            "codigo": 124,
+            "procedimento": "Ácido pirúvico"
+        },
+        {
+            "codigo": 125,
+            "procedimento": "Ácido S-(3-cloro-2-hidroxipropil) mercaptúrico"
+        },
+        {
+            "codigo": 126,
+            "procedimento": "Ácido S(n-Propil)mercaptúrico"
+        },
+        {
+            "codigo": 127,
+            "procedimento": "Ácido salicílico"
+        },
+        {
+            "codigo": 128,
+            "procedimento": "Ácido siálico"
+        },
+        {
+            "codigo": 129,
+            "procedimento": "Ácido tioglicólico"
+        },
+        {
+            "codigo": 130,
+            "procedimento": "Ácido trans, trans-mucônico"
+        },
+        {
+            "codigo": 131,
+            "procedimento": "Ácido trans-3-(2,2-diclorovinil)-2,2-dimetilciclopropanocarboxilico"
+        },
+        {
+            "codigo": 132,
+            "procedimento": "Ácido trans-crisantemum-dicarboxilico"
+        },
+        {
+            "codigo": 133,
+            "procedimento": "Ácido tricloroacético"
+        },
+        {
+            "codigo": 134,
+            "procedimento": "Ácido trifluoroacético"
+        },
+        {
+            "codigo": 135,
+            "procedimento": "Ácido úrico"
+        },
+        {
+            "codigo": 136,
+            "procedimento": "Ácido valproico"
+        },
+        {
+            "codigo": 137,
+            "procedimento": "Ácido vanilmandélico (VMA)"
+        },
+        {
+            "codigo": 138,
+            "procedimento": "Ácido β-hidroxietoxi acético"
+        },
+        {
+            "codigo": 1400,
+            "procedimento": "Ácidos biliares"
+        },
+        {
+            "codigo": 139,
+            "procedimento": "Ácidos graxos livres"
+        },
+        {
+            "codigo": 140,
+            "procedimento": "Ácidos orgânicos (perfil quantitativo)"
+        },
+        {
+            "codigo": 141,
+            "procedimento": "Acilcarnitinas (perfil qualitativo)"
+        },
+        {
+            "codigo": 1401,
+            "procedimento": "Acilcarnitinas (perfil quantitativo)"
+        },
+        {
+            "codigo": 142,
+            "procedimento": "Actinobacillus (pesquisa)"
+        },
+        {
+            "codigo": 143,
+            "procedimento": "Actinomadura (pesquisa)"
+        },
+        {
+            "codigo": 144,
+            "procedimento": "Actinomyces (pesquisa)"
+        },
+        {
+            "codigo": 145,
+            "procedimento": "Adenilatoquinase"
+        },
+        {
+            "codigo": 146,
+            "procedimento": "Adenovírus - IgG"
+        },
+        {
+            "codigo": 147,
+            "procedimento": "Adenovírus - IgM"
+        },
+        {
+            "codigo": 148,
+            "procedimento": "Adrenocorticotrófico, hormônio (ACTH)"
+        },
+        {
+            "codigo": 149,
+            "procedimento": "Adutos de DNA (pesquisa)"
+        },
+        {
+            "codigo": 150,
+            "procedimento": "Adutos de proteínas (pesquisa)"
+        },
+        {
+            "codigo": 151,
+            "procedimento": "Aflatoxinas (pesquisa)"
+        },
+        {
+            "codigo": 152,
+            "procedimento": "Agente da doença crônica emaciante (pesquisa)"
+        },
+        {
+            "codigo": 153,
+            "procedimento": "Agente da doença de Creutzfeldt-Jakob esporádica (pesquisa)"
+        },
+        {
+            "codigo": 154,
+            "procedimento": "Agente da doença de Creutzfeldt-Jakob familiar (pesquisa)"
+        },
+        {
+            "codigo": 155,
+            "procedimento": "Agente da doença de Creutzfeldt-Jakob iatrogênica (pesquisa)"
+        },
+        {
+            "codigo": 156,
+            "procedimento": "Agente da doença de Creutzfeldt-Jakob variante (pesquisa)"
+        },
+        {
+            "codigo": 157,
+            "procedimento": "Agente da encefalopatia espongiforme bovina (BSE) (pesquisa)"
+        },
+        {
+            "codigo": 158,
+            "procedimento": "Agente da encefalopatia espongiforme bovina tipo-H (pesquisa)"
+        },
+        {
+            "codigo": 159,
+            "procedimento": "Agente da encefalopatia espongiforme em ungulados exóticos (pesquisa)"
+        },
+        {
+            "codigo": 160,
+            "procedimento": "Agente da encefalopatia espongiforme felina (pesquisa)"
+        },
+        {
+            "codigo": 161,
+            "procedimento": "Agente da insônia fatal esporádica (pesquisa)"
+        },
+        {
+            "codigo": 162,
+            "procedimento": "Agente da insônia fatal familiar de Gerstmann-Sträussler-Scheinker (pesquisa)"
+        },
+        {
+            "codigo": 163,
+            "procedimento": "Agente da Kuru (pesquisa)"
+        },
+        {
+            "codigo": 164,
+            "procedimento": "Agente da prionopatia variante protease-resistente (pesquisa)"
+        },
+        {
+            "codigo": 165,
+            "procedimento": "Agente do tremor epizoótico (scrapie disease) (pesquisa)"
+        },
+        {
+            "codigo": 166,
+            "procedimento": "Agente do tremor epizoótico (scrapie disease) atípico (pesquisa)"
+        },
+        {
+            "codigo": 167,
+            "procedimento": "Ajellomyces (pesquisa)"
+        },
+        {
+            "codigo": 168,
+            "procedimento": "Albumina"
+        },
+        {
+            "codigo": 169,
+            "procedimento": "Albumina S-metilcisteína"
+        },
+        {
+            "codigo": 170,
+            "procedimento": "Alcaligenes (pesquisa)"
+        },
+        {
+            "codigo": 171,
+            "procedimento": "Alcaptonúria"
+        },
+        {
+            "codigo": 172,
+            "procedimento": "Aldolase"
+        },
+        {
+            "codigo": 173,
+            "procedimento": "Aldosterona"
+        },
+        {
+            "codigo": 174,
+            "procedimento": "Alérgenos - Perfil antigênico (painel C/36 antígenos)"
+        },
+        {
+            "codigo": 176,
+            "procedimento": "Alfa-1-antitripsina, dosagem no soro"
+        },
+        {
+            "codigo": 177,
+            "procedimento": "Alfa-1-glicoproteína ácida"
+        },
+        {
+            "codigo": 175,
+            "procedimento": "Alfa-1-microglobulina na urina"
+        },
+        {
+            "codigo": 178,
+            "procedimento": "Alfa-2-antiplasmina, teste funcional"
+        },
+        {
+            "codigo": 179,
+            "procedimento": "Alfa-2-macroglobulina"
+        },
+        {
+            "codigo": 180,
+            "procedimento": "Alfa-amilase"
+        },
+        {
+            "codigo": 181,
+            "procedimento": "Alfa-fetoproteína"
+        },
+        {
+            "codigo": 182,
+            "procedimento": "Alfa-hexaclorociclo-hexano"
+        },
+        {
+            "codigo": 183,
+            "procedimento": "Alumínio plasmático"
+        },
+        {
+            "codigo": 184,
+            "procedimento": "Alumínio urinário"
+        },
+        {
+            "codigo": 185,
+            "procedimento": "Amebíase - IgG"
+        },
+        {
+            "codigo": 186,
+            "procedimento": "Amebíase - IgM"
+        },
+        {
+            "codigo": 187,
+            "procedimento": "Amilase"
+        },
+        {
+            "codigo": 188,
+            "procedimento": "Aminoácidos, fracionamento e quantificação"
+        },
+        {
+            "codigo": 189,
+            "procedimento": "Amiodarona"
+        },
+        {
+            "codigo": 190,
+            "procedimento": "Amitriptilina"
+        },
+        {
+            "codigo": 191,
+            "procedimento": "Amônia"
+        },
+        {
+            "codigo": 192,
+            "procedimento": "AMP cíclico"
+        },
+        {
+            "codigo": 193,
+            "procedimento": "Ancylostoma (pesquisa)"
+        },
+        {
+            "codigo": 194,
+            "procedimento": "Androstenediona"
+        },
+        {
+            "codigo": 195,
+            "procedimento": "Anfetaminas"
+        },
+        {
+            "codigo": 196,
+            "procedimento": "Angiostrongylus (pesquisa)"
+        },
+        {
+            "codigo": 197,
+            "procedimento": "Anilina sanguínea"
+        },
+        {
+            "codigo": 198,
+            "procedimento": "Anilina urinária"
+        },
+        {
+            "codigo": 199,
+            "procedimento": "Anilina-hemoglobina"
+        },
+        {
+            "codigo": 200,
+            "procedimento": "Anisakis (pesquisa)"
+        },
+        {
+            "codigo": 201,
+            "procedimento": "Anti-12-hidroxi-endrin urinário"
+        },
+        {
+            "codigo": 202,
+            "procedimento": "Anti-actina"
+        },
+        {
+            "codigo": 203,
+            "procedimento": "Antibiograma"
+        },
+        {
+            "codigo": 204,
+            "procedimento": "Antibióticos, dosagem no soro"
+        },
+        {
+            "codigo": 205,
+            "procedimento": "Anticandida - IgG e IgM"
+        },
+        {
+            "codigo": 206,
+            "procedimento": "Anticardiolipina - IgA"
+        },
+        {
+            "codigo": 207,
+            "procedimento": "Anticardiolipina - IgG"
+        },
+        {
+            "codigo": 208,
+            "procedimento": "Anticardiolipina - IgM"
+        },
+        {
+            "codigo": 209,
+            "procedimento": "Anticentrômero"
+        },
+        {
+            "codigo": 210,
+            "procedimento": "Anticoagulante lúpico"
+        },
+        {
+            "codigo": 211,
+            "procedimento": "Anticorpo anti A e B"
+        },
+        {
+            "codigo": 212,
+            "procedimento": "Anticorpo anti saccharamyces - ASCA"
+        },
+        {
+            "codigo": 213,
+            "procedimento": "Anticorpo anti-DNAse B"
+        },
+        {
+            "codigo": 214,
+            "procedimento": "Anticorpo anti-hormônio do crescimento"
+        },
+        {
+            "codigo": 215,
+            "procedimento": "Anticorpo antimieloperoxidase, MPO"
+        },
+        {
+            "codigo": 216,
+            "procedimento": "Anticorpo anti-receptor de TSH (TRAB)"
+        },
+        {
+            "codigo": 217,
+            "procedimento": "Anticorpo antivírus da hepatite E"
+        },
+        {
+            "codigo": 218,
+            "procedimento": "Anticorpos antiendomisio - IgG, IgM, IgA"
+        },
+        {
+            "codigo": 219,
+            "procedimento": "Anticorpos anti-ilhota de langherans"
+        },
+        {
+            "codigo": 220,
+            "procedimento": "Anticorpos anti-influenza A - IgG"
+        },
+        {
+            "codigo": 221,
+            "procedimento": "Anticorpos anti-influenza A - IgM"
+        },
+        {
+            "codigo": 222,
+            "procedimento": "Anticorpos anti-influenza B - IgG"
+        },
+        {
+            "codigo": 223,
+            "procedimento": "Anticorpos anti-influenza B - IgM"
+        },
+        {
+            "codigo": 224,
+            "procedimento": "Anticorpos antiinsulina"
+        },
+        {
+            "codigo": 225,
+            "procedimento": "Anticorpos antiplaquetários, citometria de fluxo"
+        },
+        {
+            "codigo": 226,
+            "procedimento": "Anticorpos antitireóide (tireoglobulina)"
+        },
+        {
+            "codigo": 227,
+            "procedimento": "Anticorpos irregulares"
+        },
+        {
+            "codigo": 1402,
+            "procedimento": "Anticorpos naturais - Isoaglutininas"
+        },
+        {
+            "codigo": 228,
+            "procedimento": "Anticortex supra-renal"
+        },
+        {
+            "codigo": 229,
+            "procedimento": "Antidesoxiribonuclease B"
+        },
+        {
+            "codigo": 230,
+            "procedimento": "Anti-DMP"
+        },
+        {
+            "codigo": 231,
+            "procedimento": "Anti-DNA"
+        },
+        {
+            "codigo": 232,
+            "procedimento": "Antiescleroderma"
+        },
+        {
+            "codigo": 233,
+            "procedimento": "Antifígado"
+        },
+        {
+            "codigo": 235,
+            "procedimento": "Antígeno carcinoembriogênico (CEA)"
+        },
+        {
+            "codigo": 236,
+            "procedimento": "Antígeno de diferenciação celular"
+        },
+        {
+            "codigo": 237,
+            "procedimento": "Antígeno específico prostático livre (PSA livre)"
+        },
+        {
+            "codigo": 238,
+            "procedimento": "Antígeno específico prostático total (PSA)"
+        },
+        {
+            "codigo": 239,
+            "procedimento": "Antígenos fúngicos, pesquisa"
+        },
+        {
+            "codigo": 240,
+            "procedimento": "Antígenos metílicos solúveis do BCG"
+        },
+        {
+            "codigo": 241,
+            "procedimento": "Antigliadina (glúten) - IgA"
+        },
+        {
+            "codigo": 242,
+            "procedimento": "Antigliadina (glúten) - IgG"
+        },
+        {
+            "codigo": 243,
+            "procedimento": "Antigliadina (glúten) - IgM"
+        },
+        {
+            "codigo": 244,
+            "procedimento": "Anti-hialuronidase"
+        },
+        {
+            "codigo": 245,
+            "procedimento": "Anti-JO1"
+        },
+        {
+            "codigo": 246,
+            "procedimento": "Anti-LA/SSB"
+        },
+        {
+            "codigo": 247,
+            "procedimento": "Anti-LKM-1"
+        },
+        {
+            "codigo": 248,
+            "procedimento": "Antimembrana basal"
+        },
+        {
+            "codigo": 249,
+            "procedimento": "Antimicrossomal"
+        },
+        {
+            "codigo": 250,
+            "procedimento": "Antimitocondria"
+        },
+        {
+            "codigo": 251,
+            "procedimento": "Antimitocondria, M2"
+        },
+        {
+            "codigo": 252,
+            "procedimento": "Antimônio urinário"
+        },
+        {
+            "codigo": 253,
+            "procedimento": "Antimúsculo cardíaco"
+        },
+        {
+            "codigo": 254,
+            "procedimento": "Antimúsculo estriado"
+        },
+        {
+            "codigo": 255,
+            "procedimento": "Antimúsculo liso"
+        },
+        {
+            "codigo": 256,
+            "procedimento": "Antineutrófilos (anca) C"
+        },
+        {
+            "codigo": 257,
+            "procedimento": "Antineutrófilos (anca) P"
+        },
+        {
+            "codigo": 258,
+            "procedimento": "Antiparietal"
+        },
+        {
+            "codigo": 259,
+            "procedimento": "Antiperoxidase tireoideana"
+        },
+        {
+            "codigo": 260,
+            "procedimento": "Anti-RNP"
+        },
+        {
+            "codigo": 261,
+            "procedimento": "Anti-Ro/SSA"
+        },
+        {
+            "codigo": 262,
+            "procedimento": "Anti-Sm"
+        },
+        {
+            "codigo": 263,
+            "procedimento": "Anti-TPO"
+        },
+        {
+            "codigo": 264,
+            "procedimento": "Antitrombina III"
+        },
+        {
+            "codigo": 265,
+            "procedimento": "Antrax (pesquisa)"
+        },
+        {
+            "codigo": 266,
+            "procedimento": "Apolipoproteína A (Apo A)"
+        },
+        {
+            "codigo": 267,
+            "procedimento": "Apolipoproteína B (Apo B)"
+        },
+        {
+            "codigo": 268,
+            "procedimento": "Apolipoproteína E"
+        },
+        {
+            "codigo": 270,
+            "procedimento": "Arcanobacterium (pesquisa)"
+        },
+        {
+            "codigo": 271,
+            "procedimento": "Arsênico +III urinário"
+        },
+        {
+            "codigo": 272,
+            "procedimento": "Arsênico +V urinário"
+        },
+        {
+            "codigo": 273,
+            "procedimento": "Arsênico capilar"
+        },
+        {
+            "codigo": 274,
+            "procedimento": "Arsênico Inorgânico urinário"
+        },
+        {
+            "codigo": 275,
+            "procedimento": "Arsênio - Metabólitos metilados urinários"
+        },
+        {
+            "codigo": 276,
+            "procedimento": "Ascaris (pesquisa)"
+        },
+        {
+            "codigo": 277,
+            "procedimento": "Aslo"
+        },
+        {
+            "codigo": 278,
+            "procedimento": "Aspergillus (pesquisa)"
+        },
+        {
+            "codigo": 279,
+            "procedimento": "Aspergilus, reação sorológica"
+        },
+        {
+            "codigo": 280,
+            "procedimento": "Ativador tissular de plasminogênio (TPA)"
+        },
+        {
+            "codigo": 282,
+            "procedimento": "Audiometria de tronco cerebral (PEA) BERA"
+        },
+        {
+            "codigo": 283,
+            "procedimento": "Audiometria tonal limiar com testes de discriminação"
+        },
+        {
+            "codigo": 281,
+            "procedimento": "Audiometria tonal ocupacional"
+        },
+        {
+            "codigo": 284,
+            "procedimento": "Audiometria vocal - Pesquisa de limiar de discriminação"
+        },
+        {
+            "codigo": 285,
+            "procedimento": "Audiometria vocal - Pesquisa de limiar de inteligibilidade"
+        },
+        {
+            "codigo": 286,
+            "procedimento": "Avaliação clínica com ênfase cardiocirculatória (anamnese e exame físico)"
+        },
+        {
+            "codigo": 287,
+            "procedimento": "Avaliação clínica com ênfase dermatológica (anamnese e exame físico)"
+        },
+        {
+            "codigo": 288,
+            "procedimento": "Avaliação clínica com ênfase gastrointestinal (anamnese e exame físico)"
+        },
+        {
+            "codigo": 289,
+            "procedimento": "Avaliação clínica com ênfase mental (anamnese e exame físico)"
+        },
+        {
+            "codigo": 290,
+            "procedimento": "Avaliação clínica com ênfase neurológca (anamnese e exame físico)"
+        },
+        {
+            "codigo": 291,
+            "procedimento": "Avaliação clínica com ênfase neurossensorial (anamnese e exame físico)"
+        },
+        {
+            "codigo": 292,
+            "procedimento": "Avaliação clínica com ênfase ortopédica (anamnese e exame físico)"
+        },
+        {
+            "codigo": 293,
+            "procedimento": "Avaliação clínica com ênfase respiratória (anamnese e exame físico)"
+        },
+        {
+            "codigo": 294,
+            "procedimento": "Avaliação clínica com ênfase urogenital (anamnese e exame físico)"
+        },
+        {
+            "codigo": 295,
+            "procedimento": "Avaliação clínica ocupacional (anamnese e exame físico)"
+        },
+        {
+            "codigo": 296,
+            "procedimento": "Avaliação da acuidade visual"
+        },
+        {
+            "codigo": 297,
+            "procedimento": "Avaliação da estereopsia"
+        },
+        {
+            "codigo": 298,
+            "procedimento": "Avaliação da visão de cores"
+        },
+        {
+            "codigo": 299,
+            "procedimento": "Avaliação do campo visual"
+        },
+        {
+            "codigo": 300,
+            "procedimento": "Avaliação psicossocial"
+        },
+        {
+            "codigo": 301,
+            "procedimento": "Azida sódica, teste da"
+        },
+        {
+            "codigo": 302,
+            "procedimento": "B.A.A.R. (Ziehl ou fluorescência)"
+        },
+        {
+            "codigo": 303,
+            "procedimento": "Babesia (pesquisa)"
+        },
+        {
+            "codigo": 304,
+            "procedimento": "Bacillus (pesquisa)"
+        },
+        {
+            "codigo": 305,
+            "procedimento": "Bacterioscopia"
+        },
+        {
+            "codigo": 306,
+            "procedimento": "Bacteroides (pesquisa)"
+        },
+        {
+            "codigo": 307,
+            "procedimento": "Balantidium (pesquisa)"
+        },
+        {
+            "codigo": 308,
+            "procedimento": "Barbitúricos, antidepressivos tricíclicos"
+        },
+        {
+            "codigo": 309,
+            "procedimento": "Bário urinário"
+        },
+        {
+            "codigo": 310,
+            "procedimento": "Bartituratos"
+        },
+        {
+            "codigo": 311,
+            "procedimento": "Bartonella (pesquisa)"
+        },
+        {
+            "codigo": 312,
+            "procedimento": "Benzeno urinário"
+        },
+        {
+            "codigo": 313,
+            "procedimento": "Benzidina eritrocitária"
+        },
+        {
+            "codigo": 314,
+            "procedimento": "Benzidina urinária"
+        },
+        {
+            "codigo": 315,
+            "procedimento": "Benzodiazepínicos e similares"
+        },
+        {
+            "codigo": 316,
+            "procedimento": "Berílio urinário"
+        },
+        {
+            "codigo": 317,
+            "procedimento": "Beta mercapto-lactato-disulfidúria"
+        },
+        {
+            "codigo": 318,
+            "procedimento": "Beta-2-microglobulina"
+        },
+        {
+            "codigo": 319,
+            "procedimento": "Beta-glicuronidase"
+        },
+        {
+            "codigo": 320,
+            "procedimento": "Beta-hexaclorociclo-hexano"
+        },
+        {
+            "codigo": 321,
+            "procedimento": "Bilirrubinas (direta, indireta e total)"
+        },
+        {
+            "codigo": 322,
+            "procedimento": "Biotinidase atividade"
+        },
+        {
+            "codigo": 323,
+            "procedimento": "Bisfenol A (4,4-isopropiledenedifenol)"
+        },
+        {
+            "codigo": 324,
+            "procedimento": "Bismuto plasmático"
+        },
+        {
+            "codigo": 325,
+            "procedimento": "Bismuto urinário"
+        },
+        {
+            "codigo": 326,
+            "procedimento": "Blastocystis (pesquisa)"
+        },
+        {
+            "codigo": 327,
+            "procedimento": "Blastomicose, reação sorológica"
+        },
+        {
+            "codigo": 328,
+            "procedimento": "Blastomyces (pesquisa)"
+        },
+        {
+            "codigo": 329,
+            "procedimento": "Bocavírus humano (pesquisa)"
+        },
+        {
+            "codigo": 330,
+            "procedimento": "Boro"
+        },
+        {
+            "codigo": 331,
+            "procedimento": "Borrelia (pesquisa)"
+        },
+        {
+            "codigo": 332,
+            "procedimento": "Brachispira (pesquisa)"
+        },
+        {
+            "codigo": 333,
+            "procedimento": "Brometo"
+        },
+        {
+            "codigo": 334,
+            "procedimento": "Bromofós sanguíneo"
+        },
+        {
+            "codigo": 335,
+            "procedimento": "Bromofós urinário"
+        },
+        {
+            "codigo": 336,
+            "procedimento": "Brucela - IgG"
+        },
+        {
+            "codigo": 337,
+            "procedimento": "Brucela - IgM"
+        },
+        {
+            "codigo": 338,
+            "procedimento": "Brucela, prova rápida"
+        },
+        {
+            "codigo": 339,
+            "procedimento": "Brucella (pesquisa)"
+        },
+        {
+            "codigo": 340,
+            "procedimento": "Brugia (pesquisa)"
+        },
+        {
+            "codigo": 341,
+            "procedimento": "Bunyavírus germiston (pesquisa)"
+        },
+        {
+            "codigo": 342,
+            "procedimento": "Burkholderia (pesquisa)"
+        },
+        {
+            "codigo": 343,
+            "procedimento": "Buta-2-ona"
+        },
+        {
+            "codigo": 344,
+            "procedimento": "Butanol sanguíneo"
+        },
+        {
+            "codigo": 1429,
+            "procedimento": "Butilcolinesterase no plasma ou soro"
+        },
+        {
+            "codigo": 345,
+            "procedimento": "C1q"
+        },
+        {
+            "codigo": 346,
+            "procedimento": "C3 proativador"
+        },
+        {
+            "codigo": 347,
+            "procedimento": "C3A (fator B)"
+        },
+        {
+            "codigo": 348,
+            "procedimento": "CA 50"
+        },
+        {
+            "codigo": 349,
+            "procedimento": "CA-242"
+        },
+        {
+            "codigo": 350,
+            "procedimento": "CA-27-29"
+        },
+        {
+            "codigo": 351,
+            "procedimento": "Cádmio sanguíneo"
+        },
+        {
+            "codigo": 352,
+            "procedimento": "Cádmio urinário"
+        },
+        {
+            "codigo": 353,
+            "procedimento": "Cálcio"
+        },
+        {
+            "codigo": 354,
+            "procedimento": "Cálcio iônico"
+        },
+        {
+            "codigo": 355,
+            "procedimento": "Calcitonina"
+        },
+        {
+            "codigo": 356,
+            "procedimento": "Campylobacter (pesquisa)"
+        },
+        {
+            "codigo": 357,
+            "procedimento": "Campylobacter (pesquisa)"
+        },
+        {
+            "codigo": 358,
+            "procedimento": "Candida (pesquisa)"
+        },
+        {
+            "codigo": 359,
+            "procedimento": "Capacidade de fixação de ferro"
+        },
+        {
+            "codigo": 360,
+            "procedimento": "Capillaria (pesquisa)"
+        },
+        {
+            "codigo": 362,
+            "procedimento": "Carbamazepina"
+        },
+        {
+            "codigo": 361,
+            "procedimento": "Carbendazim"
+        },
+        {
+            "codigo": 363,
+            "procedimento": "Carbofuranfenol"
+        },
+        {
+            "codigo": 364,
+            "procedimento": "Carboxihemoglobina"
+        },
+        {
+            "codigo": 365,
+            "procedimento": "Cardiobacterium (pesquisa)"
+        },
+        {
+            "codigo": 366,
+            "procedimento": "Carnitina livre"
+        },
+        {
+            "codigo": 367,
+            "procedimento": "Carnitina total e frações"
+        },
+        {
+            "codigo": 368,
+            "procedimento": "Caroteno"
+        },
+        {
+            "codigo": 369,
+            "procedimento": "Catecolaminas"
+        },
+        {
+            "codigo": 370,
+            "procedimento": "Catecolaminas fracionadas - Dopamina, epinefrina, norepinefrina na urina"
+        },
+        {
+            "codigo": 371,
+            "procedimento": "Caxumba - IgG"
+        },
+        {
+            "codigo": 372,
+            "procedimento": "Caxumba - IgM"
+        },
+        {
+            "codigo": 373,
+            "procedimento": "CEE vírus, pesquisa"
+        },
+        {
+            "codigo": 374,
+            "procedimento": "Células LE"
+        },
+        {
+            "codigo": 375,
+            "procedimento": "Ceruloplasmina"
+        },
+        {
+            "codigo": 376,
+            "procedimento": "Césio urinário"
+        },
+        {
+            "codigo": 377,
+            "procedimento": "Chagas - IgG"
+        },
+        {
+            "codigo": 378,
+            "procedimento": "Chagas - IgM"
+        },
+        {
+            "codigo": 379,
+            "procedimento": "Chlamydia - IgG"
+        },
+        {
+            "codigo": 380,
+            "procedimento": "Chlamydia - IgM"
+        },
+        {
+            "codigo": 381,
+            "procedimento": "Chlamydia, cultura"
+        },
+        {
+            "codigo": 382,
+            "procedimento": "Chlamydophila (pesquisa)"
+        },
+        {
+            "codigo": 383,
+            "procedimento": "Chlormequat"
+        },
+        {
+            "codigo": 384,
+            "procedimento": "Chumbo dietila"
+        },
+        {
+            "codigo": 385,
+            "procedimento": "Chumbo sanguíneo"
+        },
+        {
+            "codigo": 386,
+            "procedimento": "Chumbo total"
+        },
+        {
+            "codigo": 387,
+            "procedimento": "Chumbo urinário"
+        },
+        {
+            "codigo": 388,
+            "procedimento": "Cianeto (cianureto) sanguíneo"
+        },
+        {
+            "codigo": 389,
+            "procedimento": "Ciclofosfamida"
+        },
+        {
+            "codigo": 390,
+            "procedimento": "Ciclo-hexanodiol"
+        },
+        {
+            "codigo": 391,
+            "procedimento": "Ciclo-hexanol"
+        },
+        {
+            "codigo": 392,
+            "procedimento": "Ciclosporina"
+        },
+        {
+            "codigo": 393,
+            "procedimento": "Cisticercose, AC"
+        },
+        {
+            "codigo": 394,
+            "procedimento": "Cistinúria"
+        },
+        {
+            "codigo": 395,
+            "procedimento": "cis-δ4 tetrahidroftalimida (THPI)"
+        },
+        {
+            "codigo": 396,
+            "procedimento": "Citomegalovírus - shell vial"
+        },
+        {
+            "codigo": 397,
+            "procedimento": "Citomegalovírus - IgG"
+        },
+        {
+            "codigo": 398,
+            "procedimento": "Citomegalovírus - IgM"
+        },
+        {
+            "codigo": 399,
+            "procedimento": "Cladophialophora (pesquisa)"
+        },
+        {
+            "codigo": 400,
+            "procedimento": "Cladosporium (pesquisa)"
+        },
+        {
+            "codigo": 401,
+            "procedimento": "Clamídia, pesquisa"
+        },
+        {
+            "codigo": 402,
+            "procedimento": "Clearance de ácido úrico"
+        },
+        {
+            "codigo": 403,
+            "procedimento": "Clearance de creatinina"
+        },
+        {
+            "codigo": 404,
+            "procedimento": "Clearance de fosfato"
+        },
+        {
+            "codigo": 405,
+            "procedimento": "Clearance de uréia"
+        },
+        {
+            "codigo": 406,
+            "procedimento": "Clearance osmolar"
+        },
+        {
+            "codigo": 407,
+            "procedimento": "Clomipramina"
+        },
+        {
+            "codigo": 408,
+            "procedimento": "Clonorchis (pesquisa)"
+        },
+        {
+            "codigo": 409,
+            "procedimento": "Cloreto de metileno sanguíneo"
+        },
+        {
+            "codigo": 410,
+            "procedimento": "Cloro"
+        },
+        {
+            "codigo": 411,
+            "procedimento": "Clorofenol"
+        },
+        {
+            "codigo": 412,
+            "procedimento": "Clorofórmio"
+        },
+        {
+            "codigo": 413,
+            "procedimento": "Clostridium (pesquisa)"
+        },
+        {
+            "codigo": 414,
+            "procedimento": "Clostridium difficile, toxina A"
+        },
+        {
+            "codigo": 415,
+            "procedimento": "Coagulograma"
+        },
+        {
+            "codigo": 416,
+            "procedimento": "Cobalto sanguíneo"
+        },
+        {
+            "codigo": 417,
+            "procedimento": "Cobalto urinário"
+        },
+        {
+            "codigo": 418,
+            "procedimento": "Cobre sanguíneo"
+        },
+        {
+            "codigo": 419,
+            "procedimento": "Cobre urinário"
+        },
+        {
+            "codigo": 420,
+            "procedimento": "Cocaína"
+        },
+        {
+            "codigo": 421,
+            "procedimento": "Coccidioides (pesquisa)"
+        },
+        {
+            "codigo": 422,
+            "procedimento": "Cólera (pesquisa)"
+        },
+        {
+            "codigo": 423,
+            "procedimento": "Colesterol (HDL)"
+        },
+        {
+            "codigo": 424,
+            "procedimento": "Colesterol (LDL)"
+        },
+        {
+            "codigo": 425,
+            "procedimento": "Colesterol (VLDL)"
+        },
+        {
+            "codigo": 426,
+            "procedimento": "Colesterol total"
+        },
+        {
+            "codigo": 427,
+            "procedimento": "Complemento C2"
+        },
+        {
+            "codigo": 428,
+            "procedimento": "Complemento C3"
+        },
+        {
+            "codigo": 429,
+            "procedimento": "Complemento C4"
+        },
+        {
+            "codigo": 430,
+            "procedimento": "Complemento C5"
+        },
+        {
+            "codigo": 431,
+            "procedimento": "Complemento CH-100"
+        },
+        {
+            "codigo": 432,
+            "procedimento": "Complemento CH-50"
+        },
+        {
+            "codigo": 433,
+            "procedimento": "Composto S (11-desoxicortisol)"
+        },
+        {
+            "codigo": 434,
+            "procedimento": "Consumo de protrombina"
+        },
+        {
+            "codigo": 435,
+            "procedimento": "Contagem de eosinófilos"
+        },
+        {
+            "codigo": 436,
+            "procedimento": "Contagem sanguínea diferencial"
+        },
+        {
+            "codigo": 437,
+            "procedimento": "Contagem sedimentar de Addis"
+        },
+        {
+            "codigo": 438,
+            "procedimento": "Contracaecum (pesquisa)"
+        },
+        {
+            "codigo": 439,
+            "procedimento": "Coombs direto"
+        },
+        {
+            "codigo": 440,
+            "procedimento": "Coombs indireto"
+        },
+        {
+            "codigo": 441,
+            "procedimento": "Coprológico funcional (caracteres, pH, digestibilidade, amônia, ácidos orgânicos e interpretação)"
+        },
+        {
+            "codigo": 442,
+            "procedimento": "Coproporfirina III na urina"
+        },
+        {
+            "codigo": 443,
+            "procedimento": "Coproporfirinas"
+        },
+        {
+            "codigo": 444,
+            "procedimento": "Coronavírus (pesquisa)"
+        },
+        {
+            "codigo": 445,
+            "procedimento": "Coronavírus humano 229E (pesquisa)"
+        },
+        {
+            "codigo": 446,
+            "procedimento": "Coronavírus relacionado à MERS (pesquisa)"
+        },
+        {
+            "codigo": 447,
+            "procedimento": "Coronavírus relacionado à SARS (pesquisa)"
+        },
+        {
+            "codigo": 1419,
+            "procedimento": "Coronavírus/COVID-19 - SARS-CoV-2 - IgA"
+        },
+        {
+            "codigo": 1420,
+            "procedimento": "Coronavírus/COVID-19 - SARS-CoV-2 - IgG"
+        },
+        {
+            "codigo": 1421,
+            "procedimento": "Coronavírus/COVID-19 - SARS-CoV-2 - IgM"
+        },
+        {
+            "codigo": 1422,
+            "procedimento": "Coronavírus/COVID-19 - SARS-CoV-2 - Pesquisa de antígeno"
+        },
+        {
+            "codigo": 1423,
+            "procedimento": "Coronavírus/COVID-19 - SARS-CoV-2 - RT-PCR"
+        },
+        {
+            "codigo": 448,
+            "procedimento": "Corpos cetônicos na urina"
+        },
+        {
+            "codigo": 449,
+            "procedimento": "Corpúsculos de Donovani"
+        },
+        {
+            "codigo": 450,
+            "procedimento": "Cortisol"
+        },
+        {
+            "codigo": 451,
+            "procedimento": "Cortisol livre"
+        },
+        {
+            "codigo": 452,
+            "procedimento": "Corynebacterium (pesquisa)"
+        },
+        {
+            "codigo": 453,
+            "procedimento": "Cotinina"
+        },
+        {
+            "codigo": 454,
+            "procedimento": "Coxiella (pesquisa)"
+        },
+        {
+            "codigo": 455,
+            "procedimento": "Creatina"
+        },
+        {
+            "codigo": 456,
+            "procedimento": "Creatinina"
+        },
+        {
+            "codigo": 457,
+            "procedimento": "Creatino fosfoquinase - Fração MB"
+        },
+        {
+            "codigo": 458,
+            "procedimento": "Creatino fosfoquinase total (CK)"
+        },
+        {
+            "codigo": 459,
+            "procedimento": "Cresol urinário"
+        },
+        {
+            "codigo": 460,
+            "procedimento": "Crioaglutinina"
+        },
+        {
+            "codigo": 461,
+            "procedimento": "Crioglobulinas"
+        },
+        {
+            "codigo": 462,
+            "procedimento": "Criptococo (tinta da China), pesquisa de"
+        },
+        {
+            "codigo": 463,
+            "procedimento": "Cromatografia de açúcares na urina"
+        },
+        {
+            "codigo": 464,
+            "procedimento": "Cromatografia de aminoácidos"
+        },
+        {
+            "codigo": 465,
+            "procedimento": "Cromo eritrocitário"
+        },
+        {
+            "codigo": 466,
+            "procedimento": "Cromo sanguíneo"
+        },
+        {
+            "codigo": 467,
+            "procedimento": "Cromo urinário"
+        },
+        {
+            "codigo": 468,
+            "procedimento": "Cromossomo philadelfia"
+        },
+        {
+            "codigo": 469,
+            "procedimento": "Cryptococcus (pesquisa)"
+        },
+        {
+            "codigo": 470,
+            "procedimento": "Cryptosporidium (pesquisa)"
+        },
+        {
+            "codigo": 471,
+            "procedimento": "Cultura bacteriana"
+        },
+        {
+            "codigo": 1403,
+            "procedimento": "Cultura de urina (urocultura)"
+        },
+        {
+            "codigo": 472,
+            "procedimento": "Cultura nas fezes: salmonela, shigellae e E. coli enteropatogênicas, enteroinvasora (sorol. incluída) + campylobacter SP. + E. coli enterohemorrágica"
+        },
+        {
+            "codigo": 473,
+            "procedimento": "Cultura para bactérias anaeróbicas"
+        },
+        {
+            "codigo": 474,
+            "procedimento": "Cultura para Criptosporidium"
+        },
+        {
+            "codigo": 475,
+            "procedimento": "Cultura para fungos"
+        },
+        {
+            "codigo": 476,
+            "procedimento": "Cultura para mycobacterium"
+        },
+        {
+            "codigo": 477,
+            "procedimento": "Cultura quantitativa de secreções pulmonares"
+        },
+        {
+            "codigo": 478,
+            "procedimento": "Curva glicêmica"
+        },
+        {
+            "codigo": 479,
+            "procedimento": "Curva insulínica"
+        },
+        {
+            "codigo": 480,
+            "procedimento": "Cyclospora (pesquisa)"
+        },
+        {
+            "codigo": 481,
+            "procedimento": "Dehidroepiandrosterona (DHEA)"
+        },
+        {
+            "codigo": 482,
+            "procedimento": "Dehidrotestosterona (DHT)"
+        },
+        {
+            "codigo": 483,
+            "procedimento": "Dengue - IgG"
+        },
+        {
+            "codigo": 484,
+            "procedimento": "Dengue - IgM"
+        },
+        {
+            "codigo": 485,
+            "procedimento": "Desidrogenase alfa-hidroxibutírica"
+        },
+        {
+            "codigo": 486,
+            "procedimento": "Desidrogenase glutâmica"
+        },
+        {
+            "codigo": 487,
+            "procedimento": "Desidrogenase isocítrica"
+        },
+        {
+            "codigo": 488,
+            "procedimento": "Desidrogenase láctica"
+        },
+        {
+            "codigo": 489,
+            "procedimento": "Desipramina"
+        },
+        {
+            "codigo": 490,
+            "procedimento": "Desoxicorticosterona"
+        },
+        {
+            "codigo": 491,
+            "procedimento": "Dialdeído malônico"
+        },
+        {
+            "codigo": 492,
+            "procedimento": "Diclorodifenil tricloroetano (DDT) sanguíneo"
+        },
+        {
+            "codigo": 493,
+            "procedimento": "Diclorodifenildicloroetileno (DDE) sanguíneo"
+        },
+        {
+            "codigo": 494,
+            "procedimento": "Dicloroetano"
+        },
+        {
+            "codigo": 495,
+            "procedimento": "Dicloroeteno"
+        },
+        {
+            "codigo": 496,
+            "procedimento": "Diclorometano"
+        },
+        {
+            "codigo": 497,
+            "procedimento": "Dicrocoelium (pesquisa)"
+        },
+        {
+            "codigo": 498,
+            "procedimento": "Dieldrin sanguíneo"
+        },
+        {
+            "codigo": 499,
+            "procedimento": "Dientamoeba (pesquisa)"
+        },
+        {
+            "codigo": 500,
+            "procedimento": "Dietilditiofosfato"
+        },
+        {
+            "codigo": 501,
+            "procedimento": "Dietilditiofosfato urinário (DEDTP)"
+        },
+        {
+            "codigo": 502,
+            "procedimento": "Dietilestilbestrol"
+        },
+        {
+            "codigo": 503,
+            "procedimento": "Dietilfosfato"
+        },
+        {
+            "codigo": 504,
+            "procedimento": "Dietilfosfato urinário (DEP)"
+        },
+        {
+            "codigo": 505,
+            "procedimento": "Dietilltiofosfato urinário (DETP)"
+        },
+        {
+            "codigo": 506,
+            "procedimento": "Dietiltiofosfato"
+        },
+        {
+            "codigo": 507,
+            "procedimento": "Digitoxina ou digoxina"
+        },
+        {
+            "codigo": 508,
+            "procedimento": "Dímero D"
+        },
+        {
+            "codigo": 509,
+            "procedimento": "Dimetilditiofosfato"
+        },
+        {
+            "codigo": 510,
+            "procedimento": "Dimetilditiofosfato urinário (DMDTP)"
+        },
+        {
+            "codigo": 511,
+            "procedimento": "Dimetilfosfato"
+        },
+        {
+            "codigo": 512,
+            "procedimento": "Dimetilfosfato urinário (DMP)"
+        },
+        {
+            "codigo": 513,
+            "procedimento": "Dimetil-selênio respiratório (ar expirado)"
+        },
+        {
+            "codigo": 514,
+            "procedimento": "Dimetiltiofosfato"
+        },
+        {
+            "codigo": 515,
+            "procedimento": "Dimetiltiofosfato urinário (DMTP)"
+        },
+        {
+            "codigo": 516,
+            "procedimento": "Di-n-butil fosfato"
+        },
+        {
+            "codigo": 517,
+            "procedimento": "Dinitrato-etileno-glicol"
+        },
+        {
+            "codigo": 518,
+            "procedimento": "Dinitrofenol"
+        },
+        {
+            "codigo": 519,
+            "procedimento": "Dinoseb"
+        },
+        {
+            "codigo": 520,
+            "procedimento": "Dipetalonema (pesquisa)"
+        },
+        {
+            "codigo": 521,
+            "procedimento": "Diphyllobothrium (pesquisa)"
+        },
+        {
+            "codigo": 522,
+            "procedimento": "Diquat urinário"
+        },
+        {
+            "codigo": 523,
+            "procedimento": "Dissulfeto de carbono"
+        },
+        {
+            "codigo": 524,
+            "procedimento": "DNCB Teste de Contato"
+        },
+        {
+            "codigo": 525,
+            "procedimento": "Doppler colorido arterial de membro inferior"
+        },
+        {
+            "codigo": 526,
+            "procedimento": "Doppler colorido arterial de membro superior"
+        },
+        {
+            "codigo": 527,
+            "procedimento": "Dosagem de receptor de progesterona ou de estrogênio"
+        },
+        {
+            "codigo": 528,
+            "procedimento": "Dracunculus (pesquisa)"
+        },
+        {
+            "codigo": 529,
+            "procedimento": "Ebola (pesquisa)"
+        },
+        {
+            "codigo": 530,
+            "procedimento": "ECG convencional de até 12 derivações"
+        },
+        {
+            "codigo": 531,
+            "procedimento": "ECG de alta resolução"
+        },
+        {
+            "codigo": 532,
+            "procedimento": "Echinococcus (pesquisa)"
+        },
+        {
+            "codigo": 533,
+            "procedimento": "Echovírus (painel), sorologia para"
+        },
+        {
+            "codigo": 534,
+            "procedimento": "Echovírus (pesquisa)"
+        },
+        {
+            "codigo": 535,
+            "procedimento": "Edwardsiella (pesquisa)"
+        },
+        {
+            "codigo": 536,
+            "procedimento": "EEG de rotina"
+        },
+        {
+            "codigo": 537,
+            "procedimento": "Ehrlichia (pesquisa)"
+        },
+        {
+            "codigo": 538,
+            "procedimento": "Eikenella (pesquisa)"
+        },
+        {
+            "codigo": 540,
+            "procedimento": "Eletroforese de glicoproteínas"
+        },
+        {
+            "codigo": 541,
+            "procedimento": "Eletroforese de lipoproteínas"
+        },
+        {
+            "codigo": 539,
+            "procedimento": "Eletroforese de proteínas"
+        },
+        {
+            "codigo": 542,
+            "procedimento": "Eletroforese de proteínas urinárias"
+        },
+        {
+            "codigo": 543,
+            "procedimento": "Eletroneuromiografia de MMII"
+        },
+        {
+            "codigo": 544,
+            "procedimento": "Eletroneuromiografia de MMSS"
+        },
+        {
+            "codigo": 545,
+            "procedimento": "Elizabethkingia (pesquisa)"
+        },
+        {
+            "codigo": 546,
+            "procedimento": "Emmonsia (pesquisa)"
+        },
+        {
+            "codigo": 547,
+            "procedimento": "Encefalite japonesa B (pesquisa)"
+        },
+        {
+            "codigo": 548,
+            "procedimento": "Encephalitozoon (pesquisa)"
+        },
+        {
+            "codigo": 549,
+            "procedimento": "Endotoxinas (pesquisa)"
+        },
+        {
+            "codigo": 550,
+            "procedimento": "Endrin sanguíneo"
+        },
+        {
+            "codigo": 551,
+            "procedimento": "Enolase"
+        },
+        {
+            "codigo": 552,
+            "procedimento": "Entamoeba (pesquisa)"
+        },
+        {
+            "codigo": 553,
+            "procedimento": "Enterobacter (pesquisa)"
+        },
+        {
+            "codigo": 554,
+            "procedimento": "Enterobius (pesquisa)"
+        },
+        {
+            "codigo": 555,
+            "procedimento": "Enterococcus (pesquisa)"
+        },
+        {
+            "codigo": 556,
+            "procedimento": "Enterocytozoon (pesquisa)"
+        },
+        {
+            "codigo": 557,
+            "procedimento": "Enterovírus humano A, B e C (pesquisa)"
+        },
+        {
+            "codigo": 558,
+            "procedimento": "Enzima conversora da angiotensina (ECA)"
+        },
+        {
+            "codigo": 559,
+            "procedimento": "Enzimas eritrocitárias"
+        },
+        {
+            "codigo": 560,
+            "procedimento": "Epidermophyton (pesquisa)"
+        },
+        {
+            "codigo": 561,
+            "procedimento": "Equinococose (hidatidose), reação"
+        },
+        {
+            "codigo": 562,
+            "procedimento": "Ergoespirometria ou teste cardiopulmonar de exercício completo (espirometria forçada, consumo de O2, produção de CO2 e derivados, ECG, oximetria)"
+        },
+        {
+            "codigo": 563,
+            "procedimento": "Eritropoietina"
+        },
+        {
+            "codigo": 564,
+            "procedimento": "Erysipelothrix (pesquisa)"
+        },
+        {
+            "codigo": 565,
+            "procedimento": "Escândio urinário"
+        },
+        {
+            "codigo": 566,
+            "procedimento": "Escherichia (pesquisa)"
+        },
+        {
+            "codigo": 567,
+            "procedimento": "Escherichia coli (pesquisa)"
+        },
+        {
+            "codigo": 568,
+            "procedimento": "Espermograma"
+        },
+        {
+            "codigo": 569,
+            "procedimento": "Esplenograma (citologia)"
+        },
+        {
+            "codigo": 570,
+            "procedimento": "Esporotricose, reação sorológica"
+        },
+        {
+            "codigo": 571,
+            "procedimento": "Esporotriquina"
+        },
+        {
+            "codigo": 572,
+            "procedimento": "Estanho urinário"
+        },
+        {
+            "codigo": 573,
+            "procedimento": "Estireno sanguíneo"
+        },
+        {
+            "codigo": 1427,
+            "procedimento": "Estireno urinário"
+        },
+        {
+            "codigo": 574,
+            "procedimento": "Estradiol"
+        },
+        {
+            "codigo": 575,
+            "procedimento": "Estreptozima"
+        },
+        {
+            "codigo": 576,
+            "procedimento": "Estriol"
+        },
+        {
+            "codigo": 577,
+            "procedimento": "Estrogênios totais (fenolesteróides)"
+        },
+        {
+            "codigo": 578,
+            "procedimento": "Estrona"
+        },
+        {
+            "codigo": 579,
+            "procedimento": "Estrôncio urinário"
+        },
+        {
+            "codigo": 580,
+            "procedimento": "Etanol"
+        },
+        {
+            "codigo": 581,
+            "procedimento": "Etilenotioureia (ETU)"
+        },
+        {
+            "codigo": 582,
+            "procedimento": "Etossuximida"
+        },
+        {
+            "codigo": 583,
+            "procedimento": "Exame a fresco de amostra biológica"
+        },
+        {
+            "codigo": 584,
+            "procedimento": "Exame bacteriológico de fezes"
+        },
+        {
+            "codigo": 585,
+            "procedimento": "Exame de fundo de olho"
+        },
+        {
+            "codigo": 586,
+            "procedimento": "Exophiala (pesquisa)"
+        },
+        {
+            "codigo": 587,
+            "procedimento": "Falcização, teste de"
+        },
+        {
+            "codigo": 588,
+            "procedimento": "Fasciola (pesquisa)"
+        },
+        {
+            "codigo": 589,
+            "procedimento": "Fasciolopsis (pesquisa)"
+        },
+        {
+            "codigo": 590,
+            "procedimento": "Fator 4 plaquetário"
+        },
+        {
+            "codigo": 591,
+            "procedimento": "Fator antinúcleo (FAN)"
+        },
+        {
+            "codigo": 592,
+            "procedimento": "Fator II"
+        },
+        {
+            "codigo": 593,
+            "procedimento": "Fator IX"
+        },
+        {
+            "codigo": 594,
+            "procedimento": "Fator reumatóide"
+        },
+        {
+            "codigo": 595,
+            "procedimento": "Fator V"
+        },
+        {
+            "codigo": 597,
+            "procedimento": "Fator VII"
+        },
+        {
+            "codigo": 598,
+            "procedimento": "Fator VIII"
+        },
+        {
+            "codigo": 599,
+            "procedimento": "Fator VIII, dosagem do antígeno (Von Willebrand)"
+        },
+        {
+            "codigo": 600,
+            "procedimento": "Fator VIII, dosagem do inibidor"
+        },
+        {
+            "codigo": 601,
+            "procedimento": "Fator X"
+        },
+        {
+            "codigo": 602,
+            "procedimento": "Fator XI"
+        },
+        {
+            "codigo": 603,
+            "procedimento": "Fator XII"
+        },
+        {
+            "codigo": 604,
+            "procedimento": "Fator XIII"
+        },
+        {
+            "codigo": 605,
+            "procedimento": "Fenilalanina"
+        },
+        {
+            "codigo": 606,
+            "procedimento": "Fenilcetonúria"
+        },
+        {
+            "codigo": 607,
+            "procedimento": "Fenitoína"
+        },
+        {
+            "codigo": 608,
+            "procedimento": "Fenobarbital"
+        },
+        {
+            "codigo": 609,
+            "procedimento": "Fenol"
+        },
+        {
+            "codigo": 610,
+            "procedimento": "Fenotipagem do sistema Rh-Hr (anti Rho(D) + anti Rh(C) + anti Rh(E)"
+        },
+        {
+            "codigo": 611,
+            "procedimento": "Fenotipagem do sistema RH-HR (D, C, E, C E C)"
+        },
+        {
+            "codigo": 612,
+            "procedimento": "Ferritina"
+        },
+        {
+            "codigo": 613,
+            "procedimento": "Ferro sérico"
+        },
+        {
+            "codigo": 614,
+            "procedimento": "Fibrinogênio, teste funcional"
+        },
+        {
+            "codigo": 615,
+            "procedimento": "Filária (pesquisa)"
+        },
+        {
+            "codigo": 616,
+            "procedimento": "Filaria (sorologia)"
+        },
+        {
+            "codigo": 617,
+            "procedimento": "Filobasidiella (pesquisa)"
+        },
+        {
+            "codigo": 618,
+            "procedimento": "Flavobacterium (pesquisa)"
+        },
+        {
+            "codigo": 619,
+            "procedimento": "Flavovírus, pesquisa"
+        },
+        {
+            "codigo": 620,
+            "procedimento": "Fluazifop urinário"
+        },
+        {
+            "codigo": 621,
+            "procedimento": "Flufenoxuron sanguíneo"
+        },
+        {
+            "codigo": 622,
+            "procedimento": "Flúor sanguíneo"
+        },
+        {
+            "codigo": 623,
+            "procedimento": "Flúor urinário"
+        },
+        {
+            "codigo": 624,
+            "procedimento": "Fluoreto urinário"
+        },
+        {
+            "codigo": 625,
+            "procedimento": "Fluoribacter (pesquisa)"
+        },
+        {
+            "codigo": 626,
+            "procedimento": "Folículo estimulante, hormônio (FSH)"
+        },
+        {
+            "codigo": 627,
+            "procedimento": "Fonsecaea (pesquisa)"
+        },
+        {
+            "codigo": 628,
+            "procedimento": "Formaldeído"
+        },
+        {
+            "codigo": 629,
+            "procedimento": "Fosfatase ácida fração prostática"
+        },
+        {
+            "codigo": 630,
+            "procedimento": "Fosfatase ácida total"
+        },
+        {
+            "codigo": 631,
+            "procedimento": "Fosfatase alcalina"
+        },
+        {
+            "codigo": 632,
+            "procedimento": "Fosfatase alcalina fração óssea"
+        },
+        {
+            "codigo": 633,
+            "procedimento": "Fosfatase alcalina termo-estável"
+        },
+        {
+            "codigo": 634,
+            "procedimento": "Fosfina sanguínea"
+        },
+        {
+            "codigo": 635,
+            "procedimento": "Fosfofructoquinase"
+        },
+        {
+            "codigo": 636,
+            "procedimento": "Fosfoglicerato quinase"
+        },
+        {
+            "codigo": 637,
+            "procedimento": "Fosfolipídios"
+        },
+        {
+            "codigo": 638,
+            "procedimento": "Fósforo"
+        },
+        {
+            "codigo": 639,
+            "procedimento": "Francisella (pesquisa)"
+        },
+        {
+            "codigo": 1404,
+            "procedimento": "FREI (linfogranuloma venéreo) IDeR"
+        },
+        {
+            "codigo": 640,
+            "procedimento": "Frutosaminas"
+        },
+        {
+            "codigo": 641,
+            "procedimento": "Frutose"
+        },
+        {
+            "codigo": 642,
+            "procedimento": "Frutosúria"
+        },
+        {
+            "codigo": 643,
+            "procedimento": "Fungos, pesquisa a fresco"
+        },
+        {
+            "codigo": 644,
+            "procedimento": "Fusarium (pesquisa)"
+        },
+        {
+            "codigo": 645,
+            "procedimento": "Fusobacterium (pesquisa)"
+        },
+        {
+            "codigo": 646,
+            "procedimento": "Gad-Ab-antidescarboxilase do ácido"
+        },
+        {
+            "codigo": 647,
+            "procedimento": "Gadolínio urinário"
+        },
+        {
+            "codigo": 648,
+            "procedimento": "Galactose"
+        },
+        {
+            "codigo": 649,
+            "procedimento": "Galactose 1-fosfatouridil transferase"
+        },
+        {
+            "codigo": 650,
+            "procedimento": "Galactosúria"
+        },
+        {
+            "codigo": 651,
+            "procedimento": "Gálio urinário"
+        },
+        {
+            "codigo": 652,
+            "procedimento": "Gama-glutamil transferase (gama-GT)"
+        },
+        {
+            "codigo": 653,
+            "procedimento": "Gardnerella (pesquisa)"
+        },
+        {
+            "codigo": 654,
+            "procedimento": "Gastrina"
+        },
+        {
+            "codigo": 655,
+            "procedimento": "Geotrichum (pesquisa)"
+        },
+        {
+            "codigo": 656,
+            "procedimento": "Giardia (pesquisa)"
+        },
+        {
+            "codigo": 657,
+            "procedimento": "Giardia (sorologia)"
+        },
+        {
+            "codigo": 658,
+            "procedimento": "Glicemia"
+        },
+        {
+            "codigo": 659,
+            "procedimento": "Glicemia após sobrecarga com dextrosol ou glicose"
+        },
+        {
+            "codigo": 660,
+            "procedimento": "Gliceraldeído, 3-fosfato desidrogenase"
+        },
+        {
+            "codigo": 661,
+            "procedimento": "Glicose 6-fosfato desidrogenase"
+        },
+        {
+            "codigo": 662,
+            "procedimento": "Glicose fosfato isomerase"
+        },
+        {
+            "codigo": 663,
+            "procedimento": "Glifosato"
+        },
+        {
+            "codigo": 664,
+            "procedimento": "Globulina"
+        },
+        {
+            "codigo": 665,
+            "procedimento": "Globulina de ligação de hormônios sexuais (SHBG)"
+        },
+        {
+            "codigo": 666,
+            "procedimento": "Globulina transportadora da tiroxina (TBG)"
+        },
+        {
+            "codigo": 667,
+            "procedimento": "Glucagon"
+        },
+        {
+            "codigo": 668,
+            "procedimento": "Glutation"
+        },
+        {
+            "codigo": 669,
+            "procedimento": "Glutation peroxidase"
+        },
+        {
+            "codigo": 670,
+            "procedimento": "Gonococo - IgG"
+        },
+        {
+            "codigo": 671,
+            "procedimento": "Gonococo - IgM"
+        },
+        {
+            "codigo": 672,
+            "procedimento": "Grupo ABO, classificação reversa"
+        },
+        {
+            "codigo": 673,
+            "procedimento": "Grupo sanguíneo ABO, e fator Rho (inclui Du)"
+        },
+        {
+            "codigo": 674,
+            "procedimento": "Haemophilus (pesquisa)"
+        },
+        {
+            "codigo": 675,
+            "procedimento": "Háfnio urinário"
+        },
+        {
+            "codigo": 676,
+            "procedimento": "Ham, teste de (hemólise ácida)"
+        },
+        {
+            "codigo": 677,
+            "procedimento": "Hansen, pesquisa de"
+        },
+        {
+            "codigo": 678,
+            "procedimento": "Haptoglobina"
+        },
+        {
+            "codigo": 679,
+            "procedimento": "Heinz, corpúsculos"
+        },
+        {
+            "codigo": 680,
+            "procedimento": "Helicobacter (pesquisa)"
+        },
+        {
+            "codigo": 681,
+            "procedimento": "Helicobacter pylori - IgA"
+        },
+        {
+            "codigo": 682,
+            "procedimento": "Helicobacter pylori - IgG"
+        },
+        {
+            "codigo": 683,
+            "procedimento": "Helicobacter pylori - IgM"
+        },
+        {
+            "codigo": 684,
+            "procedimento": "Hemácias fetais"
+        },
+        {
+            "codigo": 685,
+            "procedimento": "Hematócrito"
+        },
+        {
+            "codigo": 686,
+            "procedimento": "Hemocultura"
+        },
+        {
+            "codigo": 687,
+            "procedimento": "Hemoglobina"
+        },
+        {
+            "codigo": 688,
+            "procedimento": "Hemoglobina (eletroforese ou HPLC)"
+        },
+        {
+            "codigo": 689,
+            "procedimento": "Hemoglobina glicada (A1 total)"
+        },
+        {
+            "codigo": 690,
+            "procedimento": "Hemoglobina glicada (Fração A1c)"
+        },
+        {
+            "codigo": 691,
+            "procedimento": "Hemoglobina plasmática livre"
+        },
+        {
+            "codigo": 692,
+            "procedimento": "Hemoglobina, solubilidade (HbS e HbD)"
+        },
+        {
+            "codigo": 693,
+            "procedimento": "Hemograma com contagem de plaquetas ou frações (eritrograma, leucograma, plaquetas)"
+        },
+        {
+            "codigo": 694,
+            "procedimento": "Hemophilus (bordetella) pertussis (pesquisa)"
+        },
+        {
+            "codigo": 695,
+            "procedimento": "Hemossedimentação, (VHS)"
+        },
+        {
+            "codigo": 696,
+            "procedimento": "Hemossiderina (siderócitos), sangue"
+        },
+        {
+            "codigo": 697,
+            "procedimento": "Hemossiderina (siderócitos), urina"
+        },
+        {
+            "codigo": 698,
+            "procedimento": "Heparina"
+        },
+        {
+            "codigo": 699,
+            "procedimento": "Hepatite A - HAV - IgG"
+        },
+        {
+            "codigo": 700,
+            "procedimento": "Hepatite A - HAV - IgM"
+        },
+        {
+            "codigo": 702,
+            "procedimento": "Hepatite B - HBCAC - IgG"
+        },
+        {
+            "codigo": 701,
+            "procedimento": "Hepatite B - HBCAC - IgM"
+        },
+        {
+            "codigo": 703,
+            "procedimento": "Hepatite B - HBeAC (anti-HBE)"
+        },
+        {
+            "codigo": 1405,
+            "procedimento": "Hepatite B - HBeAG"
+        },
+        {
+            "codigo": 704,
+            "procedimento": "Hepatite B - HBsAC (anti-HBs)"
+        },
+        {
+            "codigo": 234,
+            "procedimento": "Hepatite B - HBsAG"
+        },
+        {
+            "codigo": 705,
+            "procedimento": "Hepatite C - Anti-HCV - IgG"
+        },
+        {
+            "codigo": 706,
+            "procedimento": "Hepatite C - Anti-HCV - IgM"
+        },
+        {
+            "codigo": 707,
+            "procedimento": "Hepatite delta - IgG"
+        },
+        {
+            "codigo": 708,
+            "procedimento": "Hepatite delta - IgM"
+        },
+        {
+            "codigo": 709,
+            "procedimento": "Hepatite delta, antigeno"
+        },
+        {
+            "codigo": 710,
+            "procedimento": "Heptacloro-epóxido"
+        },
+        {
+            "codigo": 711,
+            "procedimento": "HER-2 - Dosagem do receptor"
+        },
+        {
+            "codigo": 712,
+            "procedimento": "Herpes simples - IgG"
+        },
+        {
+            "codigo": 713,
+            "procedimento": "Herpes simples - IgM"
+        },
+        {
+            "codigo": 714,
+            "procedimento": "Herpes zóster - IgG"
+        },
+        {
+            "codigo": 715,
+            "procedimento": "Herpes zóster - IgM"
+        },
+        {
+            "codigo": 716,
+            "procedimento": "Herpesvírus (pesquisa)"
+        },
+        {
+            "codigo": 717,
+            "procedimento": "Heterophyes (pesquisa)"
+        },
+        {
+            "codigo": 718,
+            "procedimento": "Hexaclorobenzeno"
+        },
+        {
+            "codigo": 719,
+            "procedimento": "Hexafluoroisopropanol (HFIP)"
+        },
+        {
+            "codigo": 720,
+            "procedimento": "Hexametilenodiamina (1,6-hexametilenodiamina)"
+        },
+        {
+            "codigo": 721,
+            "procedimento": "Hexona (metil isobutil cetona)"
+        },
+        {
+            "codigo": 722,
+            "procedimento": "Hexosaminidase A"
+        },
+        {
+            "codigo": 723,
+            "procedimento": "Hidrazina"
+        },
+        {
+            "codigo": 724,
+            "procedimento": "Hidroxiprogesterona"
+        },
+        {
+            "codigo": 725,
+            "procedimento": "Hidroxiprolina"
+        },
+        {
+            "codigo": 726,
+            "procedimento": "Hipersensibilidade retardada (intradermo reação IDeR)"
+        },
+        {
+            "codigo": 727,
+            "procedimento": "Histamina"
+        },
+        {
+            "codigo": 728,
+            "procedimento": "Histidina na urina"
+        },
+        {
+            "codigo": 729,
+            "procedimento": "Histona"
+        },
+        {
+            "codigo": 730,
+            "procedimento": "Histoplasma (pesquisa)"
+        },
+        {
+            "codigo": 731,
+            "procedimento": "Histoplasmose"
+        },
+        {
+            "codigo": 732,
+            "procedimento": "HIV - Antígeno P24"
+        },
+        {
+            "codigo": 733,
+            "procedimento": "HIV1 ou HIV2, pesquisa de anticorpos"
+        },
+        {
+            "codigo": 734,
+            "procedimento": "HLA-DR"
+        },
+        {
+            "codigo": 735,
+            "procedimento": "HLA-DR+DQ"
+        },
+        {
+            "codigo": 736,
+            "procedimento": "Homocisteína"
+        },
+        {
+            "codigo": 737,
+            "procedimento": "Hormônio antidiurético"
+        },
+        {
+            "codigo": 738,
+            "procedimento": "Hormônio do crescimento (HGH)"
+        },
+        {
+            "codigo": 739,
+            "procedimento": "Hormônio gonodotrofico corionico"
+        },
+        {
+            "codigo": 740,
+            "procedimento": "Hormônio luteinizante (LH)"
+        },
+        {
+            "codigo": 741,
+            "procedimento": "Hormônio tireoestimulante (TSH)"
+        },
+        {
+            "codigo": 742,
+            "procedimento": "HPV (vírus do papiloma humano)"
+        },
+        {
+            "codigo": 743,
+            "procedimento": "HTLV-I / II"
+        },
+        {
+            "codigo": 744,
+            "procedimento": "Hymenolepis (pesquisa)"
+        },
+        {
+            "codigo": 745,
+            "procedimento": "Identificação de helmintos"
+        },
+        {
+            "codigo": 746,
+            "procedimento": "Ifosfamida"
+        },
+        {
+            "codigo": 747,
+            "procedimento": "IgA"
+        },
+        {
+            "codigo": 748,
+            "procedimento": "IgA na saliva"
+        },
+        {
+            "codigo": 749,
+            "procedimento": "IgD"
+        },
+        {
+            "codigo": 750,
+            "procedimento": "IgE"
+        },
+        {
+            "codigo": 751,
+            "procedimento": "IGF BP3 (proteína ligadora dos fatores de crescimento \"insulinlike\")"
+        },
+        {
+            "codigo": 752,
+            "procedimento": "IgG"
+        },
+        {
+            "codigo": 753,
+            "procedimento": "IgM"
+        },
+        {
+            "codigo": 754,
+            "procedimento": "Imipramina"
+        },
+        {
+            "codigo": 755,
+            "procedimento": "Impedanciometria"
+        },
+        {
+            "codigo": 756,
+            "procedimento": "Imunocomplexos circulantes"
+        },
+        {
+            "codigo": 757,
+            "procedimento": "Imunocomplexos circulantes, com células Raji"
+        },
+        {
+            "codigo": 758,
+            "procedimento": "Imunoeletroforese (estudo da gamopatia)"
+        },
+        {
+            "codigo": 759,
+            "procedimento": "Imunofenotipagem para doença residual mínima"
+        },
+        {
+            "codigo": 760,
+            "procedimento": "Imunofenotipagem para hemoglobinúria paroxistica noturna"
+        },
+        {
+            "codigo": 761,
+            "procedimento": "Imunofenotipagem para leucemias agudas ou sindrome mielodisplásica"
+        },
+        {
+            "codigo": 762,
+            "procedimento": "Imunofenotipagem para linfoma não Hodgkin / sindrome linfoproliferativa crônica"
+        },
+        {
+            "codigo": 763,
+            "procedimento": "Imunofenotipagem para perfil imune"
+        },
+        {
+            "codigo": 764,
+            "procedimento": "Imunofixação"
+        },
+        {
+            "codigo": 765,
+            "procedimento": "Índice de tiroxina livre (ITL)"
+        },
+        {
+            "codigo": 766,
+            "procedimento": "Índio urinário"
+        },
+        {
+            "codigo": 767,
+            "procedimento": "Inibidor de C1 esterase"
+        },
+        {
+            "codigo": 768,
+            "procedimento": "Inibidor do fator IX"
+        },
+        {
+            "codigo": 769,
+            "procedimento": "Inibidor do TPA (PAI)"
+        },
+        {
+            "codigo": 770,
+            "procedimento": "Inibidor dos fatores da hemostasia"
+        },
+        {
+            "codigo": 771,
+            "procedimento": "Insulina"
+        },
+        {
+            "codigo": 772,
+            "procedimento": "Iodo"
+        },
+        {
+            "codigo": 773,
+            "procedimento": "Iodo proteico (PBI)"
+        },
+        {
+            "codigo": 774,
+            "procedimento": "Iontoforese para a coleta de suor, com dosagem de cloro"
+        },
+        {
+            "codigo": 775,
+            "procedimento": "Irídio urinário"
+        },
+        {
+            "codigo": 776,
+            "procedimento": "Isoaglutininas"
+        },
+        {
+            "codigo": 777,
+            "procedimento": "Isobutanol urinário"
+        },
+        {
+            "codigo": 778,
+            "procedimento": "Isoforonodiamina"
+        },
+        {
+            "codigo": 779,
+            "procedimento": "Isolamento de agentes específicos (vírus, bactérias, protozoários, fungos, outros parasitas)"
+        },
+        {
+            "codigo": 780,
+            "procedimento": "Isomerase fosfohexose"
+        },
+        {
+            "codigo": 781,
+            "procedimento": "Isoniazida"
+        },
+        {
+            "codigo": 782,
+            "procedimento": "Isopropanol urinário"
+        },
+        {
+            "codigo": 783,
+            "procedimento": "Isospora (pesquisa)"
+        },
+        {
+            "codigo": 784,
+            "procedimento": "Isospora (sorologia)"
+        },
+        {
+            "codigo": 785,
+            "procedimento": "Ito (cancro mole), IDeR"
+        },
+        {
+            "codigo": 786,
+            "procedimento": "Ítrio urinário"
+        },
+        {
+            "codigo": 787,
+            "procedimento": "Klebsiella (pesquisa)"
+        },
+        {
+            "codigo": 788,
+            "procedimento": "Kveim (sarcoidose), IDeR"
+        },
+        {
+            "codigo": 789,
+            "procedimento": "Lactogênico placentário-hormônio"
+        },
+        {
+            "codigo": 790,
+            "procedimento": "Lactose, teste de tolerância"
+        },
+        {
+            "codigo": 791,
+            "procedimento": "Lamotrigina"
+        },
+        {
+            "codigo": 792,
+            "procedimento": "Larvas (fezes), pesquisa"
+        },
+        {
+            "codigo": 793,
+            "procedimento": "Lassa vírus, pesquisa"
+        },
+        {
+            "codigo": 794,
+            "procedimento": "Legionella - IgG"
+        },
+        {
+            "codigo": 795,
+            "procedimento": "Legionella - IgM"
+        },
+        {
+            "codigo": 796,
+            "procedimento": "Leishmania (pesquisa)"
+        },
+        {
+            "codigo": 797,
+            "procedimento": "Leishmaniose - IgG"
+        },
+        {
+            "codigo": 798,
+            "procedimento": "Leishmaniose - IgM"
+        },
+        {
+            "codigo": 799,
+            "procedimento": "Leptina"
+        },
+        {
+            "codigo": 1406,
+            "procedimento": "Leptospira (pesquisa)"
+        },
+        {
+            "codigo": 800,
+            "procedimento": "Leptospirose - IgG"
+        },
+        {
+            "codigo": 801,
+            "procedimento": "Leptospirose - IgM"
+        },
+        {
+            "codigo": 802,
+            "procedimento": "Leucino aminopeptidase"
+        },
+        {
+            "codigo": 804,
+            "procedimento": "Leucócitos e hemácias, pesquisa nas fezes"
+        },
+        {
+            "codigo": 803,
+            "procedimento": "Leucócitos, contagem (leucograma)"
+        },
+        {
+            "codigo": 806,
+            "procedimento": "Leveduras, pesquisa nas fezes"
+        },
+        {
+            "codigo": 807,
+            "procedimento": "Lichtheimia (pesquisa)"
+        },
+        {
+            "codigo": 808,
+            "procedimento": "Lidocaina"
+        },
+        {
+            "codigo": 809,
+            "procedimento": "Lindano (γ-HCH) gama-hexaclorociclo-hexano"
+        },
+        {
+            "codigo": 810,
+            "procedimento": "Linfócitos T \"helper\" contagem de (IF com OKT-4) (CD-4+)"
+        },
+        {
+            "codigo": 811,
+            "procedimento": "Linfócitos T supressores contagem de (IF com OKT-8)"
+        },
+        {
+            "codigo": 812,
+            "procedimento": "Lipase"
+        },
+        {
+            "codigo": 813,
+            "procedimento": "Lipase lipoprotéica"
+        },
+        {
+            "codigo": 814,
+            "procedimento": "Lipídios totais"
+        },
+        {
+            "codigo": 815,
+            "procedimento": "Lipóides na urina"
+        },
+        {
+            "codigo": 816,
+            "procedimento": "Lipoproteína (a) - Lp (a)"
+        },
+        {
+            "codigo": 817,
+            "procedimento": "Listeria (pesquisa)"
+        },
+        {
+            "codigo": 818,
+            "procedimento": "Listeriose, reação sorológica"
+        },
+        {
+            "codigo": 819,
+            "procedimento": "Lítio sanguíneo"
+        },
+        {
+            "codigo": 820,
+            "procedimento": "Lítio urinário"
+        },
+        {
+            "codigo": 821,
+            "procedimento": "Loa (pesquisa)"
+        },
+        {
+            "codigo": 822,
+            "procedimento": "Lyme - IgG"
+        },
+        {
+            "codigo": 823,
+            "procedimento": "Lyme - IgM"
+        },
+        {
+            "codigo": 824,
+            "procedimento": "Lyssavírus (pesquisa)"
+        },
+        {
+            "codigo": 825,
+            "procedimento": "Lyssavírus do morcego Australiano (pesquisa)"
+        },
+        {
+            "codigo": 826,
+            "procedimento": "Lyssavírus do morcego europeu tipos 1 e 2 (pesquisa)"
+        },
+        {
+            "codigo": 827,
+            "procedimento": "Macroprolactina"
+        },
+        {
+            "codigo": 828,
+            "procedimento": "Madurella (pesquisa)"
+        },
+        {
+            "codigo": 829,
+            "procedimento": "Magnésio"
+        },
+        {
+            "codigo": 830,
+            "procedimento": "Malária - IgG"
+        },
+        {
+            "codigo": 831,
+            "procedimento": "Malária - IgM"
+        },
+        {
+            "codigo": 832,
+            "procedimento": "Malassezia (pesquisa)"
+        },
+        {
+            "codigo": 833,
+            "procedimento": "Malation urinário"
+        },
+        {
+            "codigo": 834,
+            "procedimento": "Maltose, teste de tolerância"
+        },
+        {
+            "codigo": 836,
+            "procedimento": "Manganês sanguíneo"
+        },
+        {
+            "codigo": 835,
+            "procedimento": "Manganês urinário"
+        },
+        {
+            "codigo": 837,
+            "procedimento": "Mansonella (pesquisa)"
+        },
+        {
+            "codigo": 838,
+            "procedimento": "Mantoux, IDeR"
+        },
+        {
+            "codigo": 839,
+            "procedimento": "Marcador tumoral CA 125"
+        },
+        {
+            "codigo": 840,
+            "procedimento": "Marcador tumoral CA 15-3"
+        },
+        {
+            "codigo": 841,
+            "procedimento": "Marcador tumoral CA 19.9"
+        },
+        {
+            "codigo": 842,
+            "procedimento": "Marcador tumoral CA 72-4"
+        },
+        {
+            "codigo": 843,
+            "procedimento": "Marcadores tumorais"
+        },
+        {
+            "codigo": 844,
+            "procedimento": "MCA (antígeno cárcino-mamário)"
+        },
+        {
+            "codigo": 845,
+            "procedimento": "Medida de pico de fluxo expiratório"
+        },
+        {
+            "codigo": 846,
+            "procedimento": "Medida seriada por 3 semanas do pico de fluxo expiratório"
+        },
+        {
+            "codigo": 847,
+            "procedimento": "MEHP + 5-OH-MEHP+ 5-oxo-MEHP+ 5-cx-MEPP"
+        },
+        {
+            "codigo": 848,
+            "procedimento": "Melanina na urina"
+        },
+        {
+            "codigo": 849,
+            "procedimento": "Mercúrio sanguíneo"
+        },
+        {
+            "codigo": 850,
+            "procedimento": "Mercúrio urinário"
+        },
+        {
+            "codigo": 851,
+            "procedimento": "Metabólitos de atrazina urinários (atrazina dealquilada, deetilada, deisoprpilada)"
+        },
+        {
+            "codigo": 852,
+            "procedimento": "Metagonimus (pesquisa)"
+        },
+        {
+            "codigo": 853,
+            "procedimento": "Meta-hemoglobina"
+        },
+        {
+            "codigo": 854,
+            "procedimento": "Metais pesados, pesquisa em unhas, cabelos, outros tecidos"
+        },
+        {
+            "codigo": 855,
+            "procedimento": "Metalotioneína urinária"
+        },
+        {
+            "codigo": 856,
+            "procedimento": "Metanefrinas urinárias"
+        },
+        {
+            "codigo": 857,
+            "procedimento": "Metanol"
+        },
+        {
+            "codigo": 858,
+            "procedimento": "Metapneumovírus (pesquisa)"
+        },
+        {
+            "codigo": 859,
+            "procedimento": "Metaxililenodiamina"
+        },
+        {
+            "codigo": 860,
+            "procedimento": "Methotrexate (metotrexato)"
+        },
+        {
+            "codigo": 861,
+            "procedimento": "Metil (4-hidroxi-1H-benzimidazol-2-il)"
+        },
+        {
+            "codigo": 862,
+            "procedimento": "Metil (5-hidoxi-1H-benzimidazol-2-il)"
+        },
+        {
+            "codigo": 863,
+            "procedimento": "Metil etil cetona"
+        },
+        {
+            "codigo": 864,
+            "procedimento": "Metil isobutil cetona"
+        },
+        {
+            "codigo": 1426,
+            "procedimento": "Metilclorofórmio no ar exalado"
+        },
+        {
+            "codigo": 865,
+            "procedimento": "Métodos diagnósticos por imagem antebraço"
+        },
+        {
+            "codigo": 866,
+            "procedimento": "Métodos diagnósticos por imagem antebraço articulação acromioclavicular"
+        },
+        {
+            "codigo": 867,
+            "procedimento": "Métodos diagnósticos por imagem articulação coxofemoral (quadril)"
+        },
+        {
+            "codigo": 868,
+            "procedimento": "Métodos diagnósticos por imagem articulação escapuloumeral (ombro)"
+        },
+        {
+            "codigo": 869,
+            "procedimento": "Métodos diagnósticos por imagem articulação esternoclavicular"
+        },
+        {
+            "codigo": 870,
+            "procedimento": "Métodos diagnósticos por imagem articulação tibiotársica (tornozelo)"
+        },
+        {
+            "codigo": 871,
+            "procedimento": "Métodos diagnósticos por imagem articulações sacro"
+        },
+        {
+            "codigo": 872,
+            "procedimento": "Métodos diagnósticos por imagem bacia"
+        },
+        {
+            "codigo": 873,
+            "procedimento": "Métodos diagnósticos por imagem braço"
+        },
+        {
+            "codigo": 874,
+            "procedimento": "Métodos diagnósticos por imagem calcâneo"
+        },
+        {
+            "codigo": 875,
+            "procedimento": "Métodos diagnósticos por imagem clavícula"
+        },
+        {
+            "codigo": 1407,
+            "procedimento": "Métodos diagnósticos por imagem coluna"
+        },
+        {
+            "codigo": 1408,
+            "procedimento": "Métodos diagnósticos por imagem coluna cervical"
+        },
+        {
+            "codigo": 1409,
+            "procedimento": "Métodos diagnósticos por imagem coluna dorsal"
+        },
+        {
+            "codigo": 1410,
+            "procedimento": "Métodos diagnósticos por imagem coluna lombar"
+        },
+        {
+            "codigo": 1411,
+            "procedimento": "Métodos diagnósticos por imagem coluna sacro-cóccix"
+        },
+        {
+            "codigo": 876,
+            "procedimento": "Métodos diagnósticos por imagem coração e vasos da base"
+        },
+        {
+            "codigo": 877,
+            "procedimento": "Métodos diagnósticos por imagem cotovelo"
+        },
+        {
+            "codigo": 878,
+            "procedimento": "Métodos diagnósticos por imagem coxa"
+        },
+        {
+            "codigo": 879,
+            "procedimento": "Métodos diagnósticos por imagem escanometria"
+        },
+        {
+            "codigo": 880,
+            "procedimento": "Métodos diagnósticos por imagem escápula"
+        },
+        {
+            "codigo": 881,
+            "procedimento": "Métodos diagnósticos por imagem esterno"
+        },
+        {
+            "codigo": 882,
+            "procedimento": "Métodos diagnósticos por imagem joelho"
+        },
+        {
+            "codigo": 883,
+            "procedimento": "Métodos diagnósticos por imagem laringe ou hipofaringe ou pescoço (partes moles)"
+        },
+        {
+            "codigo": 884,
+            "procedimento": "Métodos diagnósticos por imagem mão ou quirodáctilo"
+        },
+        {
+            "codigo": 885,
+            "procedimento": "Métodos diagnósticos por imagem não especificados na tabela"
+        },
+        {
+            "codigo": 886,
+            "procedimento": "Métodos diagnósticos por imagem panorâmica dos membros inferiores"
+        },
+        {
+            "codigo": 887,
+            "procedimento": "Métodos diagnósticos por imagem patela"
+        },
+        {
+            "codigo": 888,
+            "procedimento": "Métodos diagnósticos por imagem pé ou pododáctilo"
+        },
+        {
+            "codigo": 889,
+            "procedimento": "Métodos diagnósticos por imagem perna"
+        },
+        {
+            "codigo": 890,
+            "procedimento": "Métodos diagnósticos por imagem punho"
+        },
+        {
+            "codigo": 1999,
+            "procedimento": "Métodos diagnósticos por imagem - Não especificados anteriormente"
+        },
+        {
+            "codigo": 1412,
+            "procedimento": "Metotrexato"
+        },
+        {
+            "codigo": 893,
+            "procedimento": "Microalbuminúria"
+        },
+        {
+            "codigo": 894,
+            "procedimento": "Micronúcleos cromossômicos (pesquisa)"
+        },
+        {
+            "codigo": 895,
+            "procedimento": "Microsporídia, pesquisa nas fezes"
+        },
+        {
+            "codigo": 896,
+            "procedimento": "Microsporum (pesquisa)"
+        },
+        {
+            "codigo": 897,
+            "procedimento": "Mielograma"
+        },
+        {
+            "codigo": 898,
+            "procedimento": "Mioglobina"
+        },
+        {
+            "codigo": 899,
+            "procedimento": "Mioglobina urinária"
+        },
+        {
+            "codigo": 900,
+            "procedimento": "Mitomicina"
+        },
+        {
+            "codigo": 901,
+            "procedimento": "Molibdênio plasmático"
+        },
+        {
+            "codigo": 902,
+            "procedimento": "Molibdênio urinário"
+        },
+        {
+            "codigo": 903,
+            "procedimento": "Monoclorometano"
+        },
+        {
+            "codigo": 904,
+            "procedimento": "Monometilfosfato urinário (MMP)"
+        },
+        {
+            "codigo": 905,
+            "procedimento": "Mononucleose - Epstein BARR - IgG"
+        },
+        {
+            "codigo": 906,
+            "procedimento": "Mononucleose, anti-VCA (EBV) - IgM"
+        },
+        {
+            "codigo": 907,
+            "procedimento": "Monóxido de carbono no ar expirado"
+        },
+        {
+            "codigo": 908,
+            "procedimento": "Montenegro, IDeR"
+        },
+        {
+            "codigo": 909,
+            "procedimento": "Moraxella (pesquisa)"
+        },
+        {
+            "codigo": 910,
+            "procedimento": "Morfoline urinário"
+        },
+        {
+            "codigo": 911,
+            "procedimento": "Morganella (pesquisa)"
+        },
+        {
+            "codigo": 912,
+            "procedimento": "Muco-nasal, pesquisa de eosinófilos e mastócitos"
+        },
+        {
+            "codigo": 913,
+            "procedimento": "Mucopolissacaridose, pesquisa"
+        },
+        {
+            "codigo": 914,
+            "procedimento": "Mucoproteínas"
+        },
+        {
+            "codigo": 915,
+            "procedimento": "Mycobacterium (pesquisa)"
+        },
+        {
+            "codigo": 916,
+            "procedimento": "Mycoplasma (pesquisa)"
+        },
+        {
+            "codigo": 891,
+            "procedimento": "Mycoplasma pneumoniae - IgG"
+        },
+        {
+            "codigo": 892,
+            "procedimento": "Mycoplasma pneumoniae - IgM"
+        },
+        {
+            "codigo": 917,
+            "procedimento": "N-(2-carbonamidaetil)-valina"
+        },
+        {
+            "codigo": 918,
+            "procedimento": "N-(2-cianoetil)-valina"
+        },
+        {
+            "codigo": 919,
+            "procedimento": "N-(2-hidroxietil)-valina"
+        },
+        {
+            "codigo": 920,
+            "procedimento": "N-(2-hidroxipropil)-valina"
+        },
+        {
+            "codigo": 921,
+            "procedimento": "N-1(hidroxibutenil) valina (adutos de hemoglobina)"
+        },
+        {
+            "codigo": 922,
+            "procedimento": "N-2(hidroxibutenil) valina (adutos de hemoglobina)"
+        },
+        {
+            "codigo": 923,
+            "procedimento": "N-acetil, 3,4-diidroxibutil-cisteína"
+        },
+        {
+            "codigo": 924,
+            "procedimento": "N-acetil-beta-glicosaminidase na urina"
+        },
+        {
+            "codigo": 925,
+            "procedimento": "N-acetil-S-(2-carbonamidaetil)-cisteína"
+        },
+        {
+            "codigo": 1425,
+            "procedimento": "N-acetil-S-(N-metilcarbamoil) cisteína na urina"
+        },
+        {
+            "codigo": 926,
+            "procedimento": "N-acetil-S-2-hidroxietil-L-cisteína"
+        },
+        {
+            "codigo": 927,
+            "procedimento": "Naegleria (pesquisa)"
+        },
+        {
+            "codigo": 928,
+            "procedimento": "Naftóis urinários"
+        },
+        {
+            "codigo": 929,
+            "procedimento": "NBT estimulado"
+        },
+        {
+            "codigo": 930,
+            "procedimento": "N-butil álcool"
+        },
+        {
+            "codigo": 931,
+            "procedimento": "N-dimetil acetamida + N-hidroximetil-N-metil acetamida"
+        },
+        {
+            "codigo": 932,
+            "procedimento": "Necator (pesquisa)"
+        },
+        {
+            "codigo": 933,
+            "procedimento": "Neisseria (pesquisa)"
+        },
+        {
+            "codigo": 934,
+            "procedimento": "Neotestudina (pesquisa)"
+        },
+        {
+            "codigo": 935,
+            "procedimento": "N-heptano"
+        },
+        {
+            "codigo": 936,
+            "procedimento": "Nióbio urinário"
+        },
+        {
+            "codigo": 937,
+            "procedimento": "Níquel urinário"
+        },
+        {
+            "codigo": 938,
+            "procedimento": "Nitrogênio amoniacal"
+        },
+        {
+            "codigo": 939,
+            "procedimento": "Nitrogênio total"
+        },
+        {
+            "codigo": 940,
+            "procedimento": "Nitroglicóis totais urinários"
+        },
+        {
+            "codigo": 941,
+            "procedimento": "N-metil-2-pirrolidona"
+        },
+        {
+            "codigo": 942,
+            "procedimento": "N-metilacetamida"
+        },
+        {
+            "codigo": 943,
+            "procedimento": "N-metilformamida"
+        },
+        {
+            "codigo": 944,
+            "procedimento": "N-metilformamida + N-hidroximetil-N-metilformamida"
+        },
+        {
+            "codigo": 945,
+            "procedimento": "N-metilvalina"
+        },
+        {
+            "codigo": 946,
+            "procedimento": "Nocardia (pesquisa)"
+        },
+        {
+            "codigo": 947,
+            "procedimento": "Norovírus (pesquisa)"
+        },
+        {
+            "codigo": 948,
+            "procedimento": "Nortriptilina"
+        },
+        {
+            "codigo": 949,
+            "procedimento": "N-telopeptídeo"
+        },
+        {
+            "codigo": 950,
+            "procedimento": "Ocitocinase"
+        },
+        {
+            "codigo": 951,
+            "procedimento": "O-cresol urinário"
+        },
+        {
+            "codigo": 952,
+            "procedimento": "Onchocerca (pesquisa)"
+        },
+        {
+            "codigo": 953,
+            "procedimento": "Opisthorchis (pesquisa)"
+        },
+        {
+            "codigo": 954,
+            "procedimento": "Orbivírus (pesquisa)"
+        },
+        {
+            "codigo": 955,
+            "procedimento": "Orthopoxvírus (pesquisa)"
+        },
+        {
+            "codigo": 956,
+            "procedimento": "Ortoreovírus de mamíferos, tipos 1 a 3 (pesquisa)"
+        },
+        {
+            "codigo": 957,
+            "procedimento": "Ósmio urinário"
+        },
+        {
+            "codigo": 958,
+            "procedimento": "Osmolalidade"
+        },
+        {
+            "codigo": 959,
+            "procedimento": "Osmolalidade na urina"
+        },
+        {
+            "codigo": 960,
+            "procedimento": "Osteocalcina"
+        },
+        {
+            "codigo": 961,
+            "procedimento": "O-toluidina"
+        },
+        {
+            "codigo": 962,
+            "procedimento": "Oxcarbazepina"
+        },
+        {
+            "codigo": 963,
+            "procedimento": "Óxido nitroso na urina"
+        },
+        {
+            "codigo": 964,
+            "procedimento": "P,p-1-diclorobenzofenona"
+        },
+        {
+            "codigo": 965,
+            "procedimento": "Paládio urinário"
+        },
+        {
+            "codigo": 966,
+            "procedimento": "P-aminofenol"
+        },
+        {
+            "codigo": 967,
+            "procedimento": "Papilomavírus humano (HPV) (pesquisa)"
+        },
+        {
+            "codigo": 968,
+            "procedimento": "PAPP-A"
+        },
+        {
+            "codigo": 969,
+            "procedimento": "Paracoccidioides (pesquisa)"
+        },
+        {
+            "codigo": 970,
+            "procedimento": "Paracoccidioidomicose, anticorpos totais - IgG"
+        },
+        {
+            "codigo": 971,
+            "procedimento": "Paragonimus (pesquisa)"
+        },
+        {
+            "codigo": 972,
+            "procedimento": "Parapoxvírus (pesquisa)"
+        },
+        {
+            "codigo": 973,
+            "procedimento": "Paraquat urinário"
+        },
+        {
+            "codigo": 974,
+            "procedimento": "Parasitológico de fezes"
+        },
+        {
+            "codigo": 975,
+            "procedimento": "Paratormônio - PTH"
+        },
+        {
+            "codigo": 976,
+            "procedimento": "Parechovírus (pesquisa)"
+        },
+        {
+            "codigo": 977,
+            "procedimento": "Parvovírus - IgG"
+        },
+        {
+            "codigo": 1413,
+            "procedimento": "Parvovírus - IgM"
+        },
+        {
+            "codigo": 978,
+            "procedimento": "Parvovírus (pesquisa)"
+        },
+        {
+            "codigo": 979,
+            "procedimento": "Parvovírus humano 4 e 5 (pesquisa)"
+        },
+        {
+            "codigo": 980,
+            "procedimento": "Parvovírus humano B19 (pesquisa)"
+        },
+        {
+            "codigo": 981,
+            "procedimento": "Pasteurella (pesquisa)"
+        },
+        {
+            "codigo": 982,
+            "procedimento": "PCB 101"
+        },
+        {
+            "codigo": 983,
+            "procedimento": "PCB 138"
+        },
+        {
+            "codigo": 984,
+            "procedimento": "PCB 153"
+        },
+        {
+            "codigo": 985,
+            "procedimento": "PCB 180"
+        },
+        {
+            "codigo": 986,
+            "procedimento": "PCB 28"
+        },
+        {
+            "codigo": 987,
+            "procedimento": "PCB 52"
+        },
+        {
+            "codigo": 1424,
+            "procedimento": "p-clorocatecol (para-clorocatecol) urinário"
+        },
+        {
+            "codigo": 988,
+            "procedimento": "Pegivírus humano (pesquisa)"
+        },
+        {
+            "codigo": 989,
+            "procedimento": "Penicillium (pesquisa)"
+        },
+        {
+            "codigo": 990,
+            "procedimento": "Pentacloroetano"
+        },
+        {
+            "codigo": 991,
+            "procedimento": "Pentaclorofenol sanguíneo/plasmático"
+        },
+        {
+            "codigo": 992,
+            "procedimento": "Pentaclorofenol urinário"
+        },
+        {
+            "codigo": 993,
+            "procedimento": "Peptídeo C"
+        },
+        {
+            "codigo": 994,
+            "procedimento": "Peptídeo natriurético BNP/PROBNP"
+        },
+        {
+            "codigo": 995,
+            "procedimento": "Peptídio intestinal vasoativo"
+        },
+        {
+            "codigo": 996,
+            "procedimento": "Peptostreptococcus (pesquisa)"
+        },
+        {
+            "codigo": 997,
+            "procedimento": "Perfil lipídico/lipidograma"
+        },
+        {
+            "codigo": 998,
+            "procedimento": "Pesquisa de agente infeccioso específico por PCR"
+        },
+        {
+            "codigo": 999,
+            "procedimento": "Pesquisa de mutação de alelo específico por PCR"
+        },
+        {
+            "codigo": 1000,
+            "procedimento": "pH - Tornassol"
+        },
+        {
+            "codigo": 1001,
+            "procedimento": "Piridinolina"
+        },
+        {
+            "codigo": 1002,
+            "procedimento": "Pirimidina-5-nucleotidase"
+        },
+        {
+            "codigo": 1003,
+            "procedimento": "Piruvato quinase"
+        },
+        {
+            "codigo": 1004,
+            "procedimento": "Planigrafia de tórax, mediastino ou laringe"
+        },
+        {
+            "codigo": 1005,
+            "procedimento": "Plaquetas, teste de agregação"
+        },
+        {
+            "codigo": 1006,
+            "procedimento": "Plasminogênio"
+        },
+        {
+            "codigo": 1007,
+            "procedimento": "Plasmodium (pesquisa)"
+        },
+        {
+            "codigo": 1008,
+            "procedimento": "Platina urinária"
+        },
+        {
+            "codigo": 1009,
+            "procedimento": "Plesiomonas (pesquisa)"
+        },
+        {
+            "codigo": 1010,
+            "procedimento": "Pneumocysti carinii (pesquisa)"
+        },
+        {
+            "codigo": 1011,
+            "procedimento": "P-nitrocresol"
+        },
+        {
+            "codigo": 1012,
+            "procedimento": "P-nitrofenol"
+        },
+        {
+            "codigo": 1013,
+            "procedimento": "Poliomavírus BK (pesquisa)"
+        },
+        {
+            "codigo": 1014,
+            "procedimento": "Poliomavírus JC (pesquisa)"
+        },
+        {
+            "codigo": 1015,
+            "procedimento": "Poliomavírus KI (pesquisa)"
+        },
+        {
+            "codigo": 1016,
+            "procedimento": "Poliomavírus WU (pesquisa)"
+        },
+        {
+            "codigo": 1017,
+            "procedimento": "Poliomelite (sorologia)"
+        },
+        {
+            "codigo": 1018,
+            "procedimento": "Poliovírus (pesquisa)"
+        },
+        {
+            "codigo": 1019,
+            "procedimento": "Porfibilinogênio na urina"
+        },
+        {
+            "codigo": 1020,
+            "procedimento": "Porfirinas quantitativas"
+        },
+        {
+            "codigo": 1021,
+            "procedimento": "Porphyromonas (pesquisa)"
+        },
+        {
+            "codigo": 1022,
+            "procedimento": "Potássio"
+        },
+        {
+            "codigo": 1023,
+            "procedimento": "Poxvírus, pesquisa"
+        },
+        {
+            "codigo": 1024,
+            "procedimento": "PPD (tuberculina), IDeR"
+        },
+        {
+            "codigo": 1025,
+            "procedimento": "Prata sanguínea"
+        },
+        {
+            "codigo": 1026,
+            "procedimento": "Pré-albumina"
+        },
+        {
+            "codigo": 1027,
+            "procedimento": "Pregnandiol"
+        },
+        {
+            "codigo": 1028,
+            "procedimento": "Pregnantriol"
+        },
+        {
+            "codigo": 1029,
+            "procedimento": "Prevotella (pesquisa)"
+        },
+        {
+            "codigo": 1030,
+            "procedimento": "Primidona"
+        },
+        {
+            "codigo": 1031,
+            "procedimento": "Prions (pesquisa)"
+        },
+        {
+            "codigo": 1032,
+            "procedimento": "Procainamida"
+        },
+        {
+            "codigo": 1033,
+            "procedimento": "Procalcitonina"
+        },
+        {
+            "codigo": 1034,
+            "procedimento": "Produtos de degradação da fibrina"
+        },
+        {
+            "codigo": 1035,
+            "procedimento": "Progesterona"
+        },
+        {
+            "codigo": 1036,
+            "procedimento": "Prolactina"
+        },
+        {
+            "codigo": 1037,
+            "procedimento": "Propanolol"
+        },
+        {
+            "codigo": 1038,
+            "procedimento": "Propilenoglicol"
+        },
+        {
+            "codigo": 1039,
+            "procedimento": "Propilenotioureia (PTU)"
+        },
+        {
+            "codigo": 1040,
+            "procedimento": "Proteína amiloide A"
+        },
+        {
+            "codigo": 1041,
+            "procedimento": "Proteína C"
+        },
+        {
+            "codigo": 1042,
+            "procedimento": "Proteína C reativa"
+        },
+        {
+            "codigo": 1043,
+            "procedimento": "Proteína eosinofílica catiônica"
+        },
+        {
+            "codigo": 1044,
+            "procedimento": "Proteína ligadora do retinol"
+        },
+        {
+            "codigo": 1045,
+            "procedimento": "Proteína nuclear matriz 22 (NMP22)"
+        },
+        {
+            "codigo": 1046,
+            "procedimento": "Proteína S livre"
+        },
+        {
+            "codigo": 1047,
+            "procedimento": "Proteína S total + livre"
+        },
+        {
+            "codigo": 1048,
+            "procedimento": "Proteína S, teste funcional"
+        },
+        {
+            "codigo": 1049,
+            "procedimento": "Proteínas de Bence Jones"
+        },
+        {
+            "codigo": 1050,
+            "procedimento": "Proteínas totais"
+        },
+        {
+            "codigo": 1051,
+            "procedimento": "Proteus (pesquisa)"
+        },
+        {
+            "codigo": 1052,
+            "procedimento": "Protoporfirina eritrocitária livre - Zinco"
+        },
+        {
+            "codigo": 1053,
+            "procedimento": "Protoporfirinas livres"
+        },
+        {
+            "codigo": 1054,
+            "procedimento": "Protoporfirinas Zn"
+        },
+        {
+            "codigo": 1055,
+            "procedimento": "Prova de concentração da urina (Fishberg ou Volhard)"
+        },
+        {
+            "codigo": 1056,
+            "procedimento": "Prova de diluição urinária"
+        },
+        {
+            "codigo": 1057,
+            "procedimento": "Prova de função pulmonar completa (ou espirometria)"
+        },
+        {
+            "codigo": 1058,
+            "procedimento": "Prova do laço"
+        },
+        {
+            "codigo": 1059,
+            "procedimento": "Prova do LH-Rh"
+        },
+        {
+            "codigo": 1060,
+            "procedimento": "Prova do TRH-HPR"
+        },
+        {
+            "codigo": 1414,
+            "procedimento": "Prova do TRH-TSH"
+        },
+        {
+            "codigo": 1061,
+            "procedimento": "Prova para diabete insípido"
+        },
+        {
+            "codigo": 1062,
+            "procedimento": "Providencia (pesquisa)"
+        },
+        {
+            "codigo": 1063,
+            "procedimento": "Pseudallescheria (pesquisa)"
+        },
+        {
+            "codigo": 1064,
+            "procedimento": "Pseudomonas (pesquisa)"
+        },
+        {
+            "codigo": 1065,
+            "procedimento": "Pseudoterranova (pesquisa)"
+        },
+        {
+            "codigo": 1066,
+            "procedimento": "Psitacose - IgA"
+        },
+        {
+            "codigo": 1067,
+            "procedimento": "Psitacose - IgG"
+        },
+        {
+            "codigo": 1068,
+            "procedimento": "Psitacose - IgM"
+        },
+        {
+            "codigo": 1069,
+            "procedimento": "P-ter-butilfenol"
+        },
+        {
+            "codigo": 1070,
+            "procedimento": "P-toluidina"
+        },
+        {
+            "codigo": 1071,
+            "procedimento": "Quebra das fitas de DNA (pesquisa)"
+        },
+        {
+            "codigo": 1072,
+            "procedimento": "Quinidina"
+        },
+        {
+            "codigo": 1073,
+            "procedimento": "Radiografia de coluna cervical"
+        },
+        {
+            "codigo": 1074,
+            "procedimento": "Radiografia de coluna dorsal"
+        },
+        {
+            "codigo": 1075,
+            "procedimento": "Radiografia de coluna lombo-sacra"
+        },
+        {
+            "codigo": 1076,
+            "procedimento": "Radiografia de membros inferiores"
+        },
+        {
+            "codigo": 1077,
+            "procedimento": "Radiografia de membros superiores"
+        },
+        {
+            "codigo": 1078,
+            "procedimento": "Radiografia de tórax (PA) Padrão OIT (o mais recente), com dois leitores habilitados"
+        },
+        {
+            "codigo": 1415,
+            "procedimento": "Radiografia de tórax (PA) Padrão OIT (o mais recente), com pelo menos um leitor habilitado"
+        },
+        {
+            "codigo": 1430,
+            "procedimento": "Radiografia de tórax em visão anteroposterior e de perfil"
+        },
+        {
+            "codigo": 1079,
+            "procedimento": "Raiva (pesquisa)"
+        },
+        {
+            "codigo": 1080,
+            "procedimento": "Reação de fixação de complemento"
+        },
+        {
+            "codigo": 1081,
+            "procedimento": "Reação sorológica para Coxsackie, neutralização - IgG"
+        },
+        {
+            "codigo": 1082,
+            "procedimento": "Renina"
+        },
+        {
+            "codigo": 1083,
+            "procedimento": "Reovírus tipos 1 a 3 (pesquisa)"
+        },
+        {
+            "codigo": 1084,
+            "procedimento": "Reserva alcalina (bicarbonato)"
+        },
+        {
+            "codigo": 1085,
+            "procedimento": "Resistência globular, curva de"
+        },
+        {
+            "codigo": 1086,
+            "procedimento": "Reticulócitos"
+        },
+        {
+            "codigo": 1087,
+            "procedimento": "Retração do coágulo"
+        },
+        {
+            "codigo": 1088,
+            "procedimento": "Rhinocladiella (pesquisa)"
+        },
+        {
+            "codigo": 1089,
+            "procedimento": "Rhizomucor (pesquisa)"
+        },
+        {
+            "codigo": 1090,
+            "procedimento": "Rhizopus (pesquisa)"
+        },
+        {
+            "codigo": 1091,
+            "procedimento": "Rhodococcus (pesquisa)"
+        },
+        {
+            "codigo": 1092,
+            "procedimento": "Rickettsia (pesquisa)"
+        },
+        {
+            "codigo": 1093,
+            "procedimento": "Rinovírus humano (pesquisa)"
+        },
+        {
+            "codigo": 1094,
+            "procedimento": "Ristocetina, co-fator"
+        },
+        {
+            "codigo": 1095,
+            "procedimento": "Rochalimaea (pesquisa)"
+        },
+        {
+            "codigo": 1096,
+            "procedimento": "Ródio urinário"
+        },
+        {
+            "codigo": 1097,
+            "procedimento": "Rotavírus humano tipos A, B e C (pesquisa)"
+        },
+        {
+            "codigo": 1098,
+            "procedimento": "Rotina de urina"
+        },
+        {
+            "codigo": 1099,
+            "procedimento": "Rubéola - IgG"
+        },
+        {
+            "codigo": 1100,
+            "procedimento": "Rubéola - IgM"
+        },
+        {
+            "codigo": 1101,
+            "procedimento": "Rubídio urinário"
+        },
+        {
+            "codigo": 1102,
+            "procedimento": "Sacarose, teste de tolerância"
+        },
+        {
+            "codigo": 1103,
+            "procedimento": "Saksenaea (pesquisa)"
+        },
+        {
+            "codigo": 1104,
+            "procedimento": "Salicilatos"
+        },
+        {
+            "codigo": 1105,
+            "procedimento": "Salmonela (pesquisa)"
+        },
+        {
+            "codigo": 1107,
+            "procedimento": "Sangue oculto nas fezes"
+        },
+        {
+            "codigo": 1108,
+            "procedimento": "Sarampo - IgG"
+        },
+        {
+            "codigo": 1109,
+            "procedimento": "Sarampo - IgM"
+        },
+        {
+            "codigo": 1110,
+            "procedimento": "Sarcocystis (pesquisa)"
+        },
+        {
+            "codigo": 1111,
+            "procedimento": "Sarcoptes scabei (pesquisa)"
+        },
+        {
+            "codigo": 1112,
+            "procedimento": "Scedosporium (pesquisa)"
+        },
+        {
+            "codigo": 1113,
+            "procedimento": "Schistosoma (pesquisa)"
+        },
+        {
+            "codigo": 1114,
+            "procedimento": "Schistosomose/Esquistossomose - IgG"
+        },
+        {
+            "codigo": 1115,
+            "procedimento": "Schistosomose/Esquistossomose - IgM"
+        },
+        {
+            "codigo": 1116,
+            "procedimento": "Scopulariopsis (pesquisa)"
+        },
+        {
+            "codigo": 1117,
+            "procedimento": "Selênio plasmático"
+        },
+        {
+            "codigo": 1118,
+            "procedimento": "Selênio urinário"
+        },
+        {
+            "codigo": 1119,
+            "procedimento": "Serpulina (pesquisa)"
+        },
+        {
+            "codigo": 1120,
+            "procedimento": "Shigella (pesquisa)"
+        },
+        {
+            "codigo": 1121,
+            "procedimento": "Sífilis - FTA-ABS - IgG"
+        },
+        {
+            "codigo": 1122,
+            "procedimento": "Sífilis - FTA-ABS - IgM"
+        },
+        {
+            "codigo": 1123,
+            "procedimento": "Sífilis - VDRL"
+        },
+        {
+            "codigo": 1124,
+            "procedimento": "Silício sangúineo"
+        },
+        {
+            "codigo": 1125,
+            "procedimento": "S-metilcisteína"
+        },
+        {
+            "codigo": 1126,
+            "procedimento": "Sobrecarga de água, prova"
+        },
+        {
+            "codigo": 1127,
+            "procedimento": "Sódio"
+        },
+        {
+            "codigo": 1128,
+            "procedimento": "Solventes, pesquisa no ar expirado"
+        },
+        {
+            "codigo": 1129,
+            "procedimento": "Somatomedina C (IGF1)"
+        },
+        {
+            "codigo": 1431,
+            "procedimento": "Somatório de ácidos mandélico e fenilglioxílico na urina"
+        },
+        {
+            "codigo": 1130,
+            "procedimento": "Somatotrófico coriônico-hormônio (HCS ou PHL)"
+        },
+        {
+            "codigo": 1131,
+            "procedimento": "Sporothrix (pesquisa)"
+        },
+        {
+            "codigo": 1132,
+            "procedimento": "Staphylococcus (pesquisa)"
+        },
+        {
+            "codigo": 1133,
+            "procedimento": "Streptococcus (pesquisa)"
+        },
+        {
+            "codigo": 1134,
+            "procedimento": "Strongyloides (pesquisa)"
+        },
+        {
+            "codigo": 1135,
+            "procedimento": "Substâncias redutoras nas fezes"
+        },
+        {
+            "codigo": 1136,
+            "procedimento": "Succinil acetona"
+        },
+        {
+            "codigo": 1137,
+            "procedimento": "Sulfato de dehidroepiandrosterona (S-DHEA)"
+        },
+        {
+            "codigo": 1138,
+            "procedimento": "Sulfatos inorgânicos"
+        },
+        {
+            "codigo": 1139,
+            "procedimento": "Sulfatos orgânicos"
+        },
+        {
+            "codigo": 1140,
+            "procedimento": "Sulfo-hemoglobina"
+        },
+        {
+            "codigo": 1141,
+            "procedimento": "Sulfonamidas livre e acetilada (% de acetilação)"
+        },
+        {
+            "codigo": 1106,
+            "procedimento": "Sumário de urina"
+        },
+        {
+            "codigo": 1142,
+            "procedimento": "T3 livre"
+        },
+        {
+            "codigo": 1143,
+            "procedimento": "T3 retenção"
+        },
+        {
+            "codigo": 1144,
+            "procedimento": "T3 reverso"
+        },
+        {
+            "codigo": 1145,
+            "procedimento": "T4 livre"
+        },
+        {
+            "codigo": 1146,
+            "procedimento": "Tacrolimus"
+        },
+        {
+            "codigo": 1147,
+            "procedimento": "Taenia saginata (pesquisa)"
+        },
+        {
+            "codigo": 1148,
+            "procedimento": "Taenia solium (pesquisa)"
+        },
+        {
+            "codigo": 1149,
+            "procedimento": "Tálio sanguíneo"
+        },
+        {
+            "codigo": 1150,
+            "procedimento": "Tálio urinário"
+        },
+        {
+            "codigo": 1151,
+            "procedimento": "Telúrio urinário"
+        },
+        {
+            "codigo": 1152,
+            "procedimento": "Tempo de coagulação"
+        },
+        {
+            "codigo": 1153,
+            "procedimento": "Tempo de protrombina"
+        },
+        {
+            "codigo": 1154,
+            "procedimento": "Tempo de reptilase"
+        },
+        {
+            "codigo": 1155,
+            "procedimento": "Tempo de sangramento (Duke)"
+        },
+        {
+            "codigo": 1156,
+            "procedimento": "Tempo de sangramento de IVY"
+        },
+        {
+            "codigo": 1157,
+            "procedimento": "Tempo de trombina"
+        },
+        {
+            "codigo": 1158,
+            "procedimento": "Tempo de tromboplastina parcial ativada (TTPA)"
+        },
+        {
+            "codigo": 1159,
+            "procedimento": "Teofilina"
+        },
+        {
+            "codigo": 1160,
+            "procedimento": "Ter-butil-álcool sanguíneo"
+        },
+        {
+            "codigo": 1161,
+            "procedimento": "Ter-butil-álcool urinário"
+        },
+        {
+            "codigo": 1162,
+            "procedimento": "Ter-butil-metil-éter sanguíneo"
+        },
+        {
+            "codigo": 1163,
+            "procedimento": "Ter-butil-metil-éter urinário"
+        },
+        {
+            "codigo": 1164,
+            "procedimento": "Teste de inibição da migração dos linfócitos"
+        },
+        {
+            "codigo": 1165,
+            "procedimento": "Teste de tolerância a insulina ou hipoglicemiantes orais"
+        },
+        {
+            "codigo": 1166,
+            "procedimento": "Teste ergométrico (de esforço)"
+        },
+        {
+            "codigo": 1167,
+            "procedimento": "Teste oral de tolerância à glicose"
+        },
+        {
+            "codigo": 1168,
+            "procedimento": "Teste respiratório para H. Pylori"
+        },
+        {
+            "codigo": 1169,
+            "procedimento": "Testes cutâneo-alérgicos para alérgenos da poeira"
+        },
+        {
+            "codigo": 1170,
+            "procedimento": "Testes cutâneo-alérgicos para alimentos"
+        },
+        {
+            "codigo": 1171,
+            "procedimento": "Testes cutâneo-alérgicos para fungos"
+        },
+        {
+            "codigo": 1172,
+            "procedimento": "Testes cutâneo-alérgicos para insetos hematófagos"
+        },
+        {
+            "codigo": 1173,
+            "procedimento": "Testes cutâneo-alérgicos para pólens"
+        },
+        {
+            "codigo": 1174,
+            "procedimento": "Testes de contato - Até 30 substâncias"
+        },
+        {
+            "codigo": 1175,
+            "procedimento": "Testosterona livre"
+        },
+        {
+            "codigo": 1176,
+            "procedimento": "Testosterona total"
+        },
+        {
+            "codigo": 1177,
+            "procedimento": "Tetracloreto de carbono (tetraclorometano)"
+        },
+        {
+            "codigo": 1178,
+            "procedimento": "Tetracloroetano"
+        },
+        {
+            "codigo": 1179,
+            "procedimento": "Tetracloroetileno"
+        },
+        {
+            "codigo": 1428,
+            "procedimento": "Tetracloroetileno no ar exalado"
+        },
+        {
+            "codigo": 1180,
+            "procedimento": "Tetrahidroftalimida urinária"
+        },
+        {
+            "codigo": 1181,
+            "procedimento": "Tetra-hidrofurano"
+        },
+        {
+            "codigo": 1182,
+            "procedimento": "Thiram sanguíneo"
+        },
+        {
+            "codigo": 1183,
+            "procedimento": "Tiocianato plasmático"
+        },
+        {
+            "codigo": 1184,
+            "procedimento": "Tiocianato urinário"
+        },
+        {
+            "codigo": 1185,
+            "procedimento": "Tireoglobulina"
+        },
+        {
+            "codigo": 1186,
+            "procedimento": "Tirosina"
+        },
+        {
+            "codigo": 1187,
+            "procedimento": "Tirosinose na urina"
+        },
+        {
+            "codigo": 1188,
+            "procedimento": "Tolueno sanguíneo"
+        },
+        {
+            "codigo": 1189,
+            "procedimento": "Tolueno urinário"
+        },
+        {
+            "codigo": 1190,
+            "procedimento": "Tolueno-2,4-diamina"
+        },
+        {
+            "codigo": 1191,
+            "procedimento": "Tolueno-2,6-diamina"
+        },
+        {
+            "codigo": 1416,
+            "procedimento": "Tomografia de tórax"
+        },
+        {
+            "codigo": 1192,
+            "procedimento": "Torovírus bovino (pesquisa)"
+        },
+        {
+            "codigo": 1193,
+            "procedimento": "Torovírus equino (pesquisa)"
+        },
+        {
+            "codigo": 1194,
+            "procedimento": "Torovírus humano (pesquisa)"
+        },
+        {
+            "codigo": 1195,
+            "procedimento": "Torovírus porcino (pesquisa)"
+        },
+        {
+            "codigo": 1196,
+            "procedimento": "Toxocara (pesquisa)"
+        },
+        {
+            "codigo": 1197,
+            "procedimento": "Toxocara canis - IgG"
+        },
+        {
+            "codigo": 1198,
+            "procedimento": "Toxocara canis - IgM"
+        },
+        {
+            "codigo": 1199,
+            "procedimento": "Toxoplasma (pesquisa)"
+        },
+        {
+            "codigo": 1200,
+            "procedimento": "Toxoplasmina, IDeR"
+        },
+        {
+            "codigo": 1201,
+            "procedimento": "Toxoplasmose - IgA"
+        },
+        {
+            "codigo": 1202,
+            "procedimento": "Toxoplasmose - IgG"
+        },
+        {
+            "codigo": 1203,
+            "procedimento": "Toxoplasmose - IgM"
+        },
+        {
+            "codigo": 1204,
+            "procedimento": "Transaminase oxalacética (amino transferase aspartato)"
+        },
+        {
+            "codigo": 1205,
+            "procedimento": "Transaminase pirúvica (amino transferase de alanina)"
+        },
+        {
+            "codigo": 1206,
+            "procedimento": "Transferrina"
+        },
+        {
+            "codigo": 1207,
+            "procedimento": "Treponema (pesquisa)"
+        },
+        {
+            "codigo": 1208,
+            "procedimento": "Triazínicos dealquilados"
+        },
+        {
+            "codigo": 1209,
+            "procedimento": "Triazolam"
+        },
+        {
+            "codigo": 1210,
+            "procedimento": "Trichinella (pesquisa)"
+        },
+        {
+            "codigo": 1211,
+            "procedimento": "Trichomonas (pesquisa)"
+        },
+        {
+            "codigo": 1212,
+            "procedimento": "Trichosporon (pesquisa)"
+        },
+        {
+            "codigo": 1213,
+            "procedimento": "Trichostrongylus (pesquisa)"
+        },
+        {
+            "codigo": 1214,
+            "procedimento": "Trichuris (pesquisa)"
+        },
+        {
+            "codigo": 1215,
+            "procedimento": "Triclorocompostos totais"
+        },
+        {
+            "codigo": 1216,
+            "procedimento": "Tricloroetano (tricloroetanol) sanguíneo"
+        },
+        {
+            "codigo": 1217,
+            "procedimento": "Tricloroetano (tricloroetanol) urinário"
+        },
+        {
+            "codigo": 1218,
+            "procedimento": "Tricloroetileno"
+        },
+        {
+            "codigo": 1219,
+            "procedimento": "Tricloropridinol"
+        },
+        {
+            "codigo": 1220,
+            "procedimento": "Tricophyton (pesquisa)"
+        },
+        {
+            "codigo": 1221,
+            "procedimento": "Trifenilcarbinol urinário"
+        },
+        {
+            "codigo": 1222,
+            "procedimento": "Triglicerídeos"
+        },
+        {
+            "codigo": 1223,
+            "procedimento": "Trimipramina"
+        },
+        {
+            "codigo": 1224,
+            "procedimento": "Tripsina imuno reativa (IRT)"
+        },
+        {
+            "codigo": 1225,
+            "procedimento": "Troca de cromátides irmãs (pesquisa)"
+        },
+        {
+            "codigo": 1226,
+            "procedimento": "Tromboelastograma"
+        },
+        {
+            "codigo": 1227,
+            "procedimento": "Troponina"
+        },
+        {
+            "codigo": 1228,
+            "procedimento": "Trypanosoma (pesquisa)"
+        },
+        {
+            "codigo": 1229,
+            "procedimento": "Tungstênio urinário"
+        },
+        {
+            "codigo": 1230,
+            "procedimento": "Ultrassonografia"
+        },
+        {
+            "codigo": 1231,
+            "procedimento": "Ultrassonografia abdome inferior feminino (bexiga, útero, ovário e anexos)"
+        },
+        {
+            "codigo": 1232,
+            "procedimento": "Ultrassonografia abdome inferior masculino (bexiga, próstata e vesículas seminais)"
+        },
+        {
+            "codigo": 1233,
+            "procedimento": "Ultrassonografia abdome superior (fígado, vias biliares, vesícula, pâncreas, baço)"
+        },
+        {
+            "codigo": 1234,
+            "procedimento": "Ultrassonografia abdome total (inclui abdome inferior)"
+        },
+        {
+            "codigo": 1235,
+            "procedimento": "Ultrassonografia aparelho urinário feminino (rins, ureteres e bexiga)"
+        },
+        {
+            "codigo": 1236,
+            "procedimento": "Ultrassonografia aparelho urinário masculino (rins, ureteres, bexiga e próstata)"
+        },
+        {
+            "codigo": 1237,
+            "procedimento": "Ultrassonografia articular"
+        },
+        {
+            "codigo": 1238,
+            "procedimento": "Ultrassonografia dermatológica - Pele e subcutâneo"
+        },
+        {
+            "codigo": 1239,
+            "procedimento": "Urânio"
+        },
+        {
+            "codigo": 1240,
+            "procedimento": "Ureaplasma (pesquisa)"
+        },
+        {
+            "codigo": 1241,
+            "procedimento": "Urease, teste rápido parahelicobacter pylori"
+        },
+        {
+            "codigo": 1242,
+            "procedimento": "Uréia"
+        },
+        {
+            "codigo": 1243,
+            "procedimento": "Urobilinogênio"
+        },
+        {
+            "codigo": 1244,
+            "procedimento": "Uroporfirinas"
+        },
+        {
+            "codigo": 1245,
+            "procedimento": "Vanádio sanguíneo/plasmático"
+        },
+        {
+            "codigo": 1246,
+            "procedimento": "Vanádio urinário"
+        },
+        {
+            "codigo": 1247,
+            "procedimento": "Varicela - IgG"
+        },
+        {
+            "codigo": 1248,
+            "procedimento": "Varicela - IgM"
+        },
+        {
+            "codigo": 1249,
+            "procedimento": "Vibrio (pesquisa)"
+        },
+        {
+            "codigo": 1251,
+            "procedimento": "Vírus Absettarov (pesquisa)"
+        },
+        {
+            "codigo": 1252,
+            "procedimento": "Vírus Akabane (pesquisa)"
+        },
+        {
+            "codigo": 1253,
+            "procedimento": "Vírus Amapari (pesquisa)"
+        },
+        {
+            "codigo": 1254,
+            "procedimento": "Vírus Andes (pesquisa)"
+        },
+        {
+            "codigo": 1255,
+            "procedimento": "Vírus Banna (pesquisa)"
+        },
+        {
+            "codigo": 1256,
+            "procedimento": "Vírus Bebaru (pesquisa)"
+        },
+        {
+            "codigo": 1257,
+            "procedimento": "Vírus Belgrade (Dobrava) (pesquisa)"
+        },
+        {
+            "codigo": 1258,
+            "procedimento": "Vírus Bhanja (pesquisa)"
+        },
+        {
+            "codigo": 1250,
+            "procedimento": "Vírus Buffalopox vaccinia (pesquisa)"
+        },
+        {
+            "codigo": 1259,
+            "procedimento": "Vírus Bunyamwera (pesquisa)"
+        },
+        {
+            "codigo": 1260,
+            "procedimento": "Vírus Chapare (pesquisa)"
+        },
+        {
+            "codigo": 1261,
+            "procedimento": "Vírus chikungunya (pesquisa)"
+        },
+        {
+            "codigo": 1262,
+            "procedimento": "Vírus Coxsackie (A e B) (pesquisa)"
+        },
+        {
+            "codigo": 1263,
+            "procedimento": "Vírus da conjuntivite hemorrágica aguda (AHC) (pesquisa)"
+        },
+        {
+            "codigo": 1264,
+            "procedimento": "Vírus da coriomeningite linfocítica (pesquisa)"
+        },
+        {
+            "codigo": 1265,
+            "procedimento": "Vírus da dengue tipos 1-4 (pesquisa)"
+        },
+        {
+            "codigo": 1266,
+            "procedimento": "Vírus da doença da floresta Kyasanur (pesquisa)"
+        },
+        {
+            "codigo": 1267,
+            "procedimento": "Vírus da doença de carneiros do Nairóbi (pesquisa)"
+        },
+        {
+            "codigo": 1268,
+            "procedimento": "Vírus da doença lupina (pesquisa)"
+        },
+        {
+            "codigo": 1269,
+            "procedimento": "Vírus da encefalite da Califórnia (pesquisa)"
+        },
+        {
+            "codigo": 1270,
+            "procedimento": "Vírus da encefalite de Murray Valley (pesquisa)"
+        },
+        {
+            "codigo": 1271,
+            "procedimento": "Vírus da encefalite de St. Louis (pesquisa)"
+        },
+        {
+            "codigo": 1272,
+            "procedimento": "Vírus da encefalite do carrapato (pesquisa)"
+        },
+        {
+            "codigo": 1273,
+            "procedimento": "Vírus da encefalite do carrapato da Europa Central (pesquisa)"
+        },
+        {
+            "codigo": 1274,
+            "procedimento": "Vírus da encefalite do carrapato do extremo Oriente (pesquisa)"
+        },
+        {
+            "codigo": 1275,
+            "procedimento": "Vírus da encefalite do carrapato siberiano (pesquisa)"
+        },
+        {
+            "codigo": 1276,
+            "procedimento": "Vírus da encefalite equina do oeste (pesquisa)"
+        },
+        {
+            "codigo": 1277,
+            "procedimento": "Vírus da encefalite japonesa (pesquisa)"
+        },
+        {
+            "codigo": 1278,
+            "procedimento": "Vírus da encefalite primavera-verão russa (pesquisa)"
+        },
+        {
+            "codigo": 1279,
+            "procedimento": "Vírus da estomatite vesicular (pesquisa)"
+        },
+        {
+            "codigo": 1280,
+            "procedimento": "Vírus da família Bunyaviridae (pesquisa)"
+        },
+        {
+            "codigo": 1281,
+            "procedimento": "Vírus da família Caliciviridae (pesquisa)"
+        },
+        {
+            "codigo": 1282,
+            "procedimento": "Vírus da febre amarela (pesquisa)"
+        },
+        {
+            "codigo": 1283,
+            "procedimento": "Vírus da febre com trombocitopenia severa (pesquisa)"
+        },
+        {
+            "codigo": 1284,
+            "procedimento": "Vírus da febre de Lassa (pesquisa)"
+        },
+        {
+            "codigo": 1285,
+            "procedimento": "Vírus da febre de Rift Valley (pesquisa)"
+        },
+        {
+            "codigo": 1286,
+            "procedimento": "Vírus da febre do carrapato do Colorado (pesquisa)"
+        },
+        {
+            "codigo": 1288,
+            "procedimento": "Vírus da febre hemorrágica da Crimeia/Congo (pesquisa)"
+        },
+        {
+            "codigo": 1289,
+            "procedimento": "Vírus da febre hemorrágica de Alkhurma (pesquisa)"
+        },
+        {
+            "codigo": 1287,
+            "procedimento": "Vírus da febre hemorrágica de Omsk (pesquisa)"
+        },
+        {
+            "codigo": 1290,
+            "procedimento": "Vírus da imudeficiência humana - HIV (pesquisa)"
+        },
+        {
+            "codigo": 1291,
+            "procedimento": "Vírus da imudeficiência símia (pesquisa)"
+        },
+        {
+            "codigo": 1292,
+            "procedimento": "Vírus da lebre Snoeshoe (pesquisa)"
+        },
+        {
+            "codigo": 1293,
+            "procedimento": "Vírus da meningite de perus de Israel (pesquisa)"
+        },
+        {
+            "codigo": 1294,
+            "procedimento": "Vírus da meningoencefalomielite (pesquisa)"
+        },
+        {
+            "codigo": 1295,
+            "procedimento": "Vírus da mosca da areia de Naples (pesquisa)"
+        },
+        {
+            "codigo": 1296,
+            "procedimento": "Vírus da varíola bovina (pesquisa)"
+        },
+        {
+            "codigo": 1297,
+            "procedimento": "Vírus das águas brancas de Arroyo (pesquisa)"
+        },
+        {
+            "codigo": 1298,
+            "procedimento": "Vírus Dhori (pesquisa)"
+        },
+        {
+            "codigo": 1299,
+            "procedimento": "Vírus do molusco contagioso (pesquisa)"
+        },
+        {
+            "codigo": 1300,
+            "procedimento": "Vírus do morcego de Lagos (pesquisa)"
+        },
+        {
+            "codigo": 1301,
+            "procedimento": "Vírus Dugbe (pesquisa)"
+        },
+        {
+            "codigo": 1302,
+            "procedimento": "Vírus Duvenhage (pesquisa)"
+        },
+        {
+            "codigo": 1303,
+            "procedimento": "Vírus Everglades (pesquisa)"
+        },
+        {
+            "codigo": 1304,
+            "procedimento": "Vírus Flexal (pesquisa)"
+        },
+        {
+            "codigo": 1305,
+            "procedimento": "Vírus Ganjam (pesquisa)"
+        },
+        {
+            "codigo": 1306,
+            "procedimento": "Vírus Germiston (pesquisa)"
+        },
+        {
+            "codigo": 1307,
+            "procedimento": "Vírus Getah (pesquisa)"
+        },
+        {
+            "codigo": 1308,
+            "procedimento": "Vírus Guanarito (pesquisa)"
+        },
+        {
+            "codigo": 1309,
+            "procedimento": "Vírus Hantaan (pesquisa)"
+        },
+        {
+            "codigo": 1310,
+            "procedimento": "Vírus Hanzalova (pesquisa)"
+        },
+        {
+            "codigo": 1311,
+            "procedimento": "Vírus Hazara (pesquisa)"
+        },
+        {
+            "codigo": 1312,
+            "procedimento": "Vírus Hendra (pesquisa)"
+        },
+        {
+            "codigo": 1313,
+            "procedimento": "Vírus Herpes Simplex 1 e 2 (pesquisa)"
+        },
+        {
+            "codigo": 1314,
+            "procedimento": "Vírus Hypr (pesquisa)"
+        },
+        {
+            "codigo": 1315,
+            "procedimento": "Vírus Influenza A, B e C (pesquisa)"
+        },
+        {
+            "codigo": 1316,
+            "procedimento": "Vírus Ippy (pesquisa)"
+        },
+        {
+            "codigo": 1317,
+            "procedimento": "Vírus Junin (pesquisa)"
+        },
+        {
+            "codigo": 1318,
+            "procedimento": "Vírus Kodoko (pesquisa)"
+        },
+        {
+            "codigo": 1319,
+            "procedimento": "Vírus Kumlinge (pesquisa)"
+        },
+        {
+            "codigo": 1320,
+            "procedimento": "Vírus La Crosse (pesquisa)"
+        },
+        {
+            "codigo": 1321,
+            "procedimento": "Vírus Latino (pesquisa)"
+        },
+        {
+            "codigo": 1322,
+            "procedimento": "Vírus linfotrópico de células T de primatas, tipos 1 e 2 (pesquisa)"
+        },
+        {
+            "codigo": 1323,
+            "procedimento": "Vírus Lujo (pesquisa)"
+        },
+        {
+            "codigo": 1324,
+            "procedimento": "Vírus Machupo (pesquisa)"
+        },
+        {
+            "codigo": 1325,
+            "procedimento": "Vírus Mayaro (pesquisa)"
+        },
+        {
+            "codigo": 1326,
+            "procedimento": "Vírus Merino Walk (pesquisa)"
+        },
+        {
+            "codigo": 1327,
+            "procedimento": "Vírus Middelburg (pesquisa)"
+        },
+        {
+            "codigo": 1328,
+            "procedimento": "Vírus Mobala (pesquisa)"
+        },
+        {
+            "codigo": 1329,
+            "procedimento": "Vírus Mokola (pesquisa)"
+        },
+        {
+            "codigo": 1330,
+            "procedimento": "Vírus Monkeypox (varíola símia) (pesquisa)"
+        },
+        {
+            "codigo": 1331,
+            "procedimento": "Vírus Mopeia (pesquisa)"
+        },
+        {
+            "codigo": 1332,
+            "procedimento": "Vírus Morogoro (pesquisa)"
+        },
+        {
+            "codigo": 1333,
+            "procedimento": "Vírus Mucambo (pesquisa)"
+        },
+        {
+            "codigo": 1334,
+            "procedimento": "Vírus Ndumu (pesquisa)"
+        },
+        {
+            "codigo": 1335,
+            "procedimento": "Vírus Negishi (pesquisa)"
+        },
+        {
+            "codigo": 1336,
+            "procedimento": "Vírus Ngari (pesquisa)"
+        },
+        {
+            "codigo": 1337,
+            "procedimento": "Vírus Nipah (pesquisa)"
+        },
+        {
+            "codigo": 1338,
+            "procedimento": "Vírus Norwalk-like (pesquisa)"
+        },
+        {
+            "codigo": 1339,
+            "procedimento": "Vírus O'nyong-nyong (pesquisa)"
+        },
+        {
+            "codigo": 1340,
+            "procedimento": "Vírus Orf (pesquisa)"
+        },
+        {
+            "codigo": 1341,
+            "procedimento": "Vírus Oropouche (pesquisa)"
+        },
+        {
+            "codigo": 1342,
+            "procedimento": "Vírus Parainfluenza (pesquisa)"
+        },
+        {
+            "codigo": 1343,
+            "procedimento": "Vírus Parana (pesquisa)"
+        },
+        {
+            "codigo": 1344,
+            "procedimento": "Vírus Pichinde (pesquisa)"
+        },
+        {
+            "codigo": 1345,
+            "procedimento": "Vírus Piry (pesquisa)"
+        },
+        {
+            "codigo": 1346,
+            "procedimento": "Vírus Powassan (pesquisa)"
+        },
+        {
+            "codigo": 1347,
+            "procedimento": "Vírus Prospect Hill (pesquisa)"
+        },
+        {
+            "codigo": 1348,
+            "procedimento": "Vírus Pseudocowpox (pseudo varíola bovina) (pesquisa)"
+        },
+        {
+            "codigo": 1349,
+            "procedimento": "Vírus Punta Toro (pesquisa)"
+        },
+        {
+            "codigo": 1350,
+            "procedimento": "Vírus Puumala (pesquisa)"
+        },
+        {
+            "codigo": 1351,
+            "procedimento": "Vírus relacionado à leucemia murina xenotrópico (pesquisa)"
+        },
+        {
+            "codigo": 1352,
+            "procedimento": "Vírus Rocio (pesquisa)"
+        },
+        {
+            "codigo": 1353,
+            "procedimento": "Vírus Ross River (pesquisa)"
+        },
+        {
+            "codigo": 1354,
+            "procedimento": "Vírus Sabia (pesquisa)"
+        },
+        {
+            "codigo": 1355,
+            "procedimento": "Vírus Sal Vieja (pesquisa)"
+        },
+        {
+            "codigo": 1356,
+            "procedimento": "Vírus San Perlita (pesquisa)"
+        },
+        {
+            "codigo": 1357,
+            "procedimento": "Vírus sem nome ou de Muerto Canyon (pesquisa)"
+        },
+        {
+            "codigo": 1358,
+            "procedimento": "Vírus Seoul (pesquisa)"
+        },
+        {
+            "codigo": 1359,
+            "procedimento": "Vírus Símio 40 (SV40) (pesquisa)"
+        },
+        {
+            "codigo": 1360,
+            "procedimento": "Vírus sincicial respiratório - Elisa - IgG"
+        },
+        {
+            "codigo": 1368,
+            "procedimento": "Vírus sincicial respiratório (pesquisa)"
+        },
+        {
+            "codigo": 1417,
+            "procedimento": "Vírus sincicial respiratório (sorologia)"
+        },
+        {
+            "codigo": 1361,
+            "procedimento": "Vírus sincicial respiratório humano (pesquisa)"
+        },
+        {
+            "codigo": 1369,
+            "procedimento": "Vírus Tamiami (pesquisa)"
+        },
+        {
+            "codigo": 1362,
+            "procedimento": "Vírus Thogoto (pesquisa)"
+        },
+        {
+            "codigo": 1363,
+            "procedimento": "Vírus Torque teno (TTV) (pesquisa)"
+        },
+        {
+            "codigo": 1364,
+            "procedimento": "Vírus Toscana (pesquisa)"
+        },
+        {
+            "codigo": 1365,
+            "procedimento": "Vírus tumorais do macaco Yaba (pesquisa)"
+        },
+        {
+            "codigo": 1366,
+            "procedimento": "Vírus varíola (maior e menor) (pesquisa)"
+        },
+        {
+            "codigo": 1367,
+            "procedimento": "Vírus Wesselsbron (pesquisa)"
+        },
+        {
+            "codigo": 1370,
+            "procedimento": "Vitamina A"
+        },
+        {
+            "codigo": 1371,
+            "procedimento": "Vitamina B1"
+        },
+        {
+            "codigo": 1372,
+            "procedimento": "Vitamina B12"
+        },
+        {
+            "codigo": 1373,
+            "procedimento": "Vitamina B2"
+        },
+        {
+            "codigo": 1374,
+            "procedimento": "Vitamina B3"
+        },
+        {
+            "codigo": 1375,
+            "procedimento": "Vitamina B6"
+        },
+        {
+            "codigo": 1376,
+            "procedimento": "Vitamina D2"
+        },
+        {
+            "codigo": 1418,
+            "procedimento": "Vitamina D3"
+        },
+        {
+            "codigo": 1377,
+            "procedimento": "Vitamina E"
+        },
+        {
+            "codigo": 1378,
+            "procedimento": "Vitamina K"
+        },
+        {
+            "codigo": 1379,
+            "procedimento": "Waaler-Rose (fator reumatóide)"
+        },
+        {
+            "codigo": 1380,
+            "procedimento": "Weil Felix (Ricketsiose)"
+        },
+        {
+            "codigo": 1381,
+            "procedimento": "Western blot (anticorpos anti-HIV)"
+        },
+        {
+            "codigo": 1382,
+            "procedimento": "Western blot (anticorpos anti-HTV-I ou HTLV-II)"
+        },
+        {
+            "codigo": 1383,
+            "procedimento": "Widal, reação de"
+        },
+        {
+            "codigo": 1384,
+            "procedimento": "Wuchereria (pesquisa)"
+        },
+        {
+            "codigo": 1385,
+            "procedimento": "X frágil (pesquisa)"
+        },
+        {
+            "codigo": 1386,
+            "procedimento": "Xileno sanguíneo"
+        },
+        {
+            "codigo": 1387,
+            "procedimento": "Xilose, teste de absorção à"
+        },
+        {
+            "codigo": 1388,
+            "procedimento": "Xylohypha (pesquisa)"
+        },
+        {
+            "codigo": 1389,
+            "procedimento": "Yersinia (pesquisa)"
+        },
+        {
+            "codigo": 1390,
+            "procedimento": "Yersinia pestis (pesquisa)"
+        },
+        {
+            "codigo": 1391,
+            "procedimento": "Zika vírus (pesquisa)"
+        },
+        {
+            "codigo": 1392,
+            "procedimento": "Zika vírus (sorologia)"
+        },
+        {
+            "codigo": 1393,
+            "procedimento": "Zinco"
+        },
+        {
+            "codigo": 1394,
+            "procedimento": "Zinco urinário"
+        },
+        {
+            "codigo": 1395,
+            "procedimento": "Zircônio urinário"
+        },
+        {
+            "codigo": 1396,
+            "procedimento": "α-fluoro-β-alanine (FBAL)"
+        },
+        {
+            "codigo": 1397,
+            "procedimento": "α-naftol"
+        },
+        {
+            "codigo": 1992,
+            "procedimento": "Detecção de agente químico não especificado anteriormente"
+        },
+        {
+            "codigo": 1993,
+            "procedimento": "Detecção de agentes infecciosos não especificados anteriormente por ELISA"
+        },
+        {
+            "codigo": 1994,
+            "procedimento": "Detecção de agentes infecciosos não especificados anteriormente por imunofluorescência"
+        },
+        {
+            "codigo": 1995,
+            "procedimento": "Detecção de agentes infecciosos não especificados anteriormente por métodos sorológicos"
+        },
+        {
+            "codigo": 1996,
+            "procedimento": "Detecção de agentes infecciosos não especificados anteriormente por PCR"
+        },
+        {
+            "codigo": 1997,
+            "procedimento": "Detecção de agentes infecciosos não especificados anteriormente por western blot"
+        },
+        {
+            "codigo": 1998,
+            "procedimento": "Detecção de medicamento não especificado anteriormente"
+        },
+        {
+            "codigo": 9999,
+            "procedimento": "Outros procedimentos diagnósticos não descritos anteriormente"
+        }
+    ]
+}

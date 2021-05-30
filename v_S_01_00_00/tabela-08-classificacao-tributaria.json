@@ -1,0 +1,77 @@
+{
+    "name": "Tabela 08 - Classificação Tributária",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "Empresa enquadrada no regime de tributação Simples Nacional com tributação previdenciária substituída"
+        },
+        {
+            "codigo": 2,
+            "descricao": "Empresa enquadrada no regime de tributação Simples Nacional com tributação previdenciária não substituída"
+        },
+        {
+            "codigo": 3,
+            "descricao": "Empresa enquadrada no regime de tributação Simples Nacional com tributação previdenciária substituída e não substituída"
+        },
+        {
+            "codigo": 4,
+            "descricao": "Microempreendedor Individual - MEI"
+        },
+        {
+            "codigo": 6,
+            "descricao": "Agroindústria"
+        },
+        {
+            "codigo": 7,
+            "descricao": "Produtor rural Pessoa Jurídica"
+        },
+        {
+            "codigo": 9,
+            "descricao": "Órgão Gestor de Mão de Obra - OGMO"
+        },
+        {
+            "codigo": 10,
+            "descricao": "Entidade sindical a que se refere a Lei 12.023/2009"
+        },
+        {
+            "codigo": 11,
+            "descricao": "Associação desportiva que mantém clube de futebol profissional"
+        },
+        {
+            "codigo": 13,
+            "descricao": "Banco, caixa econômica, sociedade de crédito, financiamento e investimento e demais empresas relacionadas no parágrafo 1º do art. 22 da Lei 8.212/1991"
+        },
+        {
+            "codigo": 14,
+            "descricao": "Sindicatos em geral, exceto aquele classificado no código [10]"
+        },
+        {
+            "codigo": 21,
+            "descricao": "Pessoa Física, exceto segurado especial"
+        },
+        {
+            "codigo": 22,
+            "descricao": "Segurado especial, inclusive quando for empregador doméstico"
+        },
+        {
+            "codigo": 60,
+            "descricao": "Missão diplomática ou repartição consular de carreira estrangeira"
+        },
+        {
+            "codigo": 70,
+            "descricao": "Empresa de que trata o Decreto 5.436/2005"
+        },
+        {
+            "codigo": 80,
+            "descricao": "Entidade beneficente de assistência social isenta de contribuições sociais"
+        },
+        {
+            "codigo": 85,
+            "descricao": "Administração direta da União, Estados, Distrito Federal e Municípíos; autarquias e fundações públicas"
+        },
+        {
+            "codigo": 99,
+            "descricao": "Pessoas Jurídicas em geral"
+        }
+    ]
+}

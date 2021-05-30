@@ -1,0 +1,21 @@
+{
+    "name": "Tabela 02 - Financiamento da Aposentadoria Especial e Redução do Tempo de Contribuição",
+    "content": [
+        {
+            "codigo": 1,
+            "descricao": "Não ensejador de aposentadoria especial"
+        },
+        {
+            "codigo": 2,
+            "descricao": "Ensejador de aposentadoria especial - FAE15_12% (15 anos de contribuição e alíquota de 12%)"
+        },
+        {
+            "codigo": 3,
+            "descricao": "Ensejador de aposentadoria especial - FAE20_09% (20 anos de contribuição e alíquota de 9%)"
+        },
+        {
+            "codigo": 4,
+            "descricao": "Ensejador de aposentadoria especial - FAE25_06% (25 anos de contribuição e alíquota de 6%)"
+        }
+    ]
+}

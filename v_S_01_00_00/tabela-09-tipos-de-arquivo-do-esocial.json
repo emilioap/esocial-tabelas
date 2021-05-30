@@ -1,0 +1,251 @@
+{
+    "name": "Tabela 09 - Tipos de Arquivo do eSocial",
+    "content": [
+        {
+            "codigo": "S-1000",
+            "descricao": "Informações do Empregador/Contribuinte/Órgão Público",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1005",
+            "descricao": "Tabela de Estabelecimentos, Obras ou Unidades de Órgãos Públicos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1010",
+            "descricao": "Tabela de Rubricas",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1020",
+            "descricao": "Tabela de Lotações Tributárias",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1070",
+            "descricao": "Tabela de Processos Administrativos/Judiciais",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1200",
+            "descricao": "Remuneração de Trabalhador vinculado ao Regime Geral de Previd. Social",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1202",
+            "descricao": "Remuneração de Servidor vinculado ao Regime Próprio de Previd. Social",
+            "inicio": "08/04/2022",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1207",
+            "descricao": "Benefícios - Entes Públicos",
+            "inicio": "08/04/2022",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1210",
+            "descricao": "Pagamentos de Rendimentos do Trabalho",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1260",
+            "descricao": "Comercialização da Produção Rural Pessoa Física",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1270",
+            "descricao": "Contratação de Trabalhadores Avulsos Não Portuários",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1280",
+            "descricao": "Informações Complementares aos Eventos Periódicos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1298",
+            "descricao": "Reabertura dos Eventos Periódicos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-1299",
+            "descricao": "Fechamento dos Eventos Periódicos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2190",
+            "descricao": "Registro Preliminar de Trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2200",
+            "descricao": "Cadastramento Inicial do Vínculo e Admissão/Ingresso de Trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2205",
+            "descricao": "Alteração de Dados Cadastrais do Trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2206",
+            "descricao": "Alteração de Contrato de Trabalho/Relação Estatutária",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2210",
+            "descricao": "Comunicação de Acidente de Trabalho",
+            "inicio": "08/06/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2220",
+            "descricao": "Monitoramento da Saúde do Trabalhador",
+            "inicio": "08/06/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2230",
+            "descricao": "Afastamento Temporário",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2231",
+            "descricao": "Cessão/Exercício em Outro Órgão",
+            "inicio": "10/05/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2240",
+            "descricao": "Condições Ambientais do Trabalho - Agentes Nocivos",
+            "inicio": "08/06/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2298",
+            "descricao": "Reintegração/Outros Provimentos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2299",
+            "descricao": "Desligamento",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2300",
+            "descricao": "Trabalhador Sem Vínculo de Emprego/Estatutário - Início",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2306",
+            "descricao": "Trabalhador Sem Vínculo de Emprego/Estatutário - Alteração Contratual",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2399",
+            "descricao": "Trabalhador Sem Vínculo de Emprego/Estatutário - Término",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2400",
+            "descricao": "Cadastro de Beneficiário - Entes Públicos - Início",
+            "inicio": "08/11/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2405",
+            "descricao": "Cadastro de Beneficiário - Entes Públicos - Alteração",
+            "inicio": "08/11/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2410",
+            "descricao": "Cadastro de Benefício - Entes Públicos - Início",
+            "inicio": "08/11/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2416",
+            "descricao": "Cadastro de Benefício - Entes Públicos - Alteração",
+            "inicio": "08/11/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2418",
+            "descricao": "Reativação de Benefício - Entes Públicos",
+            "inicio": "08/11/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-2420",
+            "descricao": "Cadastro de Benefício - Entes Públicos - Término",
+            "inicio": "08/11/2021",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-3000",
+            "descricao": "Exclusão de Eventos",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-5001",
+            "descricao": "Informações das Contribuições Sociais por Trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-5002",
+            "descricao": "Imposto de Renda Retido na Fonte por Trabalhador",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-5003",
+            "descricao": "Informações do FGTS por Trabalhador",
+            "inicio": "01/05/2018",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-5011",
+            "descricao": "Informações das Contribuições Sociais Consolidadas por Contribuinte",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-5013",
+            "descricao": "Informações do FGTS Consolidadas por Contribuinte",
+            "inicio": "01/05/2018",
+            "termino": "-"
+        },
+        {
+            "codigo": "S-8299",
+            "descricao": "Baixa Judicial do Vínculo",
+            "inicio": "20/09/2019",
+            "termino": "-"
+        }
+    ]
+}
