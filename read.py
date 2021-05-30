@@ -34,12 +34,11 @@ def read_esocial_tabelas(path, url):
         if re.sub('[^0-9]', '', table_name) in ['11', '12', '22',]:
             header = 2
         table = pd.read_html(str(tables[n]), header=header)[0]
-        table.columns = [unidecode.unidecode(c).lower() for c in table.columns]
+        table.columns = [slugify(c) for c in table.columns]
          
         dictionary = {
             'name': table_name, 
             'content': table.to_dict(orient='records')}
-
 
         if not os.path.exists(path):
             os.makedirs(path)

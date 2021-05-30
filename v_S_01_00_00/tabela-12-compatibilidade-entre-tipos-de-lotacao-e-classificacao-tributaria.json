@@ -2,7 +2,7 @@
     "name": "Tabela 12 - Compatibilidade entre Tipos de Lotação e Classificação Tributária",
     "content": [
         {
-            "tipo de lotacao": 1,
+            "tipo-de-lotacao": 1,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -24,7 +24,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 2,
+            "tipo-de-lotacao": 2,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -46,7 +46,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 3,
+            "tipo-de-lotacao": 3,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -68,7 +68,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 4,
+            "tipo-de-lotacao": 4,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -90,7 +90,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 5,
+            "tipo-de-lotacao": 5,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -112,7 +112,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 6,
+            "tipo-de-lotacao": 6,
             "01": "N",
             "02": "N",
             "03": "N",
@@ -134,7 +134,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 7,
+            "tipo-de-lotacao": 7,
             "01": "N",
             "02": "N",
             "03": "N",
@@ -156,7 +156,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 8,
+            "tipo-de-lotacao": 8,
             "01": "N",
             "02": "N",
             "03": "N",
@@ -178,7 +178,7 @@
             "99": "N"
         },
         {
-            "tipo de lotacao": 9,
+            "tipo-de-lotacao": 9,
             "01": "N",
             "02": "N",
             "03": "N",
@@ -200,7 +200,7 @@
             "99": "N"
         },
         {
-            "tipo de lotacao": 10,
+            "tipo-de-lotacao": 10,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -222,7 +222,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 21,
+            "tipo-de-lotacao": 21,
             "01": "N",
             "02": "N",
             "03": "N",
@@ -244,7 +244,7 @@
             "99": "N"
         },
         {
-            "tipo de lotacao": 24,
+            "tipo-de-lotacao": 24,
             "01": "N",
             "02": "N",
             "03": "N",
@@ -266,7 +266,7 @@
             "99": "N"
         },
         {
-            "tipo de lotacao": 90,
+            "tipo-de-lotacao": 90,
             "01": "S",
             "02": "S",
             "03": "S",
@@ -288,7 +288,7 @@
             "99": "S"
         },
         {
-            "tipo de lotacao": 91,
+            "tipo-de-lotacao": 91,
             "01": "S",
             "02": "S",
             "03": "S",

@@ -4,1688 +4,1688 @@
         {
             "codigo": 8,
             "nome": "Abu Dhabi",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 9,
             "nome": "Dirce",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 13,
             "nome": "Afeganistão",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 15,
             "nome": "Aland, Ilhas",
-            "data de criacao *": "07/12/2015",
-            "data de extincao **": "-"
+            "data-de-criacao": "07/12/2015",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 17,
             "nome": "Albania, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 20,
             "nome": "Alboran-Perejil, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 23,
             "nome": "Alemanha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 25,
             "nome": "Alemanha, República Democrática",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 31,
             "nome": "Burkina Faso",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 37,
             "nome": "Andorra",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 40,
             "nome": "Angola",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 41,
             "nome": "Anguilla",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 42,
             "nome": "Antártica",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 43,
             "nome": "Antígua e Barbuda",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 47,
             "nome": "Antilhas Holandesas",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 53,
             "nome": "Arábia Saudita",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 59,
             "nome": "Argélia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 63,
             "nome": "Argentina",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 64,
             "nome": "Armênia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 65,
             "nome": "Aruba",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 69,
             "nome": "Austrália",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 72,
             "nome": "Áustria",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 73,
             "nome": "Azerbaijão, República do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 77,
             "nome": "Bahamas, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 80,
             "nome": "Bahrein, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 81,
             "nome": "Bangladesh",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 83,
             "nome": "Barbados",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 85,
             "nome": "Belarus, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 87,
             "nome": "Bélgica",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 88,
             "nome": "Belize",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 90,
             "nome": "Bermudas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 93,
             "nome": "Mianmar (Birmânia)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 97,
             "nome": "Bolívia, Estado Plurinacional da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 98,
             "nome": "Bósnia-Herzegovina, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 99,
             "nome": "Bonaire, Saint Eustatius e Saba",
-            "data de criacao *": "07/12/2015",
-            "data de extincao **": "-"
+            "data-de-criacao": "07/12/2015",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 100,
             "nome": "Int. Z. F. Manaus",
-            "data de criacao *": "01/12/1991",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "01/12/1991",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 101,
             "nome": "Botsuana",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 102,
             "nome": "Bouvet, Ilha",
-            "data de criacao *": "07/12/2015",
-            "data de extincao **": "-"
+            "data-de-criacao": "07/12/2015",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 105,
             "nome": "Brasil",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 106,
             "nome": "Fretado p/ Brasil",
-            "data de criacao *": "01/12/1991",
-            "data de extincao **": "14/11/1996"
+            "data-de-criacao": "01/12/1991",
+            "data-de-extincao": "14/11/1996"
         },
         {
             "codigo": 108,
             "nome": "Brunei",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 111,
             "nome": "Bulgária, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 115,
             "nome": "Burundi",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 119,
             "nome": "Butão",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 127,
             "nome": "Cabo Verde, República de",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 131,
             "nome": "Cachemira",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 137,
             "nome": "Cayman, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 141,
             "nome": "Camboja",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 145,
             "nome": "Camarões",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 149,
             "nome": "Canadá",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 150,
             "nome": "Ilhas do Canal (Jersey e Guernsey)",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 151,
             "nome": "Canárias, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 152,
             "nome": "Canal, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 153,
             "nome": "Cazaquistão, República do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 154,
             "nome": "Catar",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 158,
             "nome": "Chile",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 160,
             "nome": "China, República Popular",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 161,
             "nome": "Formosa (Taiwan)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 163,
             "nome": "Chipre",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 165,
             "nome": "Cocos (Keeling), Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 169,
             "nome": "Colômbia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 173,
             "nome": "Comores, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 177,
             "nome": "Congo",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 183,
             "nome": "Cook, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 187,
             "nome": "Coreia (do Norte), Rep. Pop. Democrática",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 190,
             "nome": "Coreia (do Sul), República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 193,
             "nome": "Costa do Marfim",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 195,
             "nome": "Croácia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 196,
             "nome": "Costa Rica",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 198,
             "nome": "Kuwait",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 199,
             "nome": "Cuba",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 200,
             "nome": "Curacao",
-            "data de criacao *": "07/12/2015",
-            "data de extincao **": "-"
+            "data-de-criacao": "07/12/2015",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 229,
             "nome": "Benin",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 232,
             "nome": "Dinamarca",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 235,
             "nome": "Dominica, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 237,
             "nome": "Dubai",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 239,
             "nome": "Equador",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 240,
             "nome": "Egito",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 243,
             "nome": "Eritreia",
-            "data de criacao *": "17/07/2006",
-            "data de extincao **": "-"
+            "data-de-criacao": "17/07/2006",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 244,
             "nome": "Emirados Árabes Unidos",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 245,
             "nome": "Espanha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 246,
             "nome": "Eslovênia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 247,
             "nome": "Eslovaca, República",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 249,
             "nome": "Estados Unidos",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 251,
             "nome": "Estônia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 253,
             "nome": "Etiópia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 255,
             "nome": "Falkland (Ilhas Malvinas)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 259,
             "nome": "Feroe, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 263,
             "nome": "Fezzan",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 267,
             "nome": "Filipinas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 271,
             "nome": "Finlândia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 275,
             "nome": "França",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 281,
             "nome": "Gabão",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 285,
             "nome": "Gâmbia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 289,
             "nome": "Gana",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 291,
             "nome": "Geórgia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 292,
             "nome": "Geórgia do Sul e Sandwich do Sul, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 293,
             "nome": "Gibraltar",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 297,
             "nome": "Granada",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 301,
             "nome": "Grécia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 305,
             "nome": "Groenlândia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 309,
             "nome": "Guadalupe",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 313,
             "nome": "Guam",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 317,
             "nome": "Guatemala",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 321,
             "nome": "Guernsey",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 325,
             "nome": "Guiana Francesa",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 329,
             "nome": "Guiné",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 331,
             "nome": "Guiné-Equatorial",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 334,
             "nome": "Guiné-Bissau",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 337,
             "nome": "Guiana",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 341,
             "nome": "Haiti",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 343,
             "nome": "Heard e Ilhas McDonald, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 345,
             "nome": "Honduras",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 351,
             "nome": "Hong Kong",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 355,
             "nome": "Hungria, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 357,
             "nome": "Iêmen",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 358,
             "nome": "Iêmen do Sul",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 359,
             "nome": "Man, Ilha de",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 361,
             "nome": "Índia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 365,
             "nome": "Indonésia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 367,
             "nome": "Inglaterra",
-            "data de criacao *": "-",
-            "data de extincao **": "18/03/1997"
+            "data-de-criacao": "-",
+            "data-de-extincao": "18/03/1997"
         },
         {
             "codigo": 369,
             "nome": "Iraque",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 372,
             "nome": "Irã, República Islâmica do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 375,
             "nome": "Irlanda",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 379,
             "nome": "Islândia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 383,
             "nome": "Israel",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 386,
             "nome": "Itália",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 388,
             "nome": "Sérvia e Montenegro",
-            "data de criacao *": "-",
-            "data de extincao **": "21/11/2013"
+            "data-de-criacao": "-",
+            "data-de-extincao": "21/11/2013"
         },
         {
             "codigo": 391,
             "nome": "Jamaica",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 393,
             "nome": "Jersey",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 395,
             "nome": "Jammu",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 396,
             "nome": "Johnston, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 399,
             "nome": "Japão",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 403,
             "nome": "Jordânia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 411,
             "nome": "Kiribati",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 420,
             "nome": "Laos, Rep. Pop. Democr. do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 423,
             "nome": "Lebuan, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 426,
             "nome": "Lesoto",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 427,
             "nome": "Letônia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 431,
             "nome": "Líbano",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 434,
             "nome": "Libéria",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 438,
             "nome": "Líbia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 440,
             "nome": "Liechtenstein",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 442,
             "nome": "Lituânia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 445,
             "nome": "Luxemburgo",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 447,
             "nome": "Macau",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 449,
             "nome": "Macedônia do Norte",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 450,
             "nome": "Madagascar",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 452,
             "nome": "Ilha da Madeira",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 455,
             "nome": "Malásia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 458,
             "nome": "Malavi",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 461,
             "nome": "Maldivas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 464,
             "nome": "Mali",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 467,
             "nome": "Malta",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 472,
             "nome": "Marianas do Norte",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 474,
             "nome": "Marrocos",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 476,
             "nome": "Marshall, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 477,
             "nome": "Martinica",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 485,
             "nome": "Maurício",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 488,
             "nome": "Mauritânia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 489,
             "nome": "Mayotte",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 490,
             "nome": "Midway, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 493,
             "nome": "México",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 494,
             "nome": "Moldávia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 495,
             "nome": "Mônaco",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 497,
             "nome": "Mongólia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 498,
             "nome": "Montenegro",
-            "data de criacao *": "03/06/2006",
-            "data de extincao **": "-"
+            "data-de-criacao": "03/06/2006",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 499,
             "nome": "Micronésia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 501,
             "nome": "Montserrat, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 505,
             "nome": "Moçambique",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 507,
             "nome": "Namíbia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 508,
             "nome": "Nauru",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 511,
             "nome": "Christmas, Ilha (Navidad)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 517,
             "nome": "Nepal",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 521,
             "nome": "Nicarágua",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 525,
             "nome": "Níger",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 528,
             "nome": "Nigéria",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 531,
             "nome": "Niue, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 535,
             "nome": "Norfolk, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 538,
             "nome": "Noruega",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 542,
             "nome": "Nova Caledônia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 545,
             "nome": "Papua Nova Guiné",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 548,
             "nome": "Nova Zelândia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 551,
             "nome": "Vanuatu",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 556,
             "nome": "Omã",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 563,
             "nome": "Pacífico, Ilhas do (Administração dos EUA)",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 566,
             "nome": "Pacífico, Ilhas do (Possessão dos EUA)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 569,
             "nome": "Pacífico, Ilhas do (Território em Fideicomisso dos)",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 573,
             "nome": "Paises Baixos (Holanda)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 575,
             "nome": "Palau",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 576,
             "nome": "Paquistão",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 578,
             "nome": "Palestina",
-            "data de criacao *": "25/01/2011",
-            "data de extincao **": "-"
+            "data-de-criacao": "25/01/2011",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 580,
             "nome": "Panamá",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 583,
             "nome": "Papua Nova Guiné",
-            "data de criacao *": "01/12/1991",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "01/12/1991",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 586,
             "nome": "Paraguai",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 589,
             "nome": "Peru",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 593,
             "nome": "Pitcairn, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 599,
             "nome": "Polinésia Francesa",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 603,
             "nome": "Polônia, República da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 607,
             "nome": "Portugal",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 611,
             "nome": "Porto Rico",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 623,
             "nome": "Quênia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 625,
             "nome": "Quirguiz, República",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 628,
             "nome": "Reino Unido",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 640,
             "nome": "República Centro-Africana",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 647,
             "nome": "República Dominicana",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 660,
             "nome": "Reunião, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 665,
             "nome": "Zimbábue",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 670,
             "nome": "Romênia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 675,
             "nome": "Ruanda",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 676,
             "nome": "Rússia, Federacão da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 677,
             "nome": "Salomão, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 678,
             "nome": "Saint Kitts e Nevis",
-            "data de criacao *": "-",
-            "data de extincao **": "27/06/2016"
+            "data-de-criacao": "-",
+            "data-de-extincao": "27/06/2016"
         },
         {
             "codigo": 685,
             "nome": "Saara Ocidental",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 687,
             "nome": "El Salvador",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 690,
             "nome": "Samoa",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 691,
             "nome": "Samoa Americana",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 693,
             "nome": "São Bartolomeu",
-            "data de criacao *": "07/12/2015",
-            "data de extincao **": "-"
+            "data-de-criacao": "07/12/2015",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 695,
             "nome": "São Cristovão e Neves, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 697,
             "nome": "San Marino",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 698,
             "nome": "São Martinho, Ilha de (Parte Francesa)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 699,
             "nome": "São Martinho, Ilha de (Parte Holandesa)",
-            "data de criacao *": "07/12/2015",
-            "data de extincao **": "-"
+            "data-de-criacao": "07/12/2015",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 700,
             "nome": "São Pedro e Miquelon",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 705,
             "nome": "São Vicente e Granadinas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 710,
             "nome": "Santa Helena",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 715,
             "nome": "Santa Lúcia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 720,
             "nome": "Sao Tomé e Príncipe, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 728,
             "nome": "Senegal",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 731,
             "nome": "Seychelles",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 735,
             "nome": "Serra Leoa",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 737,
             "nome": "Sérvia",
-            "data de criacao *": "03/06/2006",
-            "data de extincao **": "-"
+            "data-de-criacao": "03/06/2006",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 738,
             "nome": "Sikkim",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 741,
             "nome": "Cingapura",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 744,
             "nome": "Síria, República Árabe da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 748,
             "nome": "Somália",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 750,
             "nome": "Sri Lanka",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 754,
             "nome": "eSwatini",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 755,
             "nome": "Svalbard e Jan Mayen",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 756,
             "nome": "África do Sul",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 759,
             "nome": "Sudão",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 760,
             "nome": "Sudão do Sul",
-            "data de criacao *": "27/05/2013",
-            "data de extincao **": "-"
+            "data-de-criacao": "27/05/2013",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 764,
             "nome": "Suécia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 767,
             "nome": "Suíça",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 770,
             "nome": "Suriname",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 772,
             "nome": "Tadjiquistão, República do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 776,
             "nome": "Tailândia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 780,
             "nome": "Tanzânia, Rep. Unida da",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 781,
             "nome": "Terras Austrais Francesas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 782,
             "nome": "Território Brit. Oc. Índico",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 783,
             "nome": "Djibuti",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 785,
             "nome": "Território da Alta Comissão do Pacífico Ocidental",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 788,
             "nome": "Chade",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 790,
             "nome": "Tchecoslováquia",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 791,
             "nome": "Tcheca, República",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 795,
             "nome": "Timor Leste",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 800,
             "nome": "Togo",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 805,
             "nome": "Toquelau, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 810,
             "nome": "Tonga",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 815,
             "nome": "Trinidad e Tobago",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 820,
             "nome": "Tunísia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 823,
             "nome": "Turcas e Caicos, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 824,
             "nome": "Turcomenistão, República do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 827,
             "nome": "Turquia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 828,
             "nome": "Tuvalu",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 831,
             "nome": "Ucrânia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 833,
             "nome": "Uganda",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 840,
             "nome": "Uniao das Repúblicas Socialistas Soviéticas",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 845,
             "nome": "Uruguai",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 847,
             "nome": "Uzbequistao, República do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 848,
             "nome": "Vaticano, Est. da Cidade do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 850,
             "nome": "Venezuela",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 855,
             "nome": "Vietname Norte",
-            "data de criacao *": "-",
-            "data de extincao **": "13/12/1996"
+            "data-de-criacao": "-",
+            "data-de-extincao": "13/12/1996"
         },
         {
             "codigo": 858,
             "nome": "Vietnã",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 863,
             "nome": "Virgens, Ilhas (Britânicas)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 866,
             "nome": "Virgens, Ilhas (EUA)",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 870,
             "nome": "Fiji",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 873,
             "nome": "Wake, Ilha",
-            "data de criacao *": "-",
-            "data de extincao **": "30/04/2018"
+            "data-de-criacao": "-",
+            "data-de-extincao": "30/04/2018"
         },
         {
             "codigo": 875,
             "nome": "Wallis e Futuna, Ilhas",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 888,
             "nome": "Congo, República Democrática do",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 890,
             "nome": "Zâmbia",
-            "data de criacao *": "-",
-            "data de extincao **": "-"
+            "data-de-criacao": "-",
+            "data-de-extincao": "-"
         },
         {
             "codigo": 895,
             "nome": "Zona do Canal do Panamá",
-            "data de criacao *": "-",
-            "data de extincao **": "27/06/2016"
+            "data-de-criacao": "-",
+            "data-de-extincao": "27/06/2016"
         }
     ]
 }
