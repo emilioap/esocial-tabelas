@@ -16,8 +16,7 @@ def save_file(filename, content):
 
 
 def read_esocial_tabelas(path, url):
-    url = 'https://www.gov.br/esocial/pt-br/documentacao-tecnica/leiautes-esocial-nt-01-2021-html/index.html/tabelas.html#05'
-
+    
     r = req.get(url)
     r.encoding = r.apparent_encoding
     html_content = r.text
