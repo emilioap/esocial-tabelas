@@ -50,7 +50,7 @@ def read_esocial_tabelas(path, url):
 if __name__ == "__main__":
     eventos = [
         ['v_S_01_00_00', 
-         'https://www.gov.br/esocial/pt-br/documentacao-tecnica/leiautes-esocial-nt-01-2021-html/index.html/tabelas.html'],
+         'https://www.gov.br/esocial/pt-br/documentacao-tecnica/leiautes-esocial-nt-02-2021-html/index.html/tabelas.html'],
     ]
     for evt in eventos:
         read_esocial_tabelas(evt[0], evt[1])

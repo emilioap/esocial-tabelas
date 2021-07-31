@@ -63,19 +63,19 @@
         },
         {
             "codigo": 200020100,
-            "descricao": "Aprisionamento em, sobre ou entre objetos em movimento convergente"
+            "descricao": "Aprisionamento em, sob ou entre objetos em movimento convergente"
         },
         {
             "codigo": 200020300,
-            "descricao": "Aprisionamento em, sobre ou entre objeto parado e outro em movimento"
+            "descricao": "Aprisionamento em, sob ou entre objeto parado e outro em movimento"
         },
         {
             "codigo": 200020500,
-            "descricao": "Aprisionamento em, sobre ou entre dois ou mais objetos em movimento"
+            "descricao": "Aprisionamento em, sob ou entre dois ou mais objetos em movimento"
         },
         {
             "codigo": 200020700,
-            "descricao": "Aprisionamento em, sobre ou entre desabamento ou desmoronamento"
+            "descricao": "Aprisionamento em, sob ou entre desabamento ou desmoronamento"
         },
         {
             "codigo": 200020900,

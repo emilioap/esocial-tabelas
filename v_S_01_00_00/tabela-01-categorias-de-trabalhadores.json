@@ -124,12 +124,17 @@
         {
             "grupo": "Cessão",
             "codigo": 401,
-            "descricao": "Dirigente Sindical - informação prestada pelo sindicato"
+            "descricao": "Dirigente sindical - Informação prestada pelo sindicato"
         },
         {
             "grupo": "Cessão",
             "codigo": 410,
             "descricao": "Trabalhador cedido/exercício em outro órgão/juiz auxiliar - Informação prestada pelo cessionário/destino"
+        },
+        {
+            "grupo": "Segurado Especial",
+            "codigo": 501,
+            "descricao": "Dirigente sindical - Segurado especial"
         },
         {
             "grupo": "Contribuinte Individual",

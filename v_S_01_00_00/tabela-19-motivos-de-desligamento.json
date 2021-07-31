@@ -103,7 +103,7 @@
             "codigo": 15,
             "descricao": "Rescisão do contrato de aprendizagem por desempenho insuficiente, inadaptação ou ausência injustificada do aprendiz à escola que implique perda do ano letivo",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos, exceto [104]"
         },
         {
@@ -124,34 +124,34 @@
             "codigo": 18,
             "descricao": "Aposentadoria compulsória",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos, exceto [104]"
         },
         {
             "codigo": 19,
             "descricao": "Aposentadoria por idade",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 20,
             "descricao": "Aposentadoria por idade e tempo de contribuição",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 21,
             "descricao": "Reforma militar",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 21,
             "descricao": "Reforma militar",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[307]"
         },
@@ -159,13 +159,13 @@
             "codigo": 22,
             "descricao": "Reserva militar",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 22,
             "descricao": "Reserva militar",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[307]"
         },
@@ -173,13 +173,13 @@
             "codigo": 23,
             "descricao": "Exoneração",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 23,
             "descricao": "Exoneração",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[301, 302, 303, 306, 307, 309, 310, 312]"
         },
@@ -187,13 +187,13 @@
             "codigo": 24,
             "descricao": "Demissão",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 24,
             "descricao": "Demissão",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[301, 302, 303, 306, 307, 309, 310, 312]"
         },
@@ -201,13 +201,13 @@
             "codigo": 25,
             "descricao": "Vacância de cargo efetivo",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "[301, 302, 303, 306, 307, 309]"
         },
         {
             "codigo": 25,
             "descricao": "Vacância de cargo efetivo",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[301, 307]"
         },
@@ -229,20 +229,20 @@
             "codigo": 28,
             "descricao": "Término da cessão/requisição",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos, exceto [104]"
         },
         {
             "codigo": 29,
             "descricao": "Redistribuição",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos, exceto [104]"
         },
         {
             "codigo": 29,
             "descricao": "Redistribuição",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[301, 303, 306, 307, 309]"
         },
@@ -264,13 +264,13 @@
             "codigo": 32,
             "descricao": "Extravio de militar",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos, exceto [104]"
         },
         {
             "codigo": 32,
             "descricao": "Extravio de militar",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[307]"
         },

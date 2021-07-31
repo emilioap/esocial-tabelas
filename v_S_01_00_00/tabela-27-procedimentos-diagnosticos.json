@@ -2159,11 +2159,11 @@
         },
         {
             "codigo": 530,
-            "procedimento": "ECG convencional de até 12 derivações"
+            "procedimento": "ECG (Eletrocardiograma) convencional de até 12 derivações"
         },
         {
             "codigo": 531,
-            "procedimento": "ECG de alta resolução"
+            "procedimento": "ECG (Eletrocardiograma) de alta resolução"
         },
         {
             "codigo": 532,
@@ -2183,7 +2183,7 @@
         },
         {
             "codigo": 536,
-            "procedimento": "EEG de rotina"
+            "procedimento": "EEG (Eletroencefalograma) de rotina"
         },
         {
             "codigo": 537,
@@ -2384,6 +2384,10 @@
         {
             "codigo": 585,
             "procedimento": "Exame de fundo de olho"
+        },
+        {
+            "codigo": 1432,
+            "procedimento": "Exame oftalmológico com avaliação de retina e/ou cristalino"
         },
         {
             "codigo": 586,
@@ -2627,7 +2631,7 @@
         },
         {
             "codigo": 646,
-            "procedimento": "Gad-Ab-antidescarboxilase do ácido"
+            "procedimento": "Gad-Ab-antidescarboxilase do ácido glutâmico"
         },
         {
             "codigo": 647,
@@ -3614,10 +3618,6 @@
             "procedimento": "Métodos diagnósticos por imagem mão ou quirodáctilo"
         },
         {
-            "codigo": 885,
-            "procedimento": "Métodos diagnósticos por imagem não especificados na tabela"
-        },
-        {
             "codigo": 886,
             "procedimento": "Métodos diagnósticos por imagem panorâmica dos membros inferiores"
         },
@@ -4499,7 +4499,7 @@
         },
         {
             "codigo": 1098,
-            "procedimento": "Rotina de urina"
+            "procedimento": "Rotina (sumário) de urina"
         },
         {
             "codigo": 1099,
@@ -4672,10 +4672,6 @@
         {
             "codigo": 1141,
             "procedimento": "Sulfonamidas livre e acetilada (% de acetilação)"
-        },
-        {
-            "codigo": 1106,
-            "procedimento": "Sumário de urina"
         },
         {
             "codigo": 1142,

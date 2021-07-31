@@ -423,8 +423,8 @@
         },
         {
             "codigo": 1619,
-            "nome-da-natureza-da-rubrica": "Ajuda compensatória - Lei 14.020/2020",
-            "descricao-da-natureza-da-rubrica": "Ajuda compensatória paga pelo empregador ao empregado durante período de suspensão do contrato de trabalho ou redução proporcional de salário e jornada, nos termos da Lei 14.020/2020 (conversão da MP 936/2020)",
+            "nome-da-natureza-da-rubrica": "Ajuda compensatória - Programa Emergencial de Manutenção do Emprego e da Renda",
+            "descricao-da-natureza-da-rubrica": "Ajuda compensatória paga pelo empregador ao empregado durante período de suspensão do contrato de trabalho ou redução proporcional de salário e jornada",
             "inicio": "01/04/2020",
             "termino": "-"
         },
@@ -489,7 +489,7 @@
             "nome-da-natureza-da-rubrica": "Alimentação",
             "descricao-da-natureza-da-rubrica": "Auxílio-alimentação",
             "inicio": "01/01/2014",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": 1802,
@@ -536,7 +536,7 @@
         {
             "codigo": 1810,
             "nome-da-natureza-da-rubrica": "Transporte",
-            "descricao-da-natureza-da-rubrica": "Auxílio-transporte",
+            "descricao-da-natureza-da-rubrica": "Auxílio-transporte ou vale-transporte",
             "inicio": "01/01/2014",
             "termino": "-"
         },
@@ -544,6 +544,13 @@
             "codigo": 1899,
             "nome-da-natureza-da-rubrica": "Outros auxílios",
             "descricao-da-natureza-da-rubrica": "Valores relativos a outros auxílios não previstos nos demais itens",
+            "inicio": "01/01/2014",
+            "termino": "-"
+        },
+        {
+            "codigo": 1901,
+            "nome-da-natureza-da-rubrica": "Juros e/ou atualização monetária",
+            "descricao-da-natureza-da-rubrica": "Juros e/ou atualização monetária devidos pelo atraso no pagamento de valores por exercício de emprego, cargo ou função",
             "inicio": "01/01/2014",
             "termino": "-"
         },
@@ -587,6 +594,13 @@
             "nome-da-natureza-da-rubrica": "Vestuário e equipamentos",
             "descricao-da-natureza-da-rubrica": "Valor correspondente a vestuários, equipamentos e outros acessórios fornecidos ao trabalhador e utilizados no local de trabalho para prestação dos respectivos serviços",
             "inicio": "01/01/2014",
+            "termino": "31/07/2021"
+        },
+        {
+            "codigo": 2903,
+            "nome-da-natureza-da-rubrica": "Vestuário e equipamentos",
+            "descricao-da-natureza-da-rubrica": "Valor correspondente a vestuários, equipamentos e outros acessórios quando esses se constituírem em salário utilidade",
+            "inicio": "01/01/2014",
             "termino": "-"
         },
         {
@@ -594,7 +608,7 @@
             "nome-da-natureza-da-rubrica": "Reembolsos diversos",
             "descricao-da-natureza-da-rubrica": "Valor relativo a reembolsos diversos referentes a descontos indevidos efetuados em competências anteriores",
             "inicio": "01/01/2014",
-            "termino": "30/04/2021"
+            "termino": "31/07/2021"
         },
         {
             "codigo": 2930,
@@ -843,8 +857,8 @@
         },
         {
             "codigo": 6119,
-            "nome-da-natureza-da-rubrica": "Indenização rescisória - Lei 14.020/2020",
-            "descricao-da-natureza-da-rubrica": "Indenização pela dispensa sem justa causa que ocorrer durante o período de garantia provisória no emprego de que trata o art. 10 da Lei 14.020/2020 (conversão da MP 936/2020)",
+            "nome-da-natureza-da-rubrica": "Indenização rescisória - Programa Emergencial de Manutenção do Emprego e da Renda",
+            "descricao-da-natureza-da-rubrica": "Indenização pela dispensa sem justa causa que ocorrer durante o período de garantia provisória no emprego de que trata o Programa Emergencial de Manutenção do Emprego e da Renda",
             "inicio": "01/04/2020",
             "termino": "-"
         },
@@ -979,14 +993,14 @@
             "nome-da-natureza-da-rubrica": "Faltas ou atrasos",
             "descricao-da-natureza-da-rubrica": "Desconto correspondente a faltas, atrasos no início da jornada de trabalho ou à saída antecipada do trabalhador",
             "inicio": "01/01/2014",
-            "termino": "30/04/2021"
+            "termino": "-"
         },
         {
             "codigo": 9210,
             "nome-da-natureza-da-rubrica": "DSR s/faltas e atrasos",
             "descricao-da-natureza-da-rubrica": "Desconto correspondente ao Descanso Semanal Remunerado - DSR, calculado sobre faltas e atrasos do trabalhador",
             "inicio": "01/01/2014",
-            "termino": "30/04/2021"
+            "termino": "-"
         },
         {
             "codigo": 9211,
@@ -1049,7 +1063,7 @@
             "nome-da-natureza-da-rubrica": "Alimentação - Desconto",
             "descricao-da-natureza-da-rubrica": "Desconto referente a participação do trabalhador no custo ou em virtude de concessão do benefício em valor maior",
             "inicio": "01/01/2014",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": 9221,
@@ -1203,7 +1217,7 @@
             "nome-da-natureza-da-rubrica": "Desconto de pagamento indevido em meses anteriores",
             "descricao-da-natureza-da-rubrica": "Valor correspondente a desconto de verbas pagas indevidamente ao trabalhador em meses anteriores e que estão sendo descontadas no mês de referência, exceto valores relativos a assistência médica, alimentação, previdência complementar e seguro de vida",
             "inicio": "01/01/2014",
-            "termino": "-"
+            "termino": "31/07/2021"
         },
         {
             "codigo": 9291,

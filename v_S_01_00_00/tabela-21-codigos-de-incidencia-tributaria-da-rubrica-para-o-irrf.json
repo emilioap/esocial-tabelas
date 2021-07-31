@@ -5,13 +5,13 @@
             "codigo": "0",
             "descricao": "Rendimento não tributável",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "1",
             "descricao": "Rendimento não tributável em função de acordos internacionais de bitributação",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "9",
@@ -53,7 +53,7 @@
             "codigo": "15",
             "descricao": "Rendimentos Recebidos Acumuladamente - RRA",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "Retenção do IRRF efetuada sobre:",
@@ -89,7 +89,7 @@
             "codigo": "35",
             "descricao": "Rendimentos Recebidos Acumuladamente - RRA",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "Dedução do rendimento tributável do IRRF:",
@@ -119,7 +119,7 @@
             "codigo": "44",
             "descricao": "PSO - RRA",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "46",
@@ -167,7 +167,7 @@
             "codigo": "55",
             "descricao": "Pensão alimentícia - RRA",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "61",
@@ -269,7 +269,7 @@
             "codigo": "78",
             "descricao": "Valores pagos a titular ou sócio de microempresa ou empresa de pequeno porte, exceto pró-labore e aluguéis",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "700",
@@ -299,19 +299,19 @@
             "codigo": "81",
             "descricao": "Depósito judicial",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "82",
             "descricao": "Compensação judicial do ano-calendário",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "83",
             "descricao": "Compensação judicial de anos anteriores",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "Exigibilidade suspensa - Rendimento tributável (base de cálculo do IR):",
@@ -323,31 +323,31 @@
             "codigo": "91",
             "descricao": "Remuneração mensal",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "92",
             "descricao": "13º salário",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "93",
             "descricao": "Férias",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "94",
             "descricao": "PLR",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "95",
             "descricao": "RRA",
             "inicio": "01/10/2015",
-            "termino": "30/04/2021"
+            "termino": "30/06/2021"
         },
         {
             "codigo": "9011",

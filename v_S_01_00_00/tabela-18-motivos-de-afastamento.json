@@ -40,7 +40,7 @@
             "codigo": 8,
             "descricao": "Afastamento do empregado para participar de atividade do Conselho Curador do FGTS - Art. 65, § 6º, do Decreto 99.684/1990 (Regulamento do FGTS)",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
@@ -66,7 +66,7 @@
         },
         {
             "codigo": 13,
-            "descricao": "Cargo eletivo - Candidato a cargo eletivo - Art. 1°, inciso II, alínea \"l\" da Lei Complementar 64/1990 - Servidor público, estatutário ou não, dos órgãos ou entidades da Administração Direta ou Indireta da União, dos Estados, do Distrito Federal, dos Municípios e dos Territórios, inclusive das fundações mantidas pelo Poder Público",
+            "descricao": "Cargo eletivo - Candidato a cargo eletivo - Art. 1°, inciso II, alínea \"l\", da Lei Complementar 64/1990 - Servidor público, estatutário ou não, dos órgãos ou entidades da Administração Direta ou Indireta da União, dos Estados, do Distrito Federal, dos Municípios e dos Territórios, inclusive das fundações mantidas pelo Poder Público",
             "inicio": "01/01/2014",
             "termino": "-",
             "cod-categ": "[1XX, 3XX]"
@@ -103,13 +103,13 @@
             "codigo": 17,
             "descricao": "Licença maternidade - 120 dias, inclusive para o cônjuge sobrevivente",
             "inicio": "01/07/2018",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
             "codigo": 17,
             "descricao": "Licença maternidade",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "Todos"
         },
@@ -131,13 +131,13 @@
             "codigo": 20,
             "descricao": "Licença maternidade - Afastamento temporário por motivo de licença-maternidade decorrente de adoção ou guarda judicial de criança, inclusive para o cônjuge sobrevivente",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
             "codigo": 20,
             "descricao": "Licença maternidade - Afastamento temporário por motivo de licença-maternidade para o cônjuge sobrevivente ou decorrente de adoção ou de guarda judicial de criança",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "Todos"
         },
@@ -152,13 +152,13 @@
             "codigo": 22,
             "descricao": "Mandato eleitoral - Afastamento temporário para o exercício de mandato eleitoral, sem remuneração",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
             "codigo": 22,
             "descricao": "Mandato eleitoral - Afastamento temporário para o exercício de mandato eleitoral",
-            "inicio": "10/05/2021",
+            "inicio": "19/07/2021",
             "termino": "-",
             "cod-categ": "[1XX, 3XX]"
         },
@@ -166,7 +166,7 @@
             "codigo": 23,
             "descricao": "Mandato eleitoral - Afastamento temporário para o exercício de mandato eleitoral, com remuneração",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
@@ -215,7 +215,7 @@
             "codigo": 30,
             "descricao": "Suspensão disciplinar - Art. 474 da CLT",
             "inicio": "01/01/2014",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
@@ -229,7 +229,7 @@
             "codigo": 33,
             "descricao": "Licença maternidade - 180 dias, Lei 13.301/2016",
             "inicio": "01/06/2016",
-            "termino": "09/05/2021",
+            "termino": "18/07/2021",
             "cod-categ": "Todos"
         },
         {
@@ -255,7 +255,7 @@
         },
         {
             "codigo": 37,
-            "descricao": "Suspensão temporária do contrato de trabalho nos termos da Lei 14.020/2020 (conversão da MP 936/2020)",
+            "descricao": "Suspensão temporária do contrato de trabalho nos termos do Programa Emergencial de Manutenção do Emprego e da Renda",
             "inicio": "01/04/2020",
             "termino": "-",
             "cod-categ": "[1XX]"
