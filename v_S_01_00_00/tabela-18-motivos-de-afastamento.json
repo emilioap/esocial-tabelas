@@ -20,7 +20,7 @@
             "descricao": "Afastamento/licença de servidor público prevista em estatuto, sem remuneração",
             "inicio": "01/01/2014",
             "termino": "-",
-            "cod-categ": "[3XX]"
+            "cod-categ": "[3XX, 410]"
         },
         {
             "codigo": 6,
@@ -48,7 +48,7 @@
             "descricao": "Afastamento/licença de servidor público prevista em estatuto, com remuneração",
             "inicio": "01/01/2014",
             "termino": "-",
-            "cod-categ": "[3XX]"
+            "cod-categ": "[3XX, 410]"
         },
         {
             "codigo": 11,
@@ -266,6 +266,20 @@
             "inicio": "04/04/2020",
             "termino": "-",
             "cod-categ": "[2XX]"
+        },
+        {
+            "codigo": 39,
+            "descricao": "Suspensão de pagamento de servidor público por não recadastramento",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod-categ": "[3XX, 410]"
+        },
+        {
+            "codigo": 40,
+            "descricao": "Exercício em outro órgão de servidor ou empregado público cedido",
+            "inicio": "01/01/2014",
+            "termino": "-",
+            "cod-categ": "[410]"
         }
     ]
 }

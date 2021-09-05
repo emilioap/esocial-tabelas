@@ -1341,7 +1341,7 @@
         {
             "codigo": 9932,
             "nome-da-natureza-da-rubrica": "Auxílio-doença acidentário",
-            "descricao-da-natureza-da-rubrica": "Valor relativo a base de cálculo do FGTS incidente sobre benefício previdenciário pago por Previdência Social Oficial a trabalhador afastado por acidente de trabalho",
+            "descricao-da-natureza-da-rubrica": "Valor relativo a base de cálculo do FGTS referente a afastamento decorrente de acidente de trabalho",
             "inicio": "01/01/2014",
             "termino": "-"
         },

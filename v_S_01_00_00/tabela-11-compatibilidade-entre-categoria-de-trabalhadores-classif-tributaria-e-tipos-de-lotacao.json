@@ -582,7 +582,7 @@
             "classificacao-tributaria": "{classTrib} diferente de [04,21,22]",
             "01": "S",
             "02": "S",
-            "03": "N",
+            "03": "S",
             "04": "S",
             "05": "N",
             "06": "N",
